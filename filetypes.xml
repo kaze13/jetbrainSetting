@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="vm" type="HTML" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="cookies" type="PLAIN_TEXT" />
+      <mapping pattern="list.json" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <removed_mapping ext="vm" type="VTL" />
+    </extensionMap>
+  </component>
+</application>
