@@ -3,237 +3,204 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1452496222823">
+      <file name="$USER_HOME$/Develop/react-slingshot/tools/server.js" timestamp="1452237017591">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/test/reducers/todos.spec.js" timestamp="1452592078105" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/server.js" timestamp="1452592158343" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/preprocessor.js" timestamp="1452585030249" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/index.js" timestamp="1452592918631">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/webpack.config.js" timestamp="1452505015288" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/copy.js" timestamp="1452591024386" />
+      <file name="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc" timestamp="1452677584184" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/components/App/App.js" timestamp="1452591301669" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/node_modules/redux/lib/utils/bindActionCreators.js" timestamp="1452584191830" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/components/ContentPage/ContentPage.js" timestamp="1452584394298" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/Header.js" timestamp="1452675551014">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/TodoFilters.js" timestamp="1452653603150">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/untitled2/package.json" timestamp="1452591703294" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/server.js" timestamp="1452584687450" />
+      <file name="$USER_HOME$/Develop/redux/examples/shopping-cart/api/shop.js" timestamp="1452675689493" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoTextInput.js" timestamp="1452675199318">
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/test/components/Header.spec.js" timestamp="1452592147629" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/build.js" timestamp="1452585051923" />
+      <file name="$USER_HOME$/Develop/react-slingshot/src/reducers/fuelSavings.js" timestamp="1452486865197" />
+      <file name="$USER_HOME$/Develop/react-slingshot/package.json" timestamp="1452236303601" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/deploy.js" timestamp="1452584910224" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/store/configureStore.js" timestamp="1452592187155">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1452674623781">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/redux/examples/shopping-cart/reducers/cart.js" timestamp="1452675483206" />
+      <file name="$USER_HOME$/Develop/react-slingshot/src/index.js" timestamp="1452675857910" />
+      <file name="$USER_HOME$/Develop/redux/examples/shopping-cart/containers/CartContainer.js" timestamp="1452675620931" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/clean.js" timestamp="1452588894500" />
+      <file name="$USER_HOME$/Develop/redux/examples/universal/client/index.js" timestamp="1452591951769" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/node_modules/del/index.js" timestamp="1452588891309" />
+      <file name="$USER_HOME$/Develop/redux/examples/shopping-cart/reducers/products.js" timestamp="1452675938931" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/index.html" timestamp="1452592312379" />
+      <file name="$USER_HOME$/Develop/redux/examples/shopping-cart/actions/index.js" timestamp="1452675658641" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/components/ErrorPage/ErrorPage.js" timestamp="1452584399041" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/start.js" timestamp="1452661143359">
+        <mark key="'" line="13" column="24" />
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/META-INF/context.xml" timestamp="1452677732911">
-        <mark key="]" line="11" column="61" />
-        <mark key="^" line="11" column="61" />
-        <mark key="." line="11" column="61" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/api/content.js" timestamp="1452584476200" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/components/Header/Header.js" timestamp="1452584443713" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/lib/task.js" timestamp="1452588706895" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/Footer.js" timestamp="1452675178662">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/dpp-module.js" timestamp="1452677072527" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/service/spec/ApplicationService.java" timestamp="1452672907319" />
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/access/cassandra-access/2.0.0-SNAPSHOT/cassandra-access-2.0.0-20160113.065911-1278.jar!/com/worksap/company/access/cassandra/setting/CassandraSettingDao.class" timestamp="1452670006300" />
-      <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/util/Properties.java" timestamp="1452247474261" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/Servers/Tomcat v7.0 Server at localhost (2)-config/context.xml" timestamp="1452674351784" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-mq/pom.xml" timestamp="1452667957801" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.3.RELEASE/spring-web-4.2.3.RELEASE-sources.jar!/org/springframework/web/context/ContextLoader.properties" timestamp="1452247496149" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.3.RELEASE/spring-beans-4.2.3.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1452247851342" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/monitor-module.js" timestamp="1452674756273" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/jndi/JndiLocatorSupport.java" timestamp="1452248770871" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.3.RELEASE/spring-web-4.2.3.RELEASE-sources.jar!/org/springframework/web/context/ContextLoaderListener.java" timestamp="1452247422272" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-mq/test/src/main/java/com/worksap/company/framework/mq/test/EmbeddedZookeeper.java" timestamp="1452668019090" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.3.RELEASE/spring-beans-4.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1452250011562" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.3.RELEASE/spring-beans-4.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" timestamp="1452250297543" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/resources/debugConfig.xml" timestamp="1452674906367" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-analyzer.iml" timestamp="1452247135840" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/WEB-INF/view/jsp/template/new.jsp" timestamp="1452496775500">
-        <mark key="]" line="7" column="50" />
-        <mark key="." line="7" column="50" />
-        <mark key="^" line="7" column="50" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/serve.js" timestamp="1452584973931" />
+      <file name="$USER_HOME$/Develop/redux/package.json" timestamp="1452592039403" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/ActionTypes.js" timestamp="1452656049152">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.3.RELEASE/spring-core-4.2.3.RELEASE-sources.jar!/org/springframework/util/ClassUtils.java" timestamp="1452247639625" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/component/useHeatmap/useHeatmap.js" timestamp="1452570763299" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/script/tomcat-context.xml" timestamp="1452670899832" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-mq/test/src/main/java/com/worksap/company/framework/mq/test/EmbeddedKafkaCluster.java" timestamp="1452668180383" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.3.RELEASE/spring-web-4.2.3.RELEASE-sources.jar!/org/springframework/web/context/support/XmlWebApplicationContext.java" timestamp="1452249372085" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/main.js" timestamp="1452674780875" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/jndi/JndiPropertySource.java" timestamp="1452248690515" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-samples/edp2-spring-spark-batch-sample/src/test/resources/debugConfig.xml" timestamp="1452674620712" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-server-side-pom/pom.xml" timestamp="1452667320527" />
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/access/cassandra-access/2.0.0-SNAPSHOT/cassandra-access-2.0.0-20160113.065911-1278.jar!/com/worksap/company/access/cassandra/setting/CassandraSettingFactory.class" timestamp="1452670246182" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.3.RELEASE/spring-core-4.2.3.RELEASE-sources.jar!/org/springframework/core/env/PropertySource.java" timestamp="1452248208195" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/service/spec/JobStatusService.java" timestamp="1452673273071" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/ApplicationContextAwareProcessor.java" timestamp="1452250030950" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-common/src/main/resources/ux-common-context.xml" timestamp="1452675098415" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/service/mock/ResourceMonitorSummaryServiceMock.java" timestamp="1452673768374" />
-      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar!/javax/servlet/ServletContext.java" timestamp="1452247942875" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.3.RELEASE/spring-web-4.2.3.RELEASE-sources.jar!/org/springframework/web/context/support/WebApplicationContextUtils.java" timestamp="1452249013308" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/resources/ux-visualization-context.xml" timestamp="1452658251573" />
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/access/cassandra-access/1.12.1-SNAPSHOT/cassandra-access-1.12.1-20160113.044839-238.jar!/com/worksap/company/access/cassandra/setting/CassandraSettingFactory.class" timestamp="1452670659705" />
-      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar!/javax/servlet/ServletContextListener.java" timestamp="1452247367090" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-dto/src/main/java/com/worksap/company/edp2/dto/jobmanager/CounterDto.java" timestamp="1452671869007" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/jndi/JndiLocatorDelegate.java" timestamp="1452248363962" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/pom.xml" timestamp="1452668898196" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/less/components-clean/essence/mobile-feedback.less" timestamp="1449131661396">
+        <mark key="'" line="7" column="20" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/react-slingshot/src/index.html" timestamp="1452486918461">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/MainSection.js" timestamp="1452675861226">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoItem.js" timestamp="1452594627195">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1452677288652">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/react-slingshot/node_modules/react-redux/lib/index.js" timestamp="1452237145344" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/constants/ActionTypes.js" timestamp="1452584377897" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/test/actions/todos.spec.js" timestamp="1452592028157" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/containers/App.js" timestamp="1452675560956">
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/test/setup.js" timestamp="1452592070135" />
     </filemarks>
-    <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-spark-etl/src/main/java/com/worksap/company/Edp2ETLUserOperationDistributionBatch.java" />
-      <jump line="5" column="16" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/individualService/useHeatmapController.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/individualService/useHeatmapController.js" />
-      <jump line="21" column="27" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/individualService/indivisualServiceTabController.js" />
-      <jump line="72" column="44" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/java/com/worksap/company/visualization/webserver/service/impl/ServiceOverviewServiceImpl.java" />
-      <jump line="24" column="101" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/WEB-INF/view/jsp/template/serviceOverview.jsp" />
-      <jump line="33" column="23" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/components/speedDistributionGraph/speedDistributionGraph.js" />
-      <jump line="17" column="9" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/less/common.less" />
-      <jump line="18" column="15" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/less/service-overview.less" />
-      <jump line="47" column="6" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/components/speedDistributionGraph/speedDistributionGraph.js" />
-      <jump line="27" column="8" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/components/analysisGraph/analysisGraph.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/less/dashboard.less" />
-      <jump line="15" column="0" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/less/operation-tracking.less" />
-      <jump line="10" column="0" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/less/admin.less" />
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/components/menuClose.js" />
-      <jump line="94" column="30" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="3" column="27" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="19" column="3" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="20" column="23" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="21" column="49" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="24" column="19" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="29" column="21" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="36" column="13" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="37" column="13" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="49" column="39" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="50" column="101" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="5" column="9" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="10" column="4" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/headerController.js" />
-      <jump line="4" column="12" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/chart/common/graphCreator.js" />
-      <jump line="3" column="4" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/chart/common/graphCreator.js" />
-      <jump line="8" column="20" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/dashboard/dashboardFrequencyChartController.js" />
-      <jump line="10" column="23" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/dashboard/dashboardFrequencyChartController.js" />
-      <jump line="2" column="129" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/dashboard/dashboardFrequencyChartController.js" />
-      <jump line="9" column="8" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/dashboard/dashboardFrequencyChartController.js" />
-      <jump line="24" column="49" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/dashboard/dashboardFrequencyChartController.js" />
-      <jump line="3" column="42" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/header/ContentHeaderController.js" />
-      <jump line="18" column="41" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/components/chartCard/graphCreator.js" />
-      <jump line="2" column="4" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/components/chartCard/graphDataConverter_old.js" />
-      <jump line="3" column="12" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/components/chartCard/graphDataConverter_old.js" />
-      <jump line="78" column="6" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/components/chartCard/graphDataConverter.js" />
-      <jump line="86" column="14" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/components/chartCard/graphDataConverter.js" />
-      <jump line="39" column="6" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/components/chartCard/graphDataConverter.js" />
-      <jump line="2" column="26" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/dashboard/dashboardUniqueUserChartController.js" />
-      <jump line="10" column="9" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/module/dashboard/dashboardUniqueUserChartController.js" />
-      <jump line="40" column="6" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/component/chartCard/graphDataConverter.js" />
-      <jump line="50" column="16" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/src/main/webapp/js/app/component/chartCard/graphDataConverter.js" />
-      <jump line="37" column="25" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-common/src/main/java/com/worksap/company/ComponentDtoChecker.java" />
-      <jump line="65" column="46" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/IocApplication.java" />
-      <jump line="117" column="15" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="109" column="30" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="532" column="31" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="533" column="23" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="534" column="25" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="541" column="14" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="544" column="48" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="545" column="23" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="546" column="58" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="547" column="13" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="754" column="23" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="756" column="21" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="757" column="15" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="826" column="36" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="64" column="22" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="529" column="14" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/Blade.java" />
-      <jump line="140" column="15" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/loader/Config.java" />
-      <jump line="143" column="38" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/loader/Config.java" />
-      <jump line="144" column="27" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/loader/Config.java" />
-      <jump line="37" column="25" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/loader/Config.java" />
-      <jump line="131" column="39" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/loader/Config.java" />
-      <jump line="132" column="15" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/loader/Config.java" />
-      <jump line="136" column="8" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/loader/Config.java" />
-      <jump line="52" column="25" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/IocApplication.java" />
-      <jump line="56" column="13" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/IocApplication.java" />
-      <jump line="93" column="8" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/IocApplication.java" />
-      <jump line="129" column="15" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/IocApplication.java" />
-      <jump line="138" column="28" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-core/1.5.1/blade-core-1.5.1-sources.jar!/com/blade/IocApplication.java" />
-      <jump line="231" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" />
-      <jump line="238" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" />
-      <jump line="243" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" />
-      <jump line="254" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" />
-      <jump line="159" column="15" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" />
-      <jump line="160" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" />
-      <jump line="41" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java" />
-      <jump line="77" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java" />
-      <jump line="79" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java" />
-      <jump line="83" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java" />
-      <jump line="98" column="52" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java" />
-      <jump line="496" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.3.RELEASE/spring-webmvc-4.2.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" />
-      <jump line="503" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.3.RELEASE/spring-webmvc-4.2.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" />
-      <jump line="508" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.3.RELEASE/spring-webmvc-4.2.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" />
-      <jump line="537" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.3.RELEASE/spring-webmvc-4.2.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" />
-      <jump line="591" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.3.RELEASE/spring-webmvc-4.2.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" />
-      <jump line="615" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.3.RELEASE/spring-webmvc-4.2.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" />
-      <jump line="459" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.3.RELEASE/spring-webmvc-4.2.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" />
-      <jump line="143" column="81" filename="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/jre/lib/rt.jar!/sun/applet/AppletClassLoader.class" />
-      <jump line="38" column="23" filename="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/jre/lib/rt.jar!/sun/applet/AppletClassLoader.class" />
-      <jump line="59" column="13" filename="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/jre/lib/rt.jar!/sun/applet/AppletClassLoader.class" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/react-slingshot/node_modules/postcss/lib/lazy-result.js" />
-      <jump line="1" column="8" filename="$USER_HOME$/Develop/react-slingshot/src/index.js" />
-      <jump line="167" column="36" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.3.RELEASE/spring-web-4.2.3.RELEASE-sources.jar!/org/springframework/web/context/ContextLoader.java" />
-    </jumps>
+    <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPENvbnRleHQgcGF0aD0iLyI+CjwvQ29udGV4dD4=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Individual</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0U3RyYXRlZ2llc1w+</text>
+        <text encoding="base64">XDx0YXNrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZ3JhcGhDcmVhdG9yOiAnanMvYXBwL2NvbXBvbmVudHMvY2hhcnRDYXJkL2dyYXBoQ3JlYXRvcicsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFMTD0nQUxMJwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPENvbnRleHQgcGF0aD0iLyI+CjwvQ29udGV4dD4=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
-        <text>Individual</text>
+      <register name="2" type="2">
+        <text encoding="base64">UmVhY3QuQ29tcG9uZW50Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJzZXJ2aWNlLWNhcmQtYmxvY2siPgogICAgICAgICAgICA8Yzpmb3JFYWNoIGl0ZW1zPSIke3NlcnZpY2VMaXN0fSIgdmFyPSJzZXJ2aWNlIj4KICAgICAgICAgICAgICAgIDxzZXJ2aWNlLWNhcmQgc2VydmljZS1uYW1lPSIke3NlcnZpY2UubmFtZX0iIHNlcnZpY2UtaWQ9IiR7c2VydmljZS5pZH0iPjwvc2VydmljZS1jYXJkPgogICAgICAgICAgICA8L2M6Zm9yRWFjaD4KICAgICAgICA8L2Rpdj4=</text>
+        <text encoding="base64">dGlvbnMgYW5kIGNvZGUgY2hhbmdlcyBhY3Jvc3MgbXVsdGlwbGUgZGV2aWNlcy4KICovCmV4cG9ydCBkZWZhdWx0IHRhc2soJ3N0YXJ0JywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHJlcXVpcmUoJy4vYnVpbGQnKSgpOwogIGF3YWl0IHJlcXVpcmUoJy4vc2VydmUnKSgpOwoKICBicm93c2VyU3luYyh7CiAgICBwcm94eTogewoKICAgICAgdGFyZ2V0OiAnbG9j</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSgncmVhY3QnKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">dGlvbnMg</text>
       </register>
       <register name="5" type="4">
-        <text>class.getClassLoader()</text>
+        <text encoding="base64">IHdlYiBzZXJ2</text>
       </register>
       <register name="6" type="4">
-        <text>getConstructors()</text>
+        <text>evelopment web</text>
       </register>
-      <register name="7" type="4">
-        <text>getDeclaringClass()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>ALL</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0U3RyYXRlZ2llc1w+</last-search>
+      <last-search encoding="base64">XDx0YXNrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0U3RyYXRlZ2llc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx0YXNrXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2RlbFw+</entry>
-        <entry encoding="base64">XDxkYXRlcmFuZ2VPcHRpb25zXD4=</entry>
-        <entry encoding="base64">XDxGaWx0ZXJQYXJhbWV0ZXJzXD4=</entry>
-        <entry encoding="base64">XDxzdGFydERhdGVcPg==</entry>
-        <entry encoding="base64">XDxodHRwXD4=</entry>
-        <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
-        <entry encoding="base64">XDxjb21tb25VdGlsXD4=</entry>
-        <entry encoding="base64">XDxkYXRlXD4=</entry>
-        <entry encoding="base64">XDxDSEVDS19DT0xVTU5GQU1JTFlfRVhJU1RcPg==</entry>
-        <entry encoding="base64">XDxCbGFkZUhvbGRlclw+</entry>
-        <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
-        <entry encoding="base64">XDxiYXNlUGFja2FnZVw+</entry>
-        <entry encoding="base64">XDxyb3V0ZVBhY2thZ2VzXD4=</entry>
-        <entry encoding="base64">XDxwbHVnaW5zXD4=</entry>
-        <entry encoding="base64">XDxpZFw+</entry>
-        <entry encoding="base64">XDxjb25maWdMb2NhdGlvbnNcPg==</entry>
-        <entry encoding="base64">XDxyZWFkV3JpdGVMb2NrXD4=</entry>
-        <entry encoding="base64">XDxjb2Rlc291cmNlXD4=</entry>
-        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
-        <entry encoding="base64">XDxkZWZhdWx0U3RyYXRlZ2llc1w+</entry>
+        <entry encoding="base64">XDxkZWZlcnJlZE1pbGxpc2Vjb25kc1w+</entry>
+        <entry encoding="base64">XDxkZWZlckluaXRpYWxpemVFeHRlcm5hbFw+</entry>
+        <entry encoding="base64">XDxsb2dvdXRVcmxcPg==</entry>
+        <entry encoding="base64">XDxyZXFcPg==</entry>
+        <entry encoding="base64">XDxib2R5UGFyc2VyXD4=</entry>
+        <entry encoding="base64">XDxEYXNoYm9hcmRIZWFkZXJEYXRhQ29udHJvbGxlclw+</entry>
+        <entry encoding="base64">XDxkZW1vXD4=</entry>
+        <entry encoding="base64">XDxVc2VyU2VydmljZVw+</entry>
+        <entry>.idea</entry>
+        <entry>package</entry>
+        <entry encoding="base64">XDxtb21lbnRcPg==</entry>
+        <entry encoding="base64">XDxwcmltYXJ5SW5mb1w+</entry>
+        <entry encoding="base64">XDxzZW50aW5lbFw+</entry>
+        <entry encoding="base64">XDxjaGVlcmlvXD4=</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxjbGFzc25hbWVzXD4=</entry>
+        <entry encoding="base64">XDxwcm9wc1w+</entry>
+        <entry encoding="base64">XDxuZXdUb2RvXD4=</entry>
+        <entry encoding="base64">XDxUb2RvQWN0aW9uc1w+</entry>
+        <entry encoding="base64">XDx0YXNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -320,7 +287,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
