@@ -8,12 +8,21 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/test/reducers/todos.spec.js" timestamp="1452592078105" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/server.js" timestamp="1452592158343" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/preprocessor.js" timestamp="1452585030249" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/index.js" timestamp="1452592918631">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="3" column="20" />
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/webpack.config.js" timestamp="1452505015288" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/copy.js" timestamp="1452591024386" />
+      <file name="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc" timestamp="1452677584184" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/components/App/App.js" timestamp="1452591301669" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/node_modules/redux/lib/utils/bindActionCreators.js" timestamp="1452584191830" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/components/ContentPage/ContentPage.js" timestamp="1452584394298" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/Header.js" timestamp="1452675551014">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -25,17 +34,35 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/untitled2/package.json" timestamp="1452591703294" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/server.js" timestamp="1452584687450" />
+      <file name="$USER_HOME$/Develop/redux/examples/shopping-cart/api/shop.js" timestamp="1452675689493" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoTextInput.js" timestamp="1452675199318">
         <mark key="]" line="15" column="10" />
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/test/components/Header.spec.js" timestamp="1452592147629" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/build.js" timestamp="1452585051923" />
+      <file name="$USER_HOME$/Develop/react-slingshot/src/reducers/fuelSavings.js" timestamp="1452486865197" />
+      <file name="$USER_HOME$/Develop/react-slingshot/package.json" timestamp="1452236303601" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/deploy.js" timestamp="1452584910224" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/store/configureStore.js" timestamp="1452592187155">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/redux/examples/shopping-cart/reducers/cart.js" timestamp="1452675483206" />
+      <file name="$USER_HOME$/Develop/react-slingshot/src/index.js" timestamp="1452675857910" />
+      <file name="$USER_HOME$/Develop/redux/examples/shopping-cart/containers/CartContainer.js" timestamp="1452675620931" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/clean.js" timestamp="1452588894500" />
+      <file name="$USER_HOME$/Develop/redux/examples/universal/client/index.js" timestamp="1452591951769" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/node_modules/del/index.js" timestamp="1452588891309" />
+      <file name="$USER_HOME$/Develop/redux/examples/shopping-cart/reducers/products.js" timestamp="1452675938931" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/index.html" timestamp="1452592312379" />
+      <file name="$USER_HOME$/Develop/redux/examples/shopping-cart/actions/index.js" timestamp="1452675658641" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/components/ErrorPage/ErrorPage.js" timestamp="1452584399041" />
       <file name="$USER_HOME$/WebstormProjects/untitled2/tools/start.js" timestamp="1452661143359">
         <mark key="'" line="13" column="24" />
         <mark key="[" line="21" column="30" />
@@ -43,11 +70,16 @@
         <mark key="." line="21" column="30" />
         <mark key="^" line="20" column="30" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/api/content.js" timestamp="1452584476200" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/components/Header/Header.js" timestamp="1452584443713" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/lib/task.js" timestamp="1452588706895" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/Footer.js" timestamp="1452675178662">
         <mark key="[" line="19" column="15" />
         <mark key="]" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/serve.js" timestamp="1452584973931" />
+      <file name="$USER_HOME$/Develop/redux/package.json" timestamp="1452592039403" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/ActionTypes.js" timestamp="1452656049152">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="2" column="40" />
@@ -84,12 +116,16 @@
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
       </file>
+      <file name="$USER_HOME$/Develop/react-slingshot/node_modules/react-redux/lib/index.js" timestamp="1452237145344" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/src/constants/ActionTypes.js" timestamp="1452584377897" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/test/actions/todos.spec.js" timestamp="1452592028157" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/containers/App.js" timestamp="1452675560956">
         <mark key="[" line="3" column="51" />
         <mark key="]" line="15" column="1" />
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/test/setup.js" timestamp="1452592070135" />
     </filemarks>
     <jumps />
     <registers>
