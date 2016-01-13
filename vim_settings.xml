@@ -26,7 +26,6 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/META-INF/context.xml" timestamp="1452678175929" />
       <file name="/a.dummy" timestamp="1452678919707">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,7 +40,7 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/reducers/index.js" timestamp="1452678957824">
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/reducers/index.js" timestamp="1452679542196">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
@@ -64,15 +63,12 @@
         <mark key="." line="5" column="6" />
         <mark key="^" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-log/edp2-logback-appender/src/main/java/com/worksap/company/framework/edp2/log/logback/appender/DataFluentAppender.java" timestamp="1452679232210" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1452677288652">
         <mark key="[" line="23" column="43" />
         <mark key="]" line="26" column="9" />
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-log/edp2-logback-appender/src/main/java/com/worksap/company/framework/edp2/log/logback/appender/EDP2RollingFileAppender.java" timestamp="1452679306516" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/dist/js/app.js" timestamp="1452678405654" />
       <file name="$USER_HOME$/WebstormProjects/untitled2/tools/start.js" timestamp="1452661143359">
         <mark key="'" line="13" column="24" />
         <mark key="[" line="21" column="30" />
