@@ -3,29 +3,263 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/react-slingshot/tools/server.js" timestamp="1452237017591">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/META-INF/context.xml" timestamp="1452738474037" />
+      <file name="/a.dummy" timestamp="1452678919707">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/main.js" timestamp="1452742610899" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/index.js" timestamp="1452592918631">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/reducers/index.js" timestamp="1452737773920">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/electron-quick-start/main.js" timestamp="1452745740883" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-log/edp2-logback-appender/src/main/java/com/worksap/company/framework/edp2/log/logback/appender/DataFluentAppender.java" timestamp="1452739244050" />
+      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/start.js" timestamp="1452661143359">
+        <mark key="'" line="13" column="24" />
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="20" column="30" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/Header.js" timestamp="1452675551014">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/Footer.js" timestamp="1452675178662">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3-sources.jar!/ch/qos/logback/core/UnsynchronizedAppenderBase.java" timestamp="1452741540440" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/service/JobStatusService.js" timestamp="1452744526573" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/TodoFilters.js" timestamp="1452653603150">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/ActionTypes.js" timestamp="1452656049152">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoTextInput.js" timestamp="1452675199318">
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/react-slingshot/src/index.html" timestamp="1452486918461">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/MainSection.js" timestamp="1452675861226">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoItem.js" timestamp="1452594627195">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1452677288652">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/proxydroid/src/main/java/com/btr/proxy/selector/pac/PacScriptMethods.java" timestamp="1452698386881">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/proxydroid/src/main/res/color/selector.xml" timestamp="1452730002454" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-log/edp2-logback-appender/src/main/java/com/worksap/company/framework/edp2/log/logback/appender/EDP2RollingFileAppender.java" timestamp="1452739236926" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/containers/App.js" timestamp="1452675560956">
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>ACTIVE</text>
+      </register>
+      <register name="-" type="4">
+        <text>ACTIVE</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx0YXNrXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFMTD0nQUxMJwo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>ACTIVE</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">UmVhY3QuQ29tcG9uZW50Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">dGlvbnMgYW5kIGNvZGUgY2hhbmdlcyBhY3Jvc3MgbXVsdGlwbGUgZGV2aWNlcy4KICovCmV4cG9ydCBkZWZhdWx0IHRhc2soJ3N0YXJ0JywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHJlcXVpcmUoJy4vYnVpbGQnKSgpOwogIGF3YWl0IHJlcXVpcmUoJy4vc2VydmUnKSgpOwoKICBicm93c2VyU3luYyh7CiAgICBwcm94eTogewoKICAgICAgdGFyZ2V0OiAnbG9j</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">dGlvbnMg</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IHdlYiBzZXJ2</text>
+      </register>
+      <register name="7" type="4">
+        <text>evelopment web</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry encoding="base64">XDxkZWZlcnJlZE1pbGxpc2Vjb25kc1w+</entry>
+        <entry encoding="base64">XDxkZWZlckluaXRpYWxpemVFeHRlcm5hbFw+</entry>
+        <entry encoding="base64">XDxsb2dvdXRVcmxcPg==</entry>
+        <entry encoding="base64">XDxyZXFcPg==</entry>
+        <entry encoding="base64">XDxib2R5UGFyc2VyXD4=</entry>
+        <entry encoding="base64">XDxEYXNoYm9hcmRIZWFkZXJEYXRhQ29udHJvbGxlclw+</entry>
+        <entry encoding="base64">XDxkZW1vXD4=</entry>
+        <entry encoding="base64">XDxVc2VyU2VydmljZVw+</entry>
+        <entry>.idea</entry>
+        <entry>package</entry>
+        <entry encoding="base64">XDxtb21lbnRcPg==</entry>
+        <entry encoding="base64">XDxwcmltYXJ5SW5mb1w+</entry>
+        <entry encoding="base64">XDxzZW50aW5lbFw+</entry>
+        <entry encoding="base64">XDxjaGVlcmlvXD4=</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxjbGFzc25hbWVzXD4=</entry>
+        <entry encoding="base64">XDxwcm9wc1w+</entry>
+        <entry encoding="base64">XDxuZXdUb2RvXD4=</entry>
+        <entry encoding="base64">XDxUb2RvQWN0aW9uc1w+</entry>
+        <entry encoding="base64">XDx0YXNrXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
