@@ -61,6 +61,12 @@
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
       </file>
+      <file name="$USER_HOME$/Develop/wechat-linux/main.js" timestamp="1452767117821">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/proxydroid/src/main/java/com/btr/proxy/selector/pac/PacScriptMethods.java" timestamp="1452698386881">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="26" column="0" />
@@ -73,8 +79,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/resource-manager/monitor/diskio-monitor.html" timestamp="1452764815352">
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/resource-manager/monitor/diskio-monitor.html" timestamp="1452765706396">
         <mark key="[" line="7" column="81" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/containers/App.js" timestamp="1452675560956">
         <mark key="[" line="3" column="51" />
