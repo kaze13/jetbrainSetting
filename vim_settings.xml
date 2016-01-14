@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/Footer.js" timestamp="1452675178662">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoItem.js" timestamp="1452594627195">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/TodoFilters.js" timestamp="1452653603150">
         <mark key="[" line="2" column="18" />
@@ -14,25 +15,20 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/react-slingshot/tools/server.js" timestamp="1452237017591">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1452677288652">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/ActionTypes.js" timestamp="1452656049152">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1452678919707">
+      <file name="/a.dummy" timestamp="1452756242848">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoTextInput.js" timestamp="1452675199318">
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/proxydroid/src/main/java/com/btr/proxy/selector/pac/PacScriptMethods.java" timestamp="1452698386881">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/index.js" timestamp="1452592918631">
         <mark key="[" line="6" column="10" />
@@ -46,47 +42,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/react-slingshot/src/index.html" timestamp="1452486918461">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/devdocs/config.ru" timestamp="1452756690744" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/MainSection.js" timestamp="1452675861226">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="12" />
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/electron-quick-start/main.js" timestamp="1452747543842" />
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoItem.js" timestamp="1452594627195">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="6" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1452677288652">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="9" />
-        <mark key="^" line="26" column="9" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/proxydroid/src/main/java/com/btr/proxy/selector/pac/PacScriptMethods.java" timestamp="1452698386881">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled2/tools/start.js" timestamp="1452661143359">
-        <mark key="'" line="13" column="24" />
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="30" />
-        <mark key="." line="21" column="30" />
-        <mark key="^" line="20" column="30" />
-      </file>
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/Header.js" timestamp="1452675551014">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/containers/App.js" timestamp="1452675560956">
         <mark key="[" line="3" column="51" />
@@ -94,14 +55,20 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/electron-quick-start/main.js" timestamp="1452756705026">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="50" column="22" />
+        <mark key="." line="50" column="22" />
+        <mark key="^" line="50" column="22" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>ACTIVE</text>
+        <text>ctrl</text>
       </register>
       <register name="-" type="4">
-        <text>ACTIVE</text>
+        <text>ctrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrXD4=</text>
@@ -110,31 +77,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IEFMTD0nQUxMJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>ACTIVE</text>
+        <text>ctrl</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVhY3QuQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dGlvbnMgYW5kIGNvZGUgY2hhbmdlcyBhY3Jvc3MgbXVsdGlwbGUgZGV2aWNlcy4KICovCmV4cG9ydCBkZWZhdWx0IHRhc2soJ3N0YXJ0JywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHJlcXVpcmUoJy4vYnVpbGQnKSgpOwogIGF3YWl0IHJlcXVpcmUoJy4vc2VydmUnKSgpOwoKICBicm93c2VyU3luYyh7CiAgICBwcm94eTogewoKICAgICAgdGFyZ2V0OiAnbG9j</text>
+        <text encoding="base64">ICAvLyBVbnJlZ2lzdGVyIGEgc2hvcnRjdXQuCiAgZ2xvYmFsU2hvcnRjdXQudW5yZWdpc3RlcignY3RybCt4Jyk7</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">dGlvbnMg</text>
+        <text>This is my application.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHdlYiBzZXJ2</text>
+        <text>radio</text>
       </register>
       <register name="7" type="4">
-        <text>evelopment web</text>
+        <text>Item1</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICB7IGxhYmVsOiAnSXRlbTInLCB0eXBlOiAncmFkaW8nIH0sCiAgICB7IGxhYmVsOiAnSXRlbTMnLCB0eXBlOiAncmFkaW8nLCBjaGVja2VkOiB0cnVlIH0sCiAgICB7IGxhYmVsOiAnSXRlbTQnLCB0eXBlOiAncmFkaW8nIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
