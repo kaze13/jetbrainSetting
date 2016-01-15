@@ -23,10 +23,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1452847327847">
-        <mark key="[" line="66" column="70" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1452851206611">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="76" column="35" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/app/actions/ActionType.js" timestamp="1452839217411">
         <mark key="[" line="0" column="0" />
@@ -51,11 +52,14 @@
         <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/redux/webpack.config.development.js" timestamp="1452830260115" />
+      <file name="$USER_HOME$/Develop/markdown/.gitignore" timestamp="1452852379195">
+        <mark key="[" line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/resources-module.js" timestamp="1452827941927" />
-      <file name="$USER_HOME$/Develop/markdown/app/style/common.css" timestamp="1452847138489">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+      <file name="$USER_HOME$/Develop/markdown/app/style/common.css" timestamp="1452852290315">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/index.js" timestamp="1452833798144">
         <mark key="[" line="0" column="32" />
@@ -64,11 +68,10 @@
         <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/confirm-message-modal.html" timestamp="1452828073165" />
-      <file name="$USER_HOME$/Develop/markdown/app/index.js" timestamp="1452842802298">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+      <file name="$USER_HOME$/Develop/markdown/app/index.js" timestamp="1452849623923">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/resource-manager/monitor/diskio-monitor.html" timestamp="1452825404583">
         <mark key="[" line="7" column="81" />
@@ -95,11 +98,11 @@
         <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/main.js" timestamp="1452828065061" />
-      <file name="$USER_HOME$/Develop/markdown/app/index.html" timestamp="1452838768832">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="5" />
+      <file name="$USER_HOME$/Develop/markdown/app/index.html" timestamp="1452852362759">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/dao/spec/application/JarFileDao.java" timestamp="1452761022462" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/controller/ApplicationController.js" timestamp="1452828030675" />
@@ -176,11 +179,11 @@
       </file>
       <file name="$USER_HOME$/Develop/markdown/MarkdownEditor.js" timestamp="1452833748535" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-dto/src/main/java/com/worksap/company/edp2/dto/jobmanager/JobStatusType.java" timestamp="1452828893808" />
-      <file name="$USER_HOME$/Develop/markdown/app/main.js" timestamp="1452841630386">
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="14" column="70" />
+      <file name="$USER_HOME$/Develop/markdown/app/main.js" timestamp="1452852416474">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
         <mark key="^" line="18" column="28" />
-        <mark key="." line="14" column="70" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/proxydroid/src/main/java/com/btr/proxy/selector/pac/PacScriptMethods.java" timestamp="1452698386881">
         <mark key="[" line="21" column="29" />
@@ -211,10 +214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmVwYXJlVHJheSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>handler</text>
+        <text>calc(100vh - 16px)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZW51XD4=</text>
@@ -223,31 +226,45 @@
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2VkaXRBcmVhUGVyY2VudGFnZTpsZWZ0UGVyY2VudGFnZX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmVwYXJlVHJheSgpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgLy9yZWdpc3RlckV2ZW50KCl7CiAgLy8gIC8vdmFyIGRyYWdnZXIgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZHJhZ2dlcicpLAogIC8vICAvLyAgZWRpdEFyZWEgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZWRpdC1hcmVhJyksCiAgLy8gIC8vICBwcmV2aWV3QXJlYSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdwcmV2aWV3LWFyZWEnKSwKICAvLyAgLy8gIGNvbnRhaW5lciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdtYXJrZG93bi1lZGl0b3InKQogIC8vCiAgLy8gIGNvbnRhaW5lci5hZGRFdmVudExpc3RlbmVyKCdtb3VzZXVwJywgZGVhY3RpdmF0ZSkKICAvLyAgZHJhZ2dlci5hZGRFdmVudExpc3RlbmVyKCdtb3VzZWRvd24nLCBhY3RpdmF0ZSkKICAvLwogIC8vCiAgLy99</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>handler</text>
+        <text>function prepareTray() {
+  appIcon = new Tray('./favicon.png');
+  appIcon.on('click', showWindow);
+
+  var contextMenu = Menu.buildFromTemplate([
+    {
+      label: 'Quit', click: function () {
+      app.quit();
+    }
+    }
+
+  ]);
+  appIcon.setToolTip('devdocs.io');
+  appIcon.setContextMenu(contextMenu);
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6MSUK</text>
       </register>
       <register name="5" type="4">
-        <text>editAreaPercentage</text>
+        <text>calc(100vh - 16px)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>calc(100vh - 16px);</text>
       </register>
-      <register name="7" type="4">
-        <text>editArea</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>myTextInput</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>myTextInput</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
