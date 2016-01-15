@@ -91,15 +91,15 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/redux/README.md" timestamp="1452759588253" />
-      <file name="$USER_HOME$/Develop/markdown/package.json" timestamp="1452838699015">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/Develop/markdown/package.json" timestamp="1452856768066">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/main.js" timestamp="1452828065061" />
-      <file name="$USER_HOME$/Develop/markdown/app/index.html" timestamp="1452852362759">
-        <mark key="[" line="5" column="36" />
+      <file name="$USER_HOME$/Develop/markdown/app/index.html" timestamp="1452856131531">
+        <mark key="[" line="6" column="7" />
         <mark key="]" line="13" column="6" />
         <mark key="." line="13" column="6" />
         <mark key="^" line="13" column="6" />
@@ -112,6 +112,12 @@
         <mark key="]" line="18" column="15" />
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/markdown/README.md" timestamp="1452856249927">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/app/container/App.js" timestamp="1452839544093">
         <mark key="[" line="2" column="0" />
@@ -179,7 +185,7 @@
       </file>
       <file name="$USER_HOME$/Develop/markdown/MarkdownEditor.js" timestamp="1452833748535" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-dto/src/main/java/com/worksap/company/edp2/dto/jobmanager/JobStatusType.java" timestamp="1452828893808" />
-      <file name="$USER_HOME$/Develop/markdown/app/main.js" timestamp="1452852416474">
+      <file name="$USER_HOME$/Develop/markdown/app/main.js" timestamp="1452856060663">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="^" line="18" column="28" />
@@ -211,13 +217,16 @@
       <jump line="56" column="20" filename="$USER_HOME$/Develop/electron-quick-start/main.js" />
       <jump line="21" column="45" filename="$USER_HOME$/Develop/electron-quick-start/LICENSE.md" />
       <jump line="68" column="58" filename="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/Develop/markdown/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/markdown/README.md" />
+      <jump line="10" column="2" filename="$USER_HOME$/Develop/markdown/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmVwYXJlVHJheSgpOwo=</text>
+        <text encoding="base64">ICAgICJkZXZkb2NzIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>calc(100vh - 16px)</text>
+        <text>electron</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZW51XD4=</text>
@@ -226,45 +235,31 @@
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2VkaXRBcmVhUGVyY2VudGFnZTpsZWZ0UGVyY2VudGFnZX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmVwYXJlVHJheSgpOwo=</text>
+        <text encoding="base64">ICAgICJkZXZkb2NzIgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>function prepareTray() {
-  appIcon = new Tray('./favicon.png');
-  appIcon.on('click', showWindow);
-
-  var contextMenu = Menu.buildFromTemplate([
-    {
-      label: 'Quit', click: function () {
-      app.quit();
-    }
-    }
-
-  ]);
-  appIcon.setToolTip('devdocs.io');
-  appIcon.setContextMenu(contextMenu);
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL2themUxMy9kZXZkb2NzLWVsZWN0cm9uL2lzc3VlcyIsCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6MSUK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL2themUxMy9kZXZkb2NzLWVsZWN0cm9uL2lzc3VlcyIKICB9LA==</text>
       </register>
-      <register name="5" type="4">
-        <text>calc(100vh - 16px)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJ1cmwiOiAiZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9rYXplMTMvZGV2ZG9jcy1lbGVjdHJvbi5naXQiCg==</text>
       </register>
       <register name="6" type="4">
-        <text>calc(100vh - 16px);</text>
+        <text>electron</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">VGhpcyBpcyBhIGVsZWN0cm9uIHdyYXBwZXIgZm9yIFtkZXZkb2NzXShodHRwczovL2dpdGh1Yi5jb20vVGhpYmF1dC9kZXZkb2NzLykgd2l0aCBjdXN0b20gZ2xvYmFsIHNob3J0Y3V0IHRvIHNob3cgJiBoaWRlLgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="8" type="4">
+        <text>An electron wrapper for devdocs.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">IwoKI1ByZXJlcXVpc2l0ZQpbRWxlY3Ryb25dKGh0dHA6Ly9lbGVjdHJvbi5hdG9tLmlvLykKCiNJbnN0YWxsYXRpb24KYGBgCm5wbSBpbnN0YWxsICYmIG5wbSBzdGFydApgYGAKI0xpY2Vuc2UKTUlUCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
