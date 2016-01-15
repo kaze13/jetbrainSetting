@@ -23,8 +23,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1452843347927">
-        <mark key="[" line="60" column="3" />
+      <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1452847327847">
+        <mark key="[" line="66" column="70" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/app/actions/ActionType.js" timestamp="1452839217411">
         <mark key="[" line="0" column="0" />
@@ -50,7 +52,11 @@
       </file>
       <file name="$USER_HOME$/Develop/redux/webpack.config.development.js" timestamp="1452830260115" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/resources-module.js" timestamp="1452827941927" />
-      <file name="$USER_HOME$/Develop/markdown/app/style/common.css" timestamp="1452842895641" />
+      <file name="$USER_HOME$/Develop/markdown/app/style/common.css" timestamp="1452847138489">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/Develop/markdown/index.js" timestamp="1452833798144">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="1" column="23" />
@@ -201,46 +207,47 @@
       <jump line="5" column="22" filename="$USER_HOME$/Develop/electron-quick-start/main.js" />
       <jump line="56" column="20" filename="$USER_HOME$/Develop/electron-quick-start/main.js" />
       <jump line="21" column="45" filename="$USER_HOME$/Develop/electron-quick-start/LICENSE.md" />
+      <jump line="68" column="58" filename="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>handler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZW51XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFMTD0nQUxMJwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2VkaXRBcmVhUGVyY2VudGFnZTpsZWZ0UGVyY2VudGFnZX0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>next</text>
+        <text encoding="base64">CiAgLy9yZWdpc3RlckV2ZW50KCl7CiAgLy8gIC8vdmFyIGRyYWdnZXIgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZHJhZ2dlcicpLAogIC8vICAvLyAgZWRpdEFyZWEgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZWRpdC1hcmVhJyksCiAgLy8gIC8vICBwcmV2aWV3QXJlYSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdwcmV2aWV3LWFyZWEnKSwKICAvLyAgLy8gIGNvbnRhaW5lciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdtYXJrZG93bi1lZGl0b3InKQogIC8vCiAgLy8gIGNvbnRhaW5lci5hZGRFdmVudExpc3RlbmVyKCdtb3VzZXVwJywgZGVhY3RpdmF0ZSkKICAvLyAgZHJhZ2dlci5hZGRFdmVudExpc3RlbmVyKCdtb3VzZWRvd24nLCBhY3RpdmF0ZSkKICAvLwogIC8vCiAgLy99</text>
       </register>
       <register name="3" type="4">
-        <text>prev</text>
+        <text>handler</text>
       </register>
-      <register name="4" type="4">
-        <text>className</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>className</text>
+        <text>editAreaPercentage</text>
       </register>
-      <register name="6" type="4">
-        <text>className</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>className</text>
+        <text>editArea</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGFtcGxlQ29tcG9uZW50IG1vdW50ZWQnKTsK</text>
+      <register name="8" type="4">
+        <text>myTextInput</text>
       </register>
       <register name="9" type="4">
-        <text>, autoHideMenuBar: true</text>
+        <text>myTextInput</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
