@@ -4,6 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/redux/webpack.config.base.js" timestamp="1452830251287" />
+      <file name="/a.dummy" timestamp="1452842931032">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/dpp-module.js" timestamp="1452828160582" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/job-manager/JobInfoDialogController.js" timestamp="1452828191130" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/lightman-manager/lightman.html" timestamp="1452828170973" />
@@ -20,11 +23,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1452841817200">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1452843347927">
+        <mark key="[" line="60" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/app/actions/ActionType.js" timestamp="1452839217411">
         <mark key="[" line="0" column="0" />
@@ -50,6 +50,7 @@
       </file>
       <file name="$USER_HOME$/Develop/redux/webpack.config.development.js" timestamp="1452830260115" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/resources-module.js" timestamp="1452827941927" />
+      <file name="$USER_HOME$/Develop/markdown/app/style/common.css" timestamp="1452842895641" />
       <file name="$USER_HOME$/Develop/markdown/index.js" timestamp="1452833798144">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="1" column="23" />
@@ -57,7 +58,12 @@
         <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/confirm-message-modal.html" timestamp="1452828073165" />
-      <file name="$USER_HOME$/Develop/markdown/app/index.js" timestamp="1452839222023" />
+      <file name="$USER_HOME$/Develop/markdown/app/index.js" timestamp="1452842802298">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/resource-manager/monitor/diskio-monitor.html" timestamp="1452825404583">
         <mark key="[" line="7" column="81" />
         <mark key="]" line="25" column="5" />
@@ -131,6 +137,9 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/electron-quick-start/.gitignore" timestamp="1452759483242">
+        <mark key="[" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/Develop/markdown/app/webpack.config.js" timestamp="1452839945281">
         <mark key="[" line="9" column="32" />
       </file>
@@ -195,10 +204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGFtcGxlQ29tcG9uZW50IG1vdW50ZWQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, autoHideMenuBar: true</text>
+        <text>next</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZW51XD4=</text>
@@ -207,31 +216,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IEFMTD0nQUxMJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGFtcGxlQ29tcG9uZW50IG1vdW50ZWQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>, autoHideMenuBar: true</text>
+        <text>next</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>prev</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlUHJldmlldygpOwo=</text>
+      <register name="4" type="4">
+        <text>className</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJldmlldzogTWFya2VkKHByb3AudmFsdWUgPyBwcm9wLnZhbHVlIDogJycpCg==</text>
+      <register name="5" type="4">
+        <text>className</text>
       </register>
       <register name="6" type="4">
-        <text>Marked(this.state.value)</text>
+        <text>className</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUgPSBlLnRhcmdldC52YWx1ZTsK</text>
+      <register name="7" type="4">
+        <text>className</text>
       </register>
-      <register name="8" type="4">
-        <text>state</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGFtcGxlQ29tcG9uZW50IG1vdW50ZWQnKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>, autoHideMenuBar: true</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
