@@ -4,19 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/redux/webpack.config.base.js" timestamp="1452830251287" />
-      <file name="/a.dummy" timestamp="1452829091359">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/dpp-module.js" timestamp="1452828160582" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/job-manager/JobInfoDialogController.js" timestamp="1452828191130" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/lightman-manager/lightman.html" timestamp="1452828170973" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/resources/jobManagerContext.xml" timestamp="1452828416532" />
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/index.js" timestamp="1452830033909">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-      </file>
       <file name="$USER_HOME$/Develop/electron-quick-start/main.js" timestamp="1452761865624">
         <mark key="[" line="55" column="28" />
         <mark key="]" line="24" column="19" />
@@ -28,6 +19,17 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1452841817200">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/markdown/app/actions/ActionType.js" timestamp="1452839217411">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/TodoFilters.js" timestamp="1452653603150">
         <mark key="[" line="2" column="18" />
@@ -55,11 +57,18 @@
         <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/confirm-message-modal.html" timestamp="1452828073165" />
+      <file name="$USER_HOME$/Develop/markdown/app/index.js" timestamp="1452839222023" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/resource-manager/monitor/diskio-monitor.html" timestamp="1452825404583">
         <mark key="[" line="7" column="81" />
         <mark key="]" line="25" column="5" />
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="5" />
+      </file>
+      <file name="$USER_HOME$/Develop/markdown/app/component/Preview.js" timestamp="1452838822679">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/webpack.config.js" timestamp="1452832680817">
         <mark key="[" line="6" column="0" />
@@ -67,17 +76,18 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/redux/README.md" timestamp="1452759588253" />
-      <file name="$USER_HOME$/Develop/markdown/package.json" timestamp="1452830674548">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Develop/markdown/package.json" timestamp="1452838699015">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/main.js" timestamp="1452828065061" />
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/reducers/index.js" timestamp="1452737773920">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Develop/markdown/app/index.html" timestamp="1452838768832">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="5" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/dao/spec/application/JarFileDao.java" timestamp="1452761022462" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/controller/ApplicationController.js" timestamp="1452828030675" />
@@ -87,6 +97,11 @@
         <mark key="]" line="18" column="15" />
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/markdown/app/container/App.js" timestamp="1452839544093">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/main/ShutdownHookThread.java" timestamp="1452828487680" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/controller/ApplicationController.java" timestamp="1452828237958" />
@@ -116,8 +131,8 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/electron-quick-start/.gitignore" timestamp="1452759483242">
-        <mark key="[" line="0" column="12" />
+      <file name="$USER_HOME$/Develop/markdown/app/webpack.config.js" timestamp="1452839945281">
+        <mark key="[" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/app.js" timestamp="1452830047472">
         <mark key="[" line="2" column="0" />
@@ -138,7 +153,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1452677288652">
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1452838957546">
         <mark key="[" line="23" column="43" />
         <mark key="]" line="26" column="9" />
         <mark key="." line="26" column="9" />
@@ -146,6 +161,12 @@
       </file>
       <file name="$USER_HOME$/Develop/markdown/MarkdownEditor.js" timestamp="1452833748535" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-dto/src/main/java/com/worksap/company/edp2/dto/jobmanager/JobStatusType.java" timestamp="1452828893808" />
+      <file name="$USER_HOME$/Develop/markdown/app/main.js" timestamp="1452841630386">
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="14" column="70" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="14" column="70" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/proxydroid/src/main/java/com/btr/proxy/selector/pac/PacScriptMethods.java" timestamp="1452698386881">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="26" column="0" />
@@ -174,10 +195,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IE1hcmtkb3duRWRpdG9yIGZyb20gJy4vTWFya2Rvd25FZGl0b3InCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGFtcGxlQ29tcG9uZW50IG1vdW50ZWQnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>, autoHideMenuBar: true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZW51XD4=</text>
@@ -186,28 +207,28 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IEFMTD0nQUxMJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IE1hcmtkb3duRWRpdG9yIGZyb20gJy4vTWFya2Rvd25FZGl0b3InCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGFtcGxlQ29tcG9uZW50IG1vdW50ZWQnKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0b2RvbXZjLWFwcC1jc3MiOiAiXjIuMC4xIiwK</text>
+      <register name="2" type="4">
+        <text>, autoHideMenuBar: true</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC10cmFuc2Zvcm0taG1yIjogIl4xLjAuMCIsCg==</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1hZGRvbnMtdGVzdC11dGlscyI6ICJeMC4xNC4wIiwK</text>
+        <text encoding="base64">ICAgIHRoaXMudXBkYXRlUHJldmlldygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJub2RlLWxpYnMtYnJvd3NlciI6ICJeMC41LjIiLAo=</text>
+        <text encoding="base64">ICAgICAgcHJldmlldzogTWFya2VkKHByb3AudmFsdWUgPyBwcm9wLnZhbHVlIDogJycpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJqc2RvbSI6ICJeNS42LjEiLAo=</text>
+      <register name="6" type="4">
+        <text>Marked(this.state.value)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJleHByZXNzIjogIl40LjEzLjMiLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUgPSBlLnRhcmdldC52YWx1ZTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJleHBlY3QiOiAiXjEuOC4wIiwK</text>
+      <register name="8" type="4">
+        <text>state</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
