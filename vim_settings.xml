@@ -11,17 +11,11 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/job-manager/JobInfoDialogController.js" timestamp="1452828191130" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/lightman-manager/lightman.html" timestamp="1452828170973" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/resources/jobManagerContext.xml" timestamp="1452828416532" />
-      <file name="$USER_HOME$/Develop/electron-quick-start/main.js" timestamp="1452761865624">
-        <mark key="[" line="55" column="28" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-      </file>
-      <file name="$USER_HOME$/Develop/electron-quick-start/README.md" timestamp="1452759617516">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="2" />
+      <file name="$USER_HOME$/Develop/electron-quick-start/main.js" timestamp="1453081828983">
+        <mark key="[" line="84" column="6" />
+        <mark key="]" line="84" column="25" />
+        <mark key="^" line="84" column="25" />
+        <mark key="." line="84" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1452851206611">
         <mark key="[" line="77" column="0" />
@@ -134,9 +128,6 @@
       </file>
       <file name="$USER_HOME$/Develop/electron-quick-start/package.json" timestamp="1452760369759">
         <mark key="[" line="2" column="14" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/App.js" timestamp="1452833638694">
         <mark key="[" line="1" column="28" />
@@ -152,8 +143,10 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/electron-quick-start/.gitignore" timestamp="1452759483242">
-        <mark key="[" line="0" column="12" />
+      <file name="$USER_HOME$/Develop/electron-quick-start/.gitignore" timestamp="1453081562218">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/app/webpack.config.js" timestamp="1452839945281">
         <mark key="[" line="9" column="32" />
@@ -223,7 +216,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJkZXZkb2NzIgo=</text>
+        <text encoding="base64">ZGlzdAo=</text>
       </register>
       <register name="-" type="4">
         <text>electron</text>
@@ -235,31 +228,31 @@
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2VkaXRBcmVhUGVyY2VudGFnZTpsZWZ0UGVyY2VudGFnZX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkZXZkb2NzIgo=</text>
+        <text encoding="base64">ZGlzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJkZXZkb2NzIgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL2themUxMy9kZXZkb2NzLWVsZWN0cm9uL2lzc3VlcyIsCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL2themUxMy9kZXZkb2NzLWVsZWN0cm9uL2lzc3VlcyIKICB9LA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICJ1cmwiOiAiZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9rYXplMTMvZGV2ZG9jcy1lbGVjdHJvbi5naXQiCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>electron</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">VGhpcyBpcyBhIGVsZWN0cm9uIHdyYXBwZXIgZm9yIFtkZXZkb2NzXShodHRwczovL2dpdGh1Yi5jb20vVGhpYmF1dC9kZXZkb2NzLykgd2l0aCBjdXN0b20gZ2xvYmFsIHNob3J0Y3V0IHRvIHNob3cgJiBoaWRlLgo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>An electron wrapper for devdocs.</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IwoKI1ByZXJlcXVpc2l0ZQpbRWxlY3Ryb25dKGh0dHA6Ly9lbGVjdHJvbi5hdG9tLmlvLykKCiNJbnN0YWxsYXRpb24KYGBgCm5wbSBpbnN0YWxsICYmIG5wbSBzdGFydApgYGAKI0xpY2Vuc2UKTUlUCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
