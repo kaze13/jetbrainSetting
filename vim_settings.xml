@@ -100,8 +100,10 @@
         <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/dao/spec/application/JarFileDao.java" timestamp="1452761022462" />
+      <file name="$USER_HOME$/Develop/wechat-electron/wechat.js" timestamp="1453098807932" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/controller/ApplicationController.js" timestamp="1452828030675" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/service/impl/BatchScheduleServiceImpl.java" timestamp="1452828511702" />
+      <file name="$USER_HOME$/Develop/wechat-electron/index.html" timestamp="1453098676017" />
       <file name="$USER_HOME$/Develop/wechat-linux/main.js" timestamp="1452767117821">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="18" column="15" />
@@ -127,6 +129,7 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/Develop/wechat-electron/app.js" timestamp="1453098411605" />
       <file name="$USER_HOME$/Develop/electron-quick-start/package.json" timestamp="1452760369759">
         <mark key="[" line="2" column="14" />
       </file>
