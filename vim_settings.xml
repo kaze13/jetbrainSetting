@@ -4,13 +4,14 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/redux/webpack.config.base.js" timestamp="1452830251287" />
-      <file name="/a.dummy" timestamp="1452842931032">
+      <file name="/a.dummy" timestamp="1453193167089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/dpp-module.js" timestamp="1452828160582" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/job-manager/JobInfoDialogController.js" timestamp="1452828191130" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/lightman-manager/lightman.html" timestamp="1452828170973" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/resources/jobManagerContext.xml" timestamp="1452828416532" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/pom.xml" timestamp="1453193419197" />
       <file name="$USER_HOME$/Develop/electron-quick-start/main.js" timestamp="1453081828983">
         <mark key="[" line="84" column="6" />
         <mark key="]" line="84" column="25" />
@@ -39,6 +40,7 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/notification-module.js" timestamp="1452827930085" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/service/impl/JarFileServiceImpl.java" timestamp="1452760835762" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/service/ApplicationService.js" timestamp="1452756767944" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-mq/test/src/main/java/com/worksap/company/framework/mq/test/EmbeddedZookeeper.java" timestamp="1453193072220" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/api/applicationManagerSummaryAPI.js" timestamp="1452828038232" />
       <file name="$USER_HOME$/Develop/markdown/index.html" timestamp="1452832693980">
         <mark key="[" line="11" column="13" />
@@ -99,6 +101,7 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="13" column="6" />
       </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/external-service/src/main/java/com/worksap/company/hue/ext/nonbizkicker/NonBizControllerKickerImpl.java" timestamp="1453192808071" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/dao/spec/application/JarFileDao.java" timestamp="1452761022462" />
       <file name="$USER_HOME$/Develop/wechat-electron/wechat.js" timestamp="1453098807932" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/controller/ApplicationController.js" timestamp="1452828030675" />
@@ -140,6 +143,7 @@
         <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/logic/model/schedule/ScheduledJob.java" timestamp="1452828639688" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/tag-handler.md" timestamp="1453192296363" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/directive/clearFileInputDirective.js" timestamp="1452828003862" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/MainSection.js" timestamp="1452675861226">
         <mark key="[" line="14" column="13" />
