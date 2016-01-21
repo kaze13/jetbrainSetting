@@ -3,115 +3,79 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/redux/webpack.config.base.js" timestamp="1452830251287" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/webapp/WEB-INF/spring-servlet.xml" timestamp="1453349297471" />
-      <file name="/a.dummy" timestamp="1453193167089">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/webapp/WEB-INF/spring-servlet.xml" timestamp="1453357453543" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/dataProcessor/UserOperationDataProcessor.java" timestamp="1453359539579">
+        <mark key="'" line="71" column="33" />
       </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/pom.xml" timestamp="1453193494948" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/util/EventsConfig.java" timestamp="1453356506249" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/resources/applicationConfig.xml" timestamp="1453358521565" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-common/src/main/java/com/worksap/company/common/UXAnalyzerSettingFactory.java" timestamp="1453356429342" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/dataProcessor/AutoCompleteBehaviorDataProcessor.java" timestamp="1453349154497" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/monitor-module.js" timestamp="1452827950619" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/AutocompleteInterceptor.java" timestamp="1453349622527" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/util/LogSendUtil.java" timestamp="1453358472244" />
+      <file name="$USER_HOME$/Develop/electron-quick-start/index.js" timestamp="1453097259678" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.3.RELEASE/spring-web-4.2.3.RELEASE-sources.jar!/org/springframework/web/context/ContextLoaderListener.java" timestamp="1453356026906" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/service/impl/JarFileServiceImpl.java" timestamp="1452760835762" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/webapp/js/page/timeline/mobile/timeline-mobile-app.js" timestamp="1453357212179" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/service/ApplicationService.js" timestamp="1452756767944" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-mq/test/src/main/java/com/worksap/company/framework/mq/test/EmbeddedZookeeper.java" timestamp="1453193072220" />
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/edp2-api-spark-batch/1.12.0-SNAPSHOT/edp2-api-spark-batch-1.12.0-20151218.054758-996-sources.jar!/com/worksap/company/edp2/api/spark/batch/AbstractSparkGeneralMain.java" timestamp="1453358915761" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/api/applicationManagerSummaryAPI.js" timestamp="1452828038232" />
+      <file name="$USER_HOME$/Develop/redux/webpack.config.development.js" timestamp="1452830260115" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/confirm-message-modal.html" timestamp="1452828073165" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/flume/flume-ng-sdk/1.2.0/flume-ng-sdk-1.2.0-sources.jar!/org/apache/flume/event/EventBuilder.java" timestamp="1453357597261" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/main.js" timestamp="1452828065061" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/external-service/src/main/java/com/worksap/company/hue/ext/nonbizkicker/NonBizControllerKickerImpl.java" timestamp="1453192808071" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/dao/spec/application/JarFileDao.java" timestamp="1452761022462" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/service/impl/BatchScheduleServiceImpl.java" timestamp="1453359833364" />
+      <file name="$USER_HOME$/Develop/wechat-electron/index.html" timestamp="1453098676017" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/main/ShutdownHookThread.java" timestamp="1452828487680" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/Edp2OperationStreaming.java" timestamp="1453359701925" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/bin/src/main/webapp/js/personalization/util/client.js" timestamp="1453357449089" />
+      <file name="$USER_HOME$/Develop/wechat-electron/app.js" timestamp="1453098411605" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/data/OperationStreamingDataMapper.java" timestamp="1453359736106">
+        <mark key="'" line="25" column="52" />
+      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/tag-handler.md" timestamp="1453192296363" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-client/src/main/java/com/worksap/company/edp2/client/spec/EDP2Client.java" timestamp="1453352303008" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/main/JobManager.java" timestamp="1452828318603" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/job-manager/job-module.js" timestamp="1452828198018" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-api/edp2-api-spark-streaming/src/main/java/com/worksap/company/edp2/api/spark/streaming/AbstractSparkStreamingMain.java" timestamp="1453359907363" />
+      <file name="$USER_HOME$/Develop/markdown/MarkdownEditor.js" timestamp="1452833748535" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/bin/src/main/webapp/js/personalization/ux-operation-log.js" timestamp="1453357437505" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/package.json" timestamp="1452830639179" />
+      <file name="$USER_HOME$/Develop/redux/webpack.config.base.js" timestamp="1452830251287" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/bin/src/main/webapp/js/personalization/url/ux-log-url.js" timestamp="1453357305576" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/dpp-module.js" timestamp="1452828160582" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/job-manager/JobInfoDialogController.js" timestamp="1452828191130" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/lightman-manager/lightman.html" timestamp="1452828170973" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/resources/jobManagerContext.xml" timestamp="1452828416532" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/pom.xml" timestamp="1453193494948" />
-      <file name="$USER_HOME$/Develop/electron-quick-start/main.js" timestamp="1453081828983">
-        <mark key="[" line="84" column="6" />
-        <mark key="]" line="84" column="25" />
-        <mark key="^" line="84" column="25" />
-        <mark key="." line="84" column="25" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-tool/src/main/java/com/worksap/company/cassandraInitializer/CassandraInitializer.java" timestamp="1453349556375" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/dataProcessor/AutoCompleteBehaviorDataProcessor.java" timestamp="1453349154497" />
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/TodoFilters.js" timestamp="1452653603150">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/monitor-module.js" timestamp="1452827950619" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/AutocompleteInterceptor.java" timestamp="1453349622527" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/util/LogSendUtil.java" timestamp="1453349858991" />
-      <file name="$USER_HOME$/Develop/electron-quick-start/index.js" timestamp="1453097259678" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/batch/config/OperationStreamingDefinedBatchConfig.java" timestamp="1453349106472" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/action/DataConvertingAction.java" timestamp="1453359902741" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/batch/config/OperationStreamingDefinedBatchConfig.java" timestamp="1453359732860" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/notification-module.js" timestamp="1452827930085" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/service/impl/JarFileServiceImpl.java" timestamp="1452760835762" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/service/ApplicationService.js" timestamp="1452756767944" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-mq/test/src/main/java/com/worksap/company/framework/mq/test/EmbeddedZookeeper.java" timestamp="1453193072220" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/api/applicationManagerSummaryAPI.js" timestamp="1452828038232" />
-      <file name="$USER_HOME$/Develop/markdown/index.html" timestamp="1452832693980">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-      </file>
-      <file name="$USER_HOME$/Develop/redux/webpack.config.development.js" timestamp="1452830260115" />
-      <file name="$USER_HOME$/Develop/markdown/.gitignore" timestamp="1452852379195">
-        <mark key="[" line="1" column="5" />
-      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/ConnectionInterceptor.java" timestamp="1453357198504" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/resources-module.js" timestamp="1452827941927" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/confirm-message-modal.html" timestamp="1452828073165" />
-      <file name="$USER_HOME$/Develop/markdown/app/component/Preview.js" timestamp="1452838822679">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-      </file>
       <file name="$USER_HOME$/Develop/redux/README.md" timestamp="1452759588253" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/main.js" timestamp="1452828065061" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/external-service/src/main/java/com/worksap/company/hue/ext/nonbizkicker/NonBizControllerKickerImpl.java" timestamp="1453192808071" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/dao/spec/application/JarFileDao.java" timestamp="1452761022462" />
+      <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/FileInputStream.java" timestamp="1453356477736">
+        <mark key="'" line="132" column="53" />
+      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/action/PostProcessAction.java" timestamp="1453359728910" />
       <file name="$USER_HOME$/Develop/wechat-electron/wechat.js" timestamp="1453098807932" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/controller/ApplicationController.js" timestamp="1452828030675" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/service/impl/BatchScheduleServiceImpl.java" timestamp="1452828511702" />
-      <file name="$USER_HOME$/Develop/wechat-electron/index.html" timestamp="1453098676017" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/main/ShutdownHookThread.java" timestamp="1452828487680" />
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/edp2-api-common/1.12.0-SNAPSHOT/edp2-api-common-1.12.0-20151218.054559-1005-sources.jar!/com/worksap/company/edp2/api/common/utils/ArgumentParser.java" timestamp="1453358831591" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/controller/ApplicationController.java" timestamp="1452828237958" />
-      <file name="$USER_HOME$/Develop/wechat-electron/app.js" timestamp="1453098411605" />
-      <file name="$USER_HOME$/Develop/electron-quick-start/package.json" timestamp="1452760369759">
-        <mark key="[" line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/PerformanceInterceptor.java" timestamp="1453349436106" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/logic/model/schedule/ScheduledJob.java" timestamp="1452828639688" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/tag-handler.md" timestamp="1453192296363" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-client/src/main/java/com/worksap/company/edp2/client/spec/EDP2Client.java" timestamp="1453352303008" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/directive/clearFileInputDirective.js" timestamp="1452828003862" />
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/MainSection.js" timestamp="1452675861226">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="12" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="14" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/main/JobManager.java" timestamp="1452828318603" />
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoItem.js" timestamp="1452594627195">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="6" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/job-manager/job-module.js" timestamp="1452828198018" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/webapp/WEB-INF/web.xml" timestamp="1453356031833" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/util/IPParser.java" timestamp="1453349659760" />
-      <file name="$USER_HOME$/Develop/markdown/MarkdownEditor.js" timestamp="1452833748535" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-dto/src/main/java/com/worksap/company/edp2/dto/jobmanager/JobStatusType.java" timestamp="1452828893808" />
-      <file name="$USER_HOME$/IdeaProjects/proxydroid/src/main/java/com/btr/proxy/selector/pac/PacScriptMethods.java" timestamp="1452698386881">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/package.json" timestamp="1452830639179" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-edp2-common/src/main/java/com/worksap/company/batch/AbstractUxLogBatch.java" timestamp="1453358633502" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/service/EventService.js" timestamp="1452827969012" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/ComponentInterceptor.java" timestamp="1453349259175" />
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/containers/App.js" timestamp="1452675560956">
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/electron-quick-start/LICENSE.md" timestamp="1452759398255">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="3" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="22" filename="$USER_HOME$/Develop/electron-quick-start/main.js" />
@@ -121,6 +85,12 @@
       <jump line="11" column="2" filename="$USER_HOME$/Develop/markdown/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/markdown/README.md" />
       <jump line="10" column="2" filename="$USER_HOME$/Develop/markdown/README.md" />
+      <jump line="122" column="32" filename="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/FileInputStream.java" />
+      <jump line="123" column="38" filename="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/FileInputStream.java" />
+      <jump line="131" column="12" filename="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/FileInputStream.java" />
+      <jump line="132" column="53" filename="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/FileInputStream.java" />
+      <jump line="25" column="52" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/data/OperationStreamingDataMapper.java" />
+      <jump line="71" column="33" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/dataProcessor/UserOperationDataProcessor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -130,7 +100,7 @@
         <text>electron</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNZW51XD4=</text>
+        <text encoding="base64">XDx1c2VyVXNhZ2VGYWN0U2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2VkaXRBcmVhUGVyY2VudGFnZTpsZWZ0UGVyY2VudGFnZX0pCg==</text>
@@ -167,17 +137,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNZW51XD4=</last-search>
+      <last-search encoding="base64">XDx1c2VyVXNhZ2VGYWN0U2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNZW51XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyVXNhZ2VGYWN0U2VydmljZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZlckluaXRpYWxpemVFeHRlcm5hbFw+</entry>
-        <entry encoding="base64">XDxsb2dvdXRVcmxcPg==</entry>
-        <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry encoding="base64">XDxib2R5UGFyc2VyXD4=</entry>
         <entry encoding="base64">XDxEYXNoYm9hcmRIZWFkZXJEYXRhQ29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxkZW1vXD4=</entry>
@@ -195,6 +162,9 @@
         <entry encoding="base64">XDxUb2RvQWN0aW9uc1w+</entry>
         <entry encoding="base64">XDx0YXNrXD4=</entry>
         <entry encoding="base64">XDxNZW51XD4=</entry>
+        <entry encoding="base64">XDxmaWxlXD4=</entry>
+        <entry encoding="base64">XDxvcGVyYXRpb25EYXRhTWFwT2JqXD4=</entry>
+        <entry encoding="base64">XDx1c2VyVXNhZ2VGYWN0U2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
