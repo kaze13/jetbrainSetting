@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/redux/webpack.config.base.js" timestamp="1452830251287" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/webapp/WEB-INF/spring-servlet.xml" timestamp="1453349297471" />
       <file name="/a.dummy" timestamp="1453193167089">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,17 +19,13 @@
         <mark key="^" line="84" column="25" />
         <mark key="." line="84" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1452851206611">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="76" column="35" />
-        <mark key="." line="77" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-tool/src/main/java/com/worksap/company/cassandraInitializer/CassandraInitializer.java" timestamp="1453349556375" />
       <file name="$USER_HOME$/Develop/markdown/app/actions/ActionType.js" timestamp="1452839217411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/dataProcessor/AutoCompleteBehaviorDataProcessor.java" timestamp="1453349154497" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/TodoFilters.js" timestamp="1452653603150">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="1" column="15" />
@@ -36,7 +33,10 @@
         <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/monitor-module.js" timestamp="1452827950619" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/AutocompleteInterceptor.java" timestamp="1453349622527" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/util/LogSendUtil.java" timestamp="1453349858991" />
       <file name="$USER_HOME$/Develop/electron-quick-start/index.js" timestamp="1453097259678" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/batch/config/OperationStreamingDefinedBatchConfig.java" timestamp="1453349106472" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/notification-module.js" timestamp="1452827930085" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/service/impl/JarFileServiceImpl.java" timestamp="1452760835762" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/service/ApplicationService.js" timestamp="1452756767944" />
@@ -53,72 +53,21 @@
         <mark key="[" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/resources-module.js" timestamp="1452827941927" />
-      <file name="$USER_HOME$/Develop/markdown/app/style/common.css" timestamp="1452852290315">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/markdown/index.js" timestamp="1452833798144">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/confirm-message-modal.html" timestamp="1452828073165" />
-      <file name="$USER_HOME$/Develop/markdown/app/index.js" timestamp="1452849623923">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/resource-manager/monitor/diskio-monitor.html" timestamp="1452825404583">
-        <mark key="[" line="7" column="81" />
-        <mark key="]" line="25" column="5" />
-        <mark key="^" line="25" column="5" />
-        <mark key="." line="25" column="5" />
-      </file>
       <file name="$USER_HOME$/Develop/markdown/app/component/Preview.js" timestamp="1452838822679">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/markdown/webpack.config.js" timestamp="1452832680817">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/redux/README.md" timestamp="1452759588253" />
-      <file name="$USER_HOME$/Develop/markdown/package.json" timestamp="1452856768066">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="3" column="33" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/main.js" timestamp="1452828065061" />
-      <file name="$USER_HOME$/Develop/markdown/app/index.html" timestamp="1452856131531">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/external-service/src/main/java/com/worksap/company/hue/ext/nonbizkicker/NonBizControllerKickerImpl.java" timestamp="1453192808071" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/dao/spec/application/JarFileDao.java" timestamp="1452761022462" />
       <file name="$USER_HOME$/Develop/wechat-electron/wechat.js" timestamp="1453098807932" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/controller/ApplicationController.js" timestamp="1452828030675" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/service/impl/BatchScheduleServiceImpl.java" timestamp="1452828511702" />
       <file name="$USER_HOME$/Develop/wechat-electron/index.html" timestamp="1453098676017" />
-      <file name="$USER_HOME$/Develop/wechat-linux/main.js" timestamp="1452767117821">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="18" column="15" />
-        <mark key="^" line="18" column="15" />
-        <mark key="." line="18" column="15" />
-      </file>
-      <file name="$USER_HOME$/Develop/markdown/README.md" timestamp="1452856249927">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="6" column="2" />
-      </file>
       <file name="$USER_HOME$/Develop/markdown/app/container/App.js" timestamp="1452839544093">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -126,22 +75,11 @@
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/main/ShutdownHookThread.java" timestamp="1452828487680" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/controller/ApplicationController.java" timestamp="1452828237958" />
-      <file name="$USER_HOME$/Develop/markdown/markdownEditor.js" timestamp="1452829883314">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/Develop/wechat-electron/app.js" timestamp="1453098411605" />
       <file name="$USER_HOME$/Develop/electron-quick-start/package.json" timestamp="1452760369759">
         <mark key="[" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/markdown/App.js" timestamp="1452833638694">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/PerformanceInterceptor.java" timestamp="1453349436106" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/logic/model/schedule/ScheduledJob.java" timestamp="1452828639688" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/tag-handler.md" timestamp="1453192296363" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/directive/clearFileInputDirective.js" timestamp="1452828003862" />
@@ -156,15 +94,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/markdown/app/webpack.config.js" timestamp="1452839945281">
-        <mark key="[" line="9" column="32" />
-      </file>
-      <file name="$USER_HOME$/Develop/markdown/app.js" timestamp="1452830047472">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/main/JobManager.java" timestamp="1452828318603" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoItem.js" timestamp="1452594627195">
         <mark key="[" line="5" column="5" />
@@ -173,25 +102,9 @@
         <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/job-manager/job-module.js" timestamp="1452828198018" />
-      <file name="$USER_HOME$/Develop/markdown/main.js" timestamp="1452829070505">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1452838957546">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="9" />
-        <mark key="^" line="26" column="9" />
-      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/util/IPParser.java" timestamp="1453349659760" />
       <file name="$USER_HOME$/Develop/markdown/MarkdownEditor.js" timestamp="1452833748535" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-dto/src/main/java/com/worksap/company/edp2/dto/jobmanager/JobStatusType.java" timestamp="1452828893808" />
-      <file name="$USER_HOME$/Develop/markdown/app/main.js" timestamp="1452856060663">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/proxydroid/src/main/java/com/btr/proxy/selector/pac/PacScriptMethods.java" timestamp="1452698386881">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="26" column="0" />
@@ -200,6 +113,7 @@
       </file>
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/package.json" timestamp="1452830639179" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/service/EventService.js" timestamp="1452827969012" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/ComponentInterceptor.java" timestamp="1453349259175" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/containers/App.js" timestamp="1452675560956">
         <mark key="[" line="3" column="51" />
         <mark key="]" line="15" column="1" />
