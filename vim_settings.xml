@@ -20,11 +20,6 @@
         <mark key="." line="84" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-tool/src/main/java/com/worksap/company/cassandraInitializer/CassandraInitializer.java" timestamp="1453349556375" />
-      <file name="$USER_HOME$/Develop/markdown/app/actions/ActionType.js" timestamp="1452839217411">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/dataProcessor/AutoCompleteBehaviorDataProcessor.java" timestamp="1453349154497" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/constants/TodoFilters.js" timestamp="1452653603150">
         <mark key="[" line="2" column="18" />
@@ -68,11 +63,6 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/controller/ApplicationController.js" timestamp="1452828030675" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/service/impl/BatchScheduleServiceImpl.java" timestamp="1452828511702" />
       <file name="$USER_HOME$/Develop/wechat-electron/index.html" timestamp="1453098676017" />
-      <file name="$USER_HOME$/Develop/markdown/app/container/App.js" timestamp="1452839544093">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/main/ShutdownHookThread.java" timestamp="1452828487680" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/controller/ApplicationController.java" timestamp="1452828237958" />
       <file name="$USER_HOME$/Develop/wechat-electron/app.js" timestamp="1453098411605" />
@@ -82,17 +72,13 @@
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/PerformanceInterceptor.java" timestamp="1453349436106" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/logic/model/schedule/ScheduledJob.java" timestamp="1452828639688" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/tag-handler.md" timestamp="1453192296363" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-client/src/main/java/com/worksap/company/edp2/client/spec/EDP2Client.java" timestamp="1453352303008" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/directive/clearFileInputDirective.js" timestamp="1452828003862" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/MainSection.js" timestamp="1452675861226">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="12" />
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/electron-quick-start/.gitignore" timestamp="1453081562218">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/main/JobManager.java" timestamp="1452828318603" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/components/TodoItem.js" timestamp="1452594627195">
