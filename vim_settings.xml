@@ -10,7 +10,9 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/pom.xml" timestamp="1453193494948" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/util/EventsConfig.java" timestamp="1453356506249" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/resources/applicationConfig.xml" timestamp="1453358521565" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-api/edp2-api-spark-batch/src/main/java/com/worksap/company/edp2/api/spark/batch/AbstractSparkGeneralMain.java" timestamp="1453445262023" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-common/src/main/java/com/worksap/company/common/UXAnalyzerSettingFactory.java" timestamp="1453356429342" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-api/edp2-api-spark-hive-batch/src/main/java/com/worksap/company/edp2/api/spark/batch/hive/AbstractSparkHiveMain.java" timestamp="1453445311446" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/dataProcessor/AutoCompleteBehaviorDataProcessor.java" timestamp="1453349154497" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/monitor-module.js" timestamp="1452827950619" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/AutocompleteInterceptor.java" timestamp="1453349622527" />
@@ -67,6 +69,7 @@
       <file name="$USER_HOME$/Develop/wechat-electron/wechat.js" timestamp="1453098807932" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/controller/ApplicationController.js" timestamp="1452828030675" />
       <file name="$MAVEN_REPOSITORY$/com/worksap/company/edp2-api-common/1.12.0-SNAPSHOT/edp2-api-common-1.12.0-20151218.054559-1005-sources.jar!/com/worksap/company/edp2/api/common/utils/ArgumentParser.java" timestamp="1453358831591" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-api/edp2-api-spark-batch/src/main/java/com/worksap/company/edp2/api/spark/batch/AbstractSparkCassandraMain.java" timestamp="1453445227765" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/controller/ApplicationController.java" timestamp="1452828237958" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/PerformanceInterceptor.java" timestamp="1453349436106" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/logic/model/schedule/ScheduledJob.java" timestamp="1452828639688" />
