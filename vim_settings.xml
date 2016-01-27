@@ -34,7 +34,6 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/service/impl/BatchScheduleServiceImpl.java" timestamp="1453359833364" />
       <file name="$USER_HOME$/Develop/wechat-electron/index.html" timestamp="1453098676017" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/java/com/worksap/company/edp2/jobmanager/main/ShutdownHookThread.java" timestamp="1452828487680" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/Edp2OperationStreaming.java" timestamp="1453359701925" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/bin/src/main/webapp/js/personalization/util/client.js" timestamp="1453357449089" />
       <file name="$USER_HOME$/Develop/wechat-electron/app.js" timestamp="1453098411605" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/data/OperationStreamingDataMapper.java" timestamp="1453359736106">
@@ -55,9 +54,10 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/lightman-manager/lightman.html" timestamp="1452828170973" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/resources/jobManagerContext.xml" timestamp="1452828416532" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-tool/src/main/java/com/worksap/company/cassandraInitializer/CassandraInitializer.java" timestamp="1453349556375" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/package.json" timestamp="1453882100066" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/action/DataConvertingAction.java" timestamp="1453359902741" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/batch/config/OperationStreamingDefinedBatchConfig.java" timestamp="1453359732860" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/notification-module.js" timestamp="1452827930085" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/.bowerrc" timestamp="1453881940779" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-client/src/main/java/com/worksap/company/edp2/client/impl/EDP2NamespaceResolver.java" timestamp="1453361835079" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/ConnectionInterceptor.java" timestamp="1453357198504" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/resources-module.js" timestamp="1452827941927" />
@@ -70,9 +70,11 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/controller/ApplicationController.js" timestamp="1452828030675" />
       <file name="$MAVEN_REPOSITORY$/com/worksap/company/edp2-api-common/1.12.0-SNAPSHOT/edp2-api-common-1.12.0-20151218.054559-1005-sources.jar!/com/worksap/company/edp2/api/common/utils/ArgumentParser.java" timestamp="1453358831591" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-api/edp2-api-spark-batch/src/main/java/com/worksap/company/edp2/api/spark/batch/AbstractSparkCassandraMain.java" timestamp="1453445227765" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/node_modules/bower/bin/bower" timestamp="1453882700201" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/java/com/worksap/company/edp2/webserver/controller/ApplicationController.java" timestamp="1452828237958" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/interceptor/PerformanceInterceptor.java" timestamp="1453349436106" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-logic/src/main/java/com/worksap/company/edp2/webserver/logic/model/schedule/ScheduledJob.java" timestamp="1452828639688" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/pom.xml" timestamp="1453882115671" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/js/app/directive/clearFileInputDirective.js" timestamp="1452828003862" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/webapp/WEB-INF/web.xml" timestamp="1453356031833" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-log-server/src/main/java/com/worksap/company/hue/uxlog/util/IPParser.java" timestamp="1453349659760" />
