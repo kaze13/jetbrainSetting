@@ -45,6 +45,7 @@
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/react-slingshot/src/index.js" timestamp="1453971873293" />
       <file name="$USER_HOME$/Develop/markdown/package.json" timestamp="1452856768066">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -107,8 +108,9 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/job-manager/JobInfoDialogController.js" timestamp="1452828191130" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/lightman-manager/lightman.html" timestamp="1452828170973" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-jobmanager/src/main/resources/jobManagerContext.xml" timestamp="1452828416532" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/gulpfile.js" timestamp="1453971889817" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-tool/src/main/java/com/worksap/company/cassandraInitializer/CassandraInitializer.java" timestamp="1453349556375" />
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/package.json" timestamp="1453886161498">
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/package.json" timestamp="1453971754748">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
