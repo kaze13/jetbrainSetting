@@ -9,15 +9,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/data/OperationStreamingDataMapper.java" timestamp="1453359736106">
-        <mark key="'" line="25" column="52" />
-      </file>
-      <file name="$USER_HOME$/Develop/markdown/App.js" timestamp="1452833638694">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/dataProcessor/UserOperationDataProcessor.java" timestamp="1453359539579">
         <mark key="'" line="71" column="33" />
       </file>
@@ -30,35 +21,17 @@
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/FileInputStream.java" timestamp="1453356477736">
         <mark key="'" line="132" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/markdown/app.js" timestamp="1452830047472">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="6" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/pom.xml" timestamp="1454648650479" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/pom.xml" timestamp="1454647407937">
+        <mark key="[" line="894" column="0" />
+        <mark key="]" line="894" column="0" />
+        <mark key="." line="894" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/wechat-linux/main.js" timestamp="1452767117821">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="18" column="15" />
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
-      </file>
-      <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1452838957546">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="9" />
-        <mark key="^" line="26" column="9" />
-      </file>
-      <file name="$USER_HOME$/Develop/markdown/index.js" timestamp="1452833798144">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/Develop/markdown/app/main.js" timestamp="1452856060663">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/README.md" timestamp="1452856249927">
         <mark key="[" line="1" column="0" />
@@ -72,12 +45,7 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/resource-manager/monitor/diskio-monitor.html" timestamp="1452825404583">
-        <mark key="[" line="7" column="81" />
-        <mark key="]" line="25" column="5" />
-        <mark key="^" line="25" column="5" />
-        <mark key="." line="25" column="5" />
-      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/src/main/java/com/worksap/company/framework/autoindex/AutoIndexProcessor.java" timestamp="1454647068299" />
       <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1452851206611">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -89,6 +57,53 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/data/OperationStreamingDataMapper.java" timestamp="1453359736106">
+        <mark key="'" line="25" column="52" />
+      </file>
+      <file name="$USER_HOME$/Develop/markdown/App.js" timestamp="1452833638694">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/markdown/app.js" timestamp="1452830047472">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-api/edp2-api-spark-streaming/src/main/java/com/worksap/company/edp2/api/spark/streaming/AbstractSparkStreamingMain.java" timestamp="1454648066065" />
+      <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1452838957546">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/pom.xml" timestamp="1454647823623">
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="28" />
+        <mark key="." line="72" column="28" />
+        <mark key="^" line="72" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/markdown/index.js" timestamp="1452833798144">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Develop/markdown/app/main.js" timestamp="1452856060663">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/pom.xml" timestamp="1454647224718" />
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/src/main/webapp/pages/resource-manager/monitor/diskio-monitor.html" timestamp="1452825404583">
+        <mark key="[" line="7" column="81" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -107,44 +122,44 @@
       <jump line="71" column="33" filename="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/dataProcessor/UserOperationDataProcessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGlzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>edp2</text>
       </register>
       <register name="-" type="4">
-        <text>electron</text>
+        <text>edp2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyVXNhZ2VGYWN0U2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2VkaXRBcmVhUGVyY2VudGFnZTpsZWZ0UGVyY2VudGFnZX0pCg==</text>
+        <text encoding="base64">ICAgIDxtb2R1bGU+Y29tcGFueS1lZHAyPC9tb2R1bGU+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGlzdAo=</text>
+      <register name="1" type="4">
+        <text>edp2</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJkZXZkb2NzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGFkZGl0aW9uYWxDbGFzc3BhdGhEaXI+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy9tYWluL3Jlc291cmNlcy9mb3JuZXVzLnByb3BlcnRpZXM8L2FkZGl0aW9uYWxDbGFzc3BhdGhEaXI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGluY2x1ZGVQbHVnaW5EZXBlbmRlbmNpZXM+dHJ1ZTwvaW5jbHVkZVBsdWdpbkRlcGVuZGVuY2llcz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL2themUxMy9kZXZkb2NzLWVsZWN0cm9uL2lzc3VlcyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW5jbHVkZVBsdWdpbkRlcGVuZGVuY2llcz50cnVlPC9pbmNsdWRlUGx1Z2luRGVwZW5kZW5jaWVzPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL2themUxMy9kZXZkb2NzLWVsZWN0cm9uL2lzc3VlcyIKICB9LA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGlzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ1cmwiOiAiZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9rYXplMTMvZGV2ZG9jcy1lbGVjdHJvbi5naXQiCg==</text>
+        <text encoding="base64">ICAgICJkZXZkb2NzIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>electron</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhpcyBpcyBhIGVsZWN0cm9uIHdyYXBwZXIgZm9yIFtkZXZkb2NzXShodHRwczovL2dpdGh1Yi5jb20vVGhpYmF1dC9kZXZkb2NzLykgd2l0aCBjdXN0b20gZ2xvYmFsIHNob3J0Y3V0IHRvIHNob3cgJiBoaWRlLgo=</text>
+        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL2themUxMy9kZXZkb2NzLWVsZWN0cm9uL2lzc3VlcyIsCg==</text>
       </register>
       <register name="9" type="4">
-        <text>An electron wrapper for devdocs.</text>
+        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL2themUxMy9kZXZkb2NzLWVsZWN0cm9uL2lzc3VlcyIKICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
