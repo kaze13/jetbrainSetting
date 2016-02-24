@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1456309640405">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/OptimizerClosureImpl.java" timestamp="1456138240127" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/pom.xml" timestamp="1454654899758" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/src/main/webapp/lib/wap/page/container/application.js" timestamp="1456112770855" />
@@ -33,7 +30,7 @@
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/RandomAccessFile.java" timestamp="1454732700477" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/Application.java" timestamp="1456304967062" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/lang/AutoCloseable.java" timestamp="1454731780886" />
-      <file name="$USER_HOME$/Develop/spring-react-example/pom.xml" timestamp="1456309156127">
+      <file name="$USER_HOME$/Develop/spring-react-example/pom.xml" timestamp="1456311222196">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -180,7 +177,7 @@
       <file name="/Dummy.txt" timestamp="1456306788445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/pom.xml" timestamp="1456309138577" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/pom.xml" timestamp="1456311211714" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-annotations/src/main/java/com/worksap/company/framework/autoindex/annotation/AutoIndex.java" timestamp="1454653305857" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/UncheckedIO.java" timestamp="1456137024914" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/webapp/style/main.less" timestamp="1456309843324">
