@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/WEB-INF/page/index.jsp" timestamp="1456312047935" />
+      <file name="/a.dummy" timestamp="1456311649159">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/OptimizerClosureImpl.java" timestamp="1456138240127" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/pom.xml" timestamp="1454654899758" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/src/main/webapp/lib/wap/page/container/application.js" timestamp="1456112770855" />
@@ -25,7 +29,9 @@
         <mark key="^" line="76" column="35" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456311467627" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/java/com/worksap/company/framework/forneus/generator/handler/framework/PageHandler.java" timestamp="1456112834981" />
+      <file name="$USER_HOME$/Develop/operation-tool/webpack.config.js" timestamp="1456312051659" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-report-engine/src/main/java/com/worksap/company/framework/report/service/impl/magiclayout/LayoutOutputServiceImpl.java" timestamp="1454731734333" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/RandomAccessFile.java" timestamp="1454732700477" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/Application.java" timestamp="1456304967062" />
@@ -48,9 +54,6 @@
         <mark key="]" line="25" column="5" />
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="5" />
-      </file>
-      <file name="$USER_HOME$/Develop/spring-react-example/.gitignore" timestamp="1456308508300">
-        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/gulpfile.js" timestamp="1456311055236" />
       <file name="$USER_HOME$/Develop/markdown/package.json" timestamp="1456308230571">
@@ -94,6 +97,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1456311474291" />
       <file name="$USER_HOME$/Develop/markdown/app/webpack.config.js" timestamp="1456306376961" />
       <file name="$USER_HOME$/Develop/material-ui/examples/webpack-example/src/app/app.jsx" timestamp="1456306064559" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-api/edp2-api-spark-streaming/src/main/java/com/worksap/company/edp2/api/spark/streaming/AbstractSparkStreamingMain.java" timestamp="1454648066065" />
@@ -105,6 +109,12 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/CompilerProcessCaC2Impl.java" timestamp="1456138375987" />
+      <file name="$USER_HOME$/Develop/operation-tool/package.json" timestamp="1456311430336">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+      </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/nio/channels/ByteChannel.java" timestamp="1454732824987" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/CompilerProcess.java" timestamp="1456136766014" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/Comment.java" timestamp="1456304837317" />
@@ -125,11 +135,18 @@
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
       </file>
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/controller/MainController.java" timestamp="1456312092624" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/package.json" timestamp="1456308281009">
         <mark key="[" line="6" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-runtime/src/test/java/com/worksap/company/framework/autoindex/TestIndexDtoGeneratorImpl.java" timestamp="1454653082124" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-annotations/pom.xml" timestamp="1454653328098" />
+      <file name="$USER_HOME$/Develop/operation-tool/.gitignore" timestamp="1456311745486">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1456310537723">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -157,7 +174,13 @@
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/webapp/script/components/main.js" timestamp="1456310166874" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/nio/channels/ReadableByteChannel.java" timestamp="1454732611346" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/worksap/company/operation/Application.java" timestamp="1456308029953" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/app.js" timestamp="1456312002657" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/.npmrc" timestamp="1456307692401" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/resources/application.properties" timestamp="1456311494988">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/File.java" timestamp="1454733820851" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/CommentController.java" timestamp="1456304841685" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/MainController.java" timestamp="1456305038704">
@@ -239,11 +262,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/Develop/spring-react-example/src/main/webapp/style/main.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>jsp</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>jsp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyVXNhZ2VGYWN0U2VydmljZVw+</text>
@@ -251,29 +274,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxtb2R1bGU+Y29tcGFueS1lZHAyPC9tb2R1bGU+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>jsp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSBUaGlzIHNjcmlwdCBhZGRzIHRoZSBSb2JvdG8gZm9udCB0byBvdXIgcHJvamVjdC4gRm9yIG1vcmUgZGV0YWlsIGdvIHRvIHRoaXMgc2l0ZTogIGh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9mb250cyNVc2VQbGFjZTp1c2UvQ29sbGVjdGlvbjpSb2JvdG86NDAwLDMwMCw1MDAgLS0+Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHNjcmlwdD4KICAgIHZhciBXZWJGb250Q29uZmlnID0gewogICAgICAgIGdvb2dsZTogeyBmYW1pbGllczogWyAnUm9ib3RvOjQwMCwzMDAsNTAwOmxhdGluJyBdIH0KICAgIH07CiAgICAoZnVuY3Rpb24oKSB7CiAgICAgICAgdmFyIHdmID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7CiAgICAgICAgd2Yuc3JjID0gKCdodHRwczonID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID8gJ2h0dHBzJyA6ICdodHRwJykgKwogICAgICAgICAgICAgICAgJzovL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL3dlYmZvbnQvMS93ZWJmb250LmpzJzsKICAgICAgICB3Zi50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7CiAgICAgICAgd2YuYXN5bmMgPSAndHJ1ZSc7CiAgICAgICAgdmFyIHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07CiAgICAgICAgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZSh3Ziwgcyk7CiAgICB9KSgpOwo8L3NjcmlwdD4=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">PCEtLSBUaGlzIHNjcmlwdCBhZGRzIHRoZSBSb2JvdG8gZm9udCB0byBvdXIgcHJvamVjdC4gRm9yIG1vcmUgZGV0YWlsIGdvIHRvIHRoaXMgc2l0ZTogIGh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9mb250cyNVc2VQbGFjZTp1c2UvQ29sbGVjdGlvbjpSb2JvdG86NDAwLDMwMCw1MDAgLS0+Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PHNjcmlwdD4KICAgIHZhciBXZWJGb250Q29uZmlnID0gewogICAgICAgIGdvb2dsZTogeyBmYW1pbGllczogWyAnUm9ib3RvOjQwMCwzMDAsNTAwOmxhdGluJyBdIH0KICAgIH07CiAgICAoZnVuY3Rpb24oKSB7CiAgICAgICAgdmFyIHdmID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7CiAgICAgICAgd2Yuc3JjID0gKCdodHRwczonID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID8gJ2h0dHBzJyA6ICdodHRwJykgKwogICAgICAgICAgICAgICAgJzovL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL3dlYmZvbnQvMS93ZWJmb250LmpzJzsKICAgICAgICB3Zi50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7CiAgICAgICAgd2YuYXN5bmMgPSAndHJ1ZSc7CiAgICAgICAgdmFyIHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07CiAgICAgICAgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZSh3Ziwgcyk7CiAgICB9KSgpOwo8L3NjcmlwdD4=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICBwbHVnaW5zOiBbCiAgXSw=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLk9jY3VyZW5jZU9yZGVyUGx1Z2luKCksCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLk5vRXJyb3JzUGx1Z2luKCkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
+        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLk5vRXJyb3JzUGx1Z2luKCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
