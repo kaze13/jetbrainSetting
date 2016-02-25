@@ -178,6 +178,7 @@
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/worksap/company/operation/Application.java" timestamp="1456308029953" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/app.js" timestamp="1456368898337" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/.npmrc" timestamp="1456307692401" />
+      <file name="$USER_HOME$/Develop/operation-tool/gulpfile.js" timestamp="1456383576686" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/resources/application.properties" timestamp="1456311494988">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="29" />
@@ -234,9 +235,6 @@
         <mark key="^" line="72" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/src/test/java/com/worksap/company/framework/autoindex/AutoIndexProcessorTest.java" timestamp="1454654264605" />
-      <file name="$USER_HOME$/Develop/spring-react-example/package.json" timestamp="1456310195001">
-        <mark key="^" line="8" column="19" />
-      </file>
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/webapp/script/app.jsx" timestamp="1456306546821" />
       <file name="/fragment.java" timestamp="1456306788420">
         <mark key="[" line="0" column="0" />
