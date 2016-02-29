@@ -29,10 +29,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/main.less" timestamp="1456733206225">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/main.less" timestamp="1456736977680">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/src/main/java/com/worksap/company/framework/autoindex/AutoIndexProcessor.java" timestamp="1454653761693" />
       <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1456474083596">
@@ -41,11 +42,11 @@
         <mark key="^" line="76" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456733110397">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="37" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456737111124">
+        <mark key="'" line="17" column="48" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/java/com/worksap/company/framework/forneus/generator/handler/framework/PageHandler.java" timestamp="1456112834981" />
       <file name="$USER_HOME$/Develop/operation-tool/webpack.config.js" timestamp="1456474857479">
@@ -300,13 +301,14 @@
       <jump line="145" column="40" filename="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search-runtime/src/main/java/com/worksap/company/framework/elasticsearch/base/core/ElasticsearchDataManagerImpl.java" />
       <jump line="65" column="36" filename="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search-test/src/main/java/com/worksap/company/framework/elasticsearch/ElasticSearchTestClientFactoryBean.java" />
       <jump line="45" column="11" filename="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/com/worksap/company/log/LogSearch.java" />
+      <jump line="17" column="48" filename="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBoaW50VGV4dD0iYmFsYWJhbGEiIGZsb2F0aW5nTGFiZWxUZXh0PSJJbnB1dCBzZWFyY2gga2V5IHdvcmRzIGhlcmUiIC8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ytpe</text>
+        <text>fullWidth=&quot;true&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
@@ -315,31 +317,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8TGlzdEl0ZW0gcHJpbWFyeVRleHQ9IkVDMiIgbGVmdENoZWNrYm94PXs8Q2hlY2tib3ggLz59IC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBoaW50VGV4dD0iYmFsYWJhbGEiIGZsb2F0aW5nTGFiZWxUZXh0PSJJbnB1dCBzZWFyY2gga2V5IHdvcmRzIGhlcmUiIC8+Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>fullWidth=&quot;true&quot;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>ytpe</text>
+        <text>body</text>
       </register>
       <register name="5" type="4">
-        <text>Hangout notifications</text>
+        <text>bodybody</text>
       </register>
-      <register name="6" type="4">
-        <text>Video sounds</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Sounds</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxCYWRnZSBiYWRnZUNvbnRlbnQ9ezR9IHByaW1hcnk9e3RydWV9ID4gPC9CYWRnZT4K</text>
       </register>
-      <register name="8" type="4">
-        <text>Notifications</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPE5vdGlmaWNhdGlvbnNJY29uIC8+Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>Cassandra</text>
+        <text>from</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
