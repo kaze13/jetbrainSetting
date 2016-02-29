@@ -83,10 +83,11 @@
       <file name="$USER_HOME$/Develop/spring-react-example/.gitignore" timestamp="1456308508300">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/BeanConfiguration.java" timestamp="1456480447697">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/BeanConfiguration.java" timestamp="1456712391663">
         <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
+        <mark key="]" line="21" column="1" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/gulpfile.js" timestamp="1456311055236" />
       <file name="/ColdFusion Tag Interface.txt.ft" timestamp="1456472596878">
