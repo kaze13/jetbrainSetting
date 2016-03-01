@@ -42,11 +42,12 @@
         <mark key="^" line="76" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456737111124">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456798042921">
         <mark key="'" line="17" column="48" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="75" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/java/com/worksap/company/framework/forneus/generator/handler/framework/PageHandler.java" timestamp="1456112834981" />
       <file name="$USER_HOME$/Develop/operation-tool/webpack.config.js" timestamp="1456474857479">
@@ -305,7 +306,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBoaW50VGV4dD0iYmFsYWJhbGEiIGZsb2F0aW5nTGFiZWxUZXh0PSJJbnB1dCBzZWFyY2gga2V5IHdvcmRzIGhlcmUiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRoZmhqZmpmamZqZmYK</text>
       </register>
       <register name="-" type="4">
         <text>fullWidth=&quot;true&quot;</text>
@@ -317,31 +318,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8TGlzdEl0ZW0gcHJpbWFyeVRleHQ9IkVDMiIgbGVmdENoZWNrYm94PXs8Q2hlY2tib3ggLz59IC8+Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRoZmhqZmpmamZqZmYK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBoaW50VGV4dD0iYmFsYWJhbGEiIGZsb2F0aW5nTGFiZWxUZXh0PSJJbnB1dCBzZWFyY2gga2V5IHdvcmRzIGhlcmUiIC8+Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>fullWidth=&quot;true&quot;</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>body</text>
       </register>
       <register name="5" type="4">
+        <text>body</text>
+      </register>
+      <register name="6" type="4">
         <text>bodybody</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxCYWRnZSBiYWRnZUNvbnRlbnQ9ezR9IHByaW1hcnk9e3RydWV9ID4gPC9CYWRnZT4K</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPE5vdGlmaWNhdGlvbnNJY29uIC8+Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>from</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
