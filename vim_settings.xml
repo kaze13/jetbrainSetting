@@ -47,12 +47,11 @@
         <mark key="^" line="76" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456801225155">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456804738884">
         <mark key="'" line="17" column="48" />
-        <mark key="[" line="88" column="11" />
-        <mark key="]" line="88" column="13" />
-        <mark key="." line="88" column="13" />
-        <mark key="^" line="88" column="13" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/java/com/worksap/company/framework/forneus/generator/handler/framework/PageHandler.java" timestamp="1456112834981" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/com/worksap/company/elasticsearch/LogSearch.java" timestamp="1456472369905">
@@ -112,11 +111,10 @@
       <file name="/HTML File.txt.ft" timestamp="1456475903031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logItem.js" timestamp="1456475734471">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="13" column="16" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logItem.js" timestamp="1456804463065">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search-test/pom.xml" timestamp="1456455691496" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/CommentService.java" timestamp="1456304844676" />
@@ -165,6 +163,12 @@
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/Comment.java" timestamp="1456304837317" />
       <file name="$MAVEN_REPOSITORY$/com/worksap/tools/calcium-carbide-compiler/0.2.4/calcium-carbide-compiler-0.2.4-sources.jar!/com/worksap/tools/cac2/compiler/CaC2Compiler.java" timestamp="1456136866613" />
+      <file name="$USER_HOME$/Develop/spring-react-example/README.md" timestamp="1456306234224">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-report-engine/src/main/java/com/worksap/company/framework/report/denormalize/DtoConverterProcessor.java" timestamp="1454654780909" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/Closeable.java" timestamp="1454732031895" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/gulpfile.js" timestamp="1456309061749" />
@@ -329,7 +333,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiNmMmYyZjI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>div</text>
@@ -341,31 +345,62 @@
         <text encoding="base64">Y29uc3QgRmxhdEJ1dHRvbiA9IHJlcXVpcmUoJ21hdGVyaWFsLXVpL2xpYi9mbGF0LWJ1dHRvbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiNmMmYyZjI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmxleC1ncm93OjE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmxleC1zaHJpbms6MTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>div</text>
+        <text>const tableData = [
+  {
+    name: 'John Smith',
+    status: 'Employed',
+    selected: true,
+  },
+  {
+    name: 'Randal White',
+    status: 'Unemployed',
+  },
+  {
+    name: 'Stephanie Sanders',
+    status: 'Employed',
+    selected: true,
+  },
+  {
+    name: 'Steve Brown',
+    status: 'Employed',
+  },
+  {
+    name: 'Joyce Whitten',
+    status: 'Employed',
+  },
+  {
+    name: 'Samuel Roberts',
+    status: 'Employed',
+  },
+  {
+    name: 'Adam Moore',
+    status: 'Employed',
+  },
+];</text>
       </register>
       <register name="6" type="4">
-        <text>height</text>
+        <text encoding="base64">IDxUYWJsZQogICAgICAgICAgICAgICAgaGVpZ2h0PXt0aGlzLnN0YXRlLmhlaWdodH0KICAgICAgICAgICAgICAgIGZpeGVkSGVhZGVyPXt0aGlzLnN0YXRlLmZpeGVkSGVhZGVyfQogICAgICAgICAgICAgICAgZml4ZWRGb290ZXI9e3RoaXMuc3RhdGUuZml4ZWRGb290ZXJ9CiAgICAgICAgICAgICAgICBzZWxlY3RhYmxlPXt0aGlzLnN0YXRlLnNlbGVjdGFibGV9CiAgICAgICAgICAgICAgICBtdWx0aVNlbGVjdGFibGU9e3RoaXMuc3RhdGUubXVsdGlTZWxlY3RhYmxlfQogICAgICAgICAgICAgICAgb25Sb3dTZWxlY3Rpb249e3RoaXMuX29uUm93U2VsZWN0aW9ufQogICAgICAgICAgICAgID4KCiAgICAgICAgICAgICAgICA8VGFibGVCb2R5CiAgICAgICAgICAgICAgICAgIGRlc2VsZWN0T25DbGlja2F3YXk9e3RoaXMuc3RhdGUuZGVzZWxlY3RPbkNsaWNrYXdheX0KICAgICAgICAgICAgICAgICAgc2hvd1Jvd0hvdmVyPXt0aGlzLnN0YXRlLnNob3dSb3dIb3Zlcn0KICAgICAgICAgICAgICAgICAgc3RyaXBlZFJvd3M9e3RoaXMuc3RhdGUuc3RyaXBlZFJvd3N9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIHt0YWJsZURhdGEubWFwKChyb3csIGluZGV4KSA9PiAoCiAgICAgICAgICAgICAgICAgICAgPFRhYmxlUm93IGtleT17aW5kZXh9IHNlbGVjdGVkPXtyb3cuc2VsZWN0ZWR9PgogICAgICAgICAgICAgICAgICAgICAgPFRhYmxlUm93Q29sdW1uPntpbmRleH08L1RhYmxlUm93Q29sdW1uPgogICAgICAgICAgICAgICAgICAgICAgPFRhYmxlUm93Q29sdW1uPntyb3cubmFtZX08L1RhYmxlUm93Q29sdW1uPgogICAgICAgICAgICAgICAgICAgICAgPFRhYmxlUm93Q29sdW1uPntyb3cuc3RhdHVzfQogICAgICAgICAgICAgICAgICAgICAgPC9UYWJsZVJvd0NvbHVtbj4KICAgICAgICAgICAgICAgICAgICAgIDxUYWJsZVJvd0NvbHVtbj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJhZGdlIGJhZGdlQ29udGVudD17NH0gcHJpbWFyeT17dHJ1ZX0gPiA8L0JhZGdlPgogICAgICAgICAgICAgICAgICAgICAgPC9UYWJsZVJvd0NvbHVtbj4KICAgICAgICAgICAgICAgICAgICA8L1RhYmxlUm93PgogICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgIDwvVGFibGVCb2R5PgoKICAgICAgICAgICAgICA8L1RhYmxlPg==</text>
       </register>
       <register name="7" type="4">
-        <text>Hint Text</text>
+        <text encoding="base64">ICAgIGZldGNoKCcvbG9nJykKICAgICAgLnRoZW4oZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7bG9nOnJlc3BvbnNlfSkKICAgICAgfS5iaW5kKHRoaXMpKQ==</text>
       </register>
-      <register name="8" type="4">
-        <text>black</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9udEljb24gY2xhc3NOYW1lPSJtYXRlcmlhbC1pY29ucyIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
