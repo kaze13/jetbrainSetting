@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/WEB-INF/page/index.jsp" timestamp="1456398437529" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/WEB-INF/page/index.jsp" timestamp="1456800541793">
+        <mark key="[" line="8" column="72" />
+      </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/dataProcessor/UserOperationDataProcessor.java" timestamp="1453359539579">
+        <mark key="'" line="71" column="33" />
+      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/OptimizerClosureImpl.java" timestamp="1456138240127" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/pom.xml" timestamp="1454654899758" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/src/main/webapp/lib/wap/page/container/application.js" timestamp="1456112770855" />
@@ -29,11 +34,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/main.less" timestamp="1456736977680">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/main.less" timestamp="1456801657074">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="32" column="35" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/src/main/java/com/worksap/company/framework/autoindex/AutoIndexProcessor.java" timestamp="1454653761693" />
       <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1456474083596">
@@ -42,18 +47,14 @@
         <mark key="^" line="76" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456798042921">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456801225155">
         <mark key="'" line="17" column="48" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="75" column="18" />
+        <mark key="[" line="88" column="11" />
+        <mark key="]" line="88" column="13" />
+        <mark key="." line="88" column="13" />
+        <mark key="^" line="88" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/java/com/worksap/company/framework/forneus/generator/handler/framework/PageHandler.java" timestamp="1456112834981" />
-      <file name="$USER_HOME$/Develop/operation-tool/webpack.config.js" timestamp="1456474857479">
-        <mark key="[" line="27" column="1" />
-        <mark key="^" line="3" column="10" />
-      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/com/worksap/company/elasticsearch/LogSearch.java" timestamp="1456472369905">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="39" column="8" />
@@ -73,6 +74,9 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/pom.xml" timestamp="1454647224718" />
       <file name="/ColdFusion Script Interface.txt.ft" timestamp="1456472596267">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/spring-react-example/.gitignore" timestamp="1456308508300">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/BeanConfiguration.java" timestamp="1456721961470">
         <mark key="[" line="15" column="26" />
@@ -116,6 +120,9 @@
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search-test/pom.xml" timestamp="1456455691496" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/CommentService.java" timestamp="1456304844676" />
+      <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-operation-streaming/src/main/java/com/worksap/company/data/OperationStreamingDataMapper.java" timestamp="1453359736106">
+        <mark key="'" line="25" column="52" />
+      </file>
       <file name="/ColdFusion Tag Component.txt.ft" timestamp="1456472597195">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,6 +175,11 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/React.java" timestamp="1456304884041" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/dist/main.css" timestamp="1456799423799">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/controller/MainController.java" timestamp="1456480420464">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="15" column="23" />
@@ -222,7 +234,10 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/.npmrc" timestamp="1456307692401" />
-      <file name="$USER_HOME$/Develop/operation-tool/gulpfile.js" timestamp="1456383576686" />
+      <file name="$USER_HOME$/Develop/operation-tool/node_modules/material-ui/lib/icon-button.js" timestamp="1456800113211">
+        <mark key="'" line="273" column="8" />
+      </file>
+      <file name="$USER_HOME$/Develop/operation-tool/gulpfile.js" timestamp="1456799233169" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/resources/application.properties" timestamp="1456478551340">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -249,6 +264,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/ColdFusion File.txt.ft" timestamp="1456472600048">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/FileSystem.java" timestamp="1454733631107" />
       <file name="$MAVEN_REPOSITORY$/com/worksap/tools/calcium-carbide-compiler/0.2.5-sp2/calcium-carbide-compiler-0.2.5-sp2-sources.jar!/com/worksap/tools/cac2/compiler/CaC2Compiler.java" timestamp="1456138391747" />
@@ -303,55 +321,60 @@
       <jump line="65" column="36" filename="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search-test/src/main/java/com/worksap/company/framework/elasticsearch/ElasticSearchTestClientFactoryBean.java" />
       <jump line="45" column="11" filename="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/com/worksap/company/log/LogSearch.java" />
       <jump line="17" column="48" filename="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" />
+      <jump line="281" column="21" filename="$USER_HOME$/Develop/operation-tool/node_modules/material-ui/lib/icon-button.js" />
+      <jump line="108" column="4" filename="$USER_HOME$/Develop/operation-tool/node_modules/material-ui/lib/icon-button.js" />
+      <jump line="251" column="31" filename="$USER_HOME$/Develop/operation-tool/node_modules/material-ui/lib/icon-button.js" />
+      <jump line="256" column="63" filename="$USER_HOME$/Develop/operation-tool/node_modules/material-ui/lib/icon-button.js" />
+      <jump line="273" column="8" filename="$USER_HOME$/Develop/operation-tool/node_modules/material-ui/lib/icon-button.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRoZmhqZmpmamZqZmYK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiNmMmYyZjI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fullWidth=&quot;true&quot;</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdcPg==</text>
+        <text encoding="base64">XDxpY29uQ2xhc3NOYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8TGlzdEl0ZW0gcHJpbWFyeVRleHQ9IkVDMiIgbGVmdENoZWNrYm94PXs8Q2hlY2tib3ggLz59IC8+Cg==</text>
+        <text encoding="base64">Y29uc3QgRmxhdEJ1dHRvbiA9IHJlcXVpcmUoJ21hdGVyaWFsLXVpL2xpYi9mbGF0LWJ1dHRvbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRoZmhqZmpmamZqZmYK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiNmMmYyZjI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBoaW50VGV4dD0iYmFsYWJhbGEiIGZsb2F0aW5nTGFiZWxUZXh0PSJJbnB1dCBzZWFyY2gga2V5IHdvcmRzIGhlcmUiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>fullWidth=&quot;true&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZmxleC1ncm93OjE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmxleC1zaHJpbms6MTsK</text>
       </register>
       <register name="5" type="4">
-        <text>body</text>
+        <text>div</text>
       </register>
       <register name="6" type="4">
-        <text>bodybody</text>
+        <text>height</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>Hint Text</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxCYWRnZSBiYWRnZUNvbnRlbnQ9ezR9IHByaW1hcnk9e3RydWV9ID4gPC9CYWRnZT4K</text>
+      <register name="8" type="4">
+        <text>black</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPE5vdGlmaWNhdGlvbnNJY29uIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9udEljb24gY2xhc3NOYW1lPSJtYXRlcmlhbC1pY29ucyIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxpY29uQ2xhc3NOYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpY29uQ2xhc3NOYW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjb25maWdcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -359,7 +382,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVc2VyU2VydmljZVw+</entry>
         <entry>.idea</entry>
         <entry>package</entry>
         <entry encoding="base64">XDxtb21lbnRcPg==</entry>
@@ -379,6 +401,7 @@
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry encoding="base64">XDxpY29uQ2xhc3NOYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
