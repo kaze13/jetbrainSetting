@@ -12,11 +12,6 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/OptimizerClosureImpl.java" timestamp="1456138240127" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/pom.xml" timestamp="1454654899758" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/src/main/webapp/lib/wap/page/container/application.js" timestamp="1456112770855" />
-      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/pom.xml" timestamp="1454647407937">
-        <mark key="[" line="894" column="0" />
-        <mark key="]" line="894" column="0" />
-        <mark key="." line="894" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/operation-tool/pom.xml" timestamp="1456888228562">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -73,11 +68,6 @@
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/RandomAccessFile.java" timestamp="1454732700477" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/Application.java" timestamp="1456304967062" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/lang/AutoCloseable.java" timestamp="1454731780886" />
-      <file name="$USER_HOME$/Develop/spring-react-example/pom.xml" timestamp="1456311222196">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/InputStream.java" timestamp="1454731803963" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/pom.xml" timestamp="1454647224718" />
       <file name="/ColdFusion Script Interface.txt.ft" timestamp="1456472596267">
@@ -192,17 +182,7 @@
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/Closeable.java" timestamp="1454732031895" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/gulpfile.js" timestamp="1456309061749" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/FileDescriptor.java" timestamp="1454733880537" />
-      <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/worksap/company/operation/application/Application.java" timestamp="1456307438660">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/React.java" timestamp="1456304884041" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/dist/main.css" timestamp="1456822625602">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="35" column="9" />
-        <mark key="." line="35" column="9" />
-      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/controller/MainController.java" timestamp="1456905176141">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="64" />
@@ -304,11 +284,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/spring-react-example/src/main/webapp/style/main.less" timestamp="1456309843324">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/FileSystem.java" timestamp="1454733631107" />
       <file name="$MAVEN_REPOSITORY$/com/worksap/tools/calcium-carbide-compiler/0.2.5-sp2/calcium-carbide-compiler-0.2.5-sp2-sources.jar!/com/worksap/tools/cac2/compiler/CaC2Compiler.java" timestamp="1456138391747" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/nio/channels/FileChannel.java" timestamp="1454732841711" />
@@ -328,10 +303,10 @@
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/src/test/java/com/worksap/company/framework/autoindex/AutoIndexProcessorTest.java" timestamp="1454654264605" />
       <file name="$MAVEN_REPOSITORY$/io/searchbox/jest/2.0.0/jest-2.0.0.pom" timestamp="1456476686801" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/log/LogSearch.java" timestamp="1456904304525">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/log/LogSearch.java" timestamp="1456911001400">
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="64" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/webapp/script/app.jsx" timestamp="1456306546821" />
       <file name="/fragment.java" timestamp="1456890478601">
@@ -381,11 +356,11 @@
       <jump line="51" column="0" filename="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logGroup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wetCount</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>wetCount</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpY29uQ2xhc3NOYW1lXD4=</text>
@@ -393,32 +368,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8TG9nR3JvdXAgdGl0bGU9IlRvZGF5IiBsZXZlbD0iRVJST1IiIGRhdGU9Imxhc3R3ZWVrIiAvPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>wetCount</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text>g</text>
+        <text>get</text>
       </register>
       <register name="3" type="4">
-        <text>toDate</text>
+        <text>key</text>
       </register>
       <register name="4" type="4">
-        <text>today</text>
+        <text>pair</text>
       </register>
-      <register name="5" type="4">
-        <text>today</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQK</text>
       </register>
       <register name="6" type="4">
-        <text>toDate</text>
+        <text encoding="base64">U3RyaW5nLCBMaXN0PExvZ0l0ZW0+</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIHJldHVybiAnZnJvbVRpbWVzdGFtcD0nICsgZnJvbURhdGUuZ2V0VGltZSgpICsgJyZ0b0RhdGU9JyArIHRvRGF0ZS5nZXRUaW1lKCk7</text>
+        <text>wetCount</text>
       </register>
       <register name="8" type="4">
-        <text>today</text>
+        <text>g</text>
       </register>
       <register name="9" type="4">
-        <text>today</text>
+        <text>toDate</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
