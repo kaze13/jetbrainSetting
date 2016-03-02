@@ -119,7 +119,7 @@
       <file name="/HTML File.txt.ft" timestamp="1456475903031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logItem.js" timestamp="1456892004604">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logItem.js" timestamp="1456909829337">
         <mark key="]" line="13" column="54" />
         <mark key="^" line="13" column="54" />
         <mark key="." line="13" column="54" />
@@ -278,12 +278,12 @@
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/.npmrc" timestamp="1456307704470" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-sdk/edp2-client/src/main/java/com/worksap/company/edp2/client/impl/secure/SecureApplicationManagerImpl.java" timestamp="1456398434093" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logGroup.js" timestamp="1456907151531">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logGroup.js" timestamp="1456909883009">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="23" column="27" />
-        <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="27" />
+        <mark key="[" line="41" column="67" />
+        <mark key="]" line="41" column="59" />
+        <mark key="^" line="41" column="59" />
+        <mark key="." line="41" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logCard.js" timestamp="1456472110115">
         <mark key="[" line="10" column="32" />
@@ -382,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toDate</text>
+        <text>wetCount</text>
       </register>
       <register name="-" type="4">
-        <text>toDate</text>
+        <text>wetCount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpY29uQ2xhc3NOYW1lXD4=</text>
@@ -394,31 +394,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8TG9nR3JvdXAgdGl0bGU9IlRvZGF5IiBsZXZlbD0iRVJST1IiIGRhdGU9Imxhc3R3ZWVrIiAvPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>toDate</text>
+        <text>wetCount</text>
       </register>
       <register name="2" type="4">
-        <text>today</text>
+        <text>g</text>
       </register>
       <register name="3" type="4">
-        <text>today</text>
-      </register>
-      <register name="4" type="4">
         <text>toDate</text>
       </register>
+      <register name="4" type="4">
+        <text>today</text>
+      </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIHJldHVybiAnZnJvbVRpbWVzdGFtcD0nICsgZnJvbURhdGUuZ2V0VGltZSgpICsgJyZ0b0RhdGU9JyArIHRvRGF0ZS5nZXRUaW1lKCk7</text>
+        <text>today</text>
       </register>
       <register name="6" type="4">
-        <text>today</text>
+        <text>toDate</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICAgIHJldHVybiAnZnJvbVRpbWVzdGFtcD0nICsgZnJvbURhdGUuZ2V0VGltZSgpICsgJyZ0b0RhdGU9JyArIHRvRGF0ZS5nZXRUaW1lKCk7</text>
+      </register>
+      <register name="8" type="4">
         <text>today</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdG9EYXRlID0gdG9EYXRlLnNldERhdGUodG9kYXkuZ2V0RGF0ZSgpIC0gMSk7Cg==</text>
+      <register name="9" type="4">
+        <text>today</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
