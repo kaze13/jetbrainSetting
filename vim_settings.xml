@@ -52,12 +52,12 @@
         <mark key="^" line="76" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456989226377">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456991716646">
         <mark key="'" line="17" column="48" />
-        <mark key="[" line="165" column="15" />
-        <mark key="]" line="29" column="29" />
-        <mark key="^" line="29" column="29" />
-        <mark key="." line="29" column="29" />
+        <mark key="[" line="165" column="39" />
+        <mark key="]" line="165" column="35" />
+        <mark key="^" line="165" column="35" />
+        <mark key="." line="165" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/java/com/worksap/company/framework/forneus/generator/handler/framework/PageHandler.java" timestamp="1456112834981" />
       <file name="$USER_HOME$/Develop/operation-tool/webpack.config.js" timestamp="1456976976244">
@@ -128,11 +128,11 @@
       <file name="/HTML File.txt.ft" timestamp="1456475903031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logItem.js" timestamp="1456989419545">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logItem.js" timestamp="1456991670720">
         <mark key="[" line="1" column="44" />
-        <mark key="]" line="1" column="44" />
-        <mark key="^" line="51" column="44" />
-        <mark key="." line="1" column="44" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search-test/pom.xml" timestamp="1456455691496" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-common/src/main/java/com/worksap/company/data/dto/RawLogging.java" timestamp="1456889750007" />
@@ -386,10 +386,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>flat</text>
+        <text>Error</text>
       </register>
       <register name="-" type="4">
-        <text>flat</text>
+        <text>Error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpY29uQ2xhc3NOYW1lXD4=</text>
@@ -398,31 +398,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7c2hvd0RldGFpbDpmYWxzZX0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>flat</text>
+        <text>Error</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IG1lbnUtaWNvbg==</text>
+        <text>Error</text>
       </register>
       <register name="3" type="4">
-        <text>menu</text>
+        <text>flat</text>
       </register>
       <register name="4" type="4">
-        <text>Font Icon</text>
+        <text encoding="base64">IG1lbnUtaWNvbg==</text>
       </register>
       <register name="5" type="4">
+        <text>menu</text>
+      </register>
+      <register name="6" type="4">
+        <text>Font Icon</text>
+      </register>
+      <register name="7" type="4">
         <text>raised</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Y29uc3QgVG9vbGJhciA9IHJlcXVpcmUoJ21hdGVyaWFsLXVpL2xpYi90b29sYmFyL3Rvb2xiYXInKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Y29uc3QgVG9vbGJhckdyb3VwID0gcmVxdWlyZSgnbWF0ZXJpYWwtdWkvbGliL3Rvb2xiYXIvdG9vbGJhci1ncm91cCcpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>Default</text>
-      </register>
-      <register name="9" type="4">
-        <text>}</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
