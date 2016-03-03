@@ -47,16 +47,16 @@
         <mark key="^" line="76" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456912222117">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/main.js" timestamp="1456977906162">
         <mark key="'" line="17" column="48" />
         <mark key="[" line="165" column="15" />
-        <mark key="]" line="165" column="15" />
-        <mark key="^" line="166" column="39" />
-        <mark key="." line="165" column="15" />
+        <mark key="]" line="29" column="29" />
+        <mark key="^" line="29" column="29" />
+        <mark key="." line="29" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/java/com/worksap/company/framework/forneus/generator/handler/framework/PageHandler.java" timestamp="1456112834981" />
-      <file name="$USER_HOME$/Develop/operation-tool/webpack.config.js" timestamp="1456905698726">
-        <mark key="[" line="26" column="5" />
+      <file name="$USER_HOME$/Develop/operation-tool/webpack.config.js" timestamp="1456976976244">
+        <mark key="[" line="4" column="28" />
         <mark key="]" line="26" column="5" />
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="5" />
@@ -76,11 +76,11 @@
       <file name="/ColdFusion Script Interface.txt.ft" timestamp="1456472596267">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logBlock.js" timestamp="1456970922154">
-        <mark key="[" line="44" column="41" />
-        <mark key="]" line="44" column="39" />
-        <mark key="." line="44" column="39" />
-        <mark key="^" line="44" column="39" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logBlock.js" timestamp="1456978014467">
+        <mark key="[" line="56" column="22" />
+        <mark key="]" line="56" column="37" />
+        <mark key="^" line="56" column="37" />
+        <mark key="." line="56" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/BeanConfiguration.java" timestamp="1456899984990">
         <mark key="[" line="15" column="48" />
@@ -118,7 +118,7 @@
       <file name="/HTML File.txt.ft" timestamp="1456475903031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logItem.js" timestamp="1456912140881">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logItem.js" timestamp="1456976425035">
         <mark key="]" line="13" column="54" />
         <mark key="^" line="13" column="54" />
         <mark key="." line="13" column="54" />
@@ -145,11 +145,11 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-api/edp2-api-spark-streaming/src/main/java/com/worksap/company/edp2/api/spark/streaming/AbstractSparkStreamingMain.java" timestamp="1454648066065" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/worksap/company/operation/controller/MainController.java" timestamp="1456307240084" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search-test/src/test/java/com/worksap/company/framework/elasticsearch/test/search/EmailTest.java" timestamp="1456454461398" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/logItem.less" timestamp="1456893117152">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="14" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/logItem.less" timestamp="1456978078358">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search/src/main/java/com/worksap/company/framework/elasticsearch/basic/docsearch/DocSearcher.java" timestamp="1456454417550" />
       <file name="$USER_HOME$/Develop/markdown/app/main.js" timestamp="1456306441829">
@@ -267,10 +267,11 @@
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/.npmrc" timestamp="1456307704470" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-sdk/edp2-client/src/main/java/com/worksap/company/edp2/client/impl/secure/SecureApplicationManagerImpl.java" timestamp="1456398434093" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logGroup.js" timestamp="1456913751210">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logGroup.js" timestamp="1456978249838">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="39" column="16" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logCard.js" timestamp="1456472110115">
         <mark key="[" line="10" column="32" />
@@ -364,44 +365,44 @@
       <jump line="51" column="0" filename="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logGroup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>group</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>detail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpY29uQ2xhc3NOYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8TG9nR3JvdXAgdGl0bGU9IlRvZGF5IiBsZXZlbD0iRVJST1IiIGRhdGU9Imxhc3R3ZWVrIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7c2hvd0RldGFpbDogdHJ1ZX0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>group</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgY29tcG9uZW50RGlkTW91bnQoKXsKICAgIHRoaXMuZmV0Y2hMb2dzKCk7CiAgfSwKCiAgZmV0Y2hMb2dzKCl7CiAgICBsZXQgY29tcG9uZW50XyA9IHRoaXM7CiAgICBsZXQgcXVlcnlVcmwgPSAnLi9sb2c/JyArIHRoaXMuZ2V0RGF0ZVJhbmdlUXVlcnlTdHJpbmcoKSArICAnJmxldmVsPScgKyB0aGlzLnByb3BzLmxldmVsOwogICAgZmV0Y2gocXVlcnlVcmwpLnRoZW4oZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgIHJldHVybiByZXNwb25zZS5qc29uKCk7CiAgICB9KS50aGVuKGZ1bmN0aW9uIChqc29uKSB7CiAgICAgIGNvbXBvbmVudF8uc2V0U3RhdGUoe2RhdGE6IGpzb259KTsKICAgIH0pCiAgfSwKCiAgZ2V0RGF0ZVJhbmdlUXVlcnlTdHJpbmcoKXsKICAgIGxldCB0b2RheSA9IG5ldyBEYXRlKCk7CiAgICBsZXQgZnJvbURhdGUgPSBuZXcgRGF0ZSgpOwogICAgbGV0IHRvRGF0ZSA9IG5ldyBEYXRlKCk7CiAgICBpZiAodGhpcy5wcm9wcy5kYXRlID09PSAndG9kYXknKSB7CiAgICAgIGZyb21EYXRlLnNldERhdGUodG9kYXkuZ2V0RGF0ZSgpIC0gMSk7CiAgICB9CiAgICBpZih0aGlzLnByb3BzLmRhdGUgPT09ICd5ZXN0ZXJkYXknKXsKICAgICAgZnJvbURhdGUuc2V0RGF0ZSh0b2RheS5nZXREYXRlKCkgLSAyKTsKICAgICAgdG9EYXRlLnNldERhdGUodG9kYXkuZ2V0RGF0ZSgpIC0gMSk7CiAgICB9CiAgICByZXR1cm4gJ2Zyb21UaW1lc3RhbXA9JyArIGZyb21EYXRlLmdldFRpbWUoKSArICcmdG9UaW1lc3RhbXA9JyArIHRvRGF0ZS5nZXRUaW1lKCk7CiAgfSw=</text>
+        <text>detail</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KG5ldyBMb2dJdGVtW117bG9nfSk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgIDxkaXY+CiAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJsb2ctZ3JvdXAtdGl0bGUiPkdyb3VwPC9oMz4KICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nLWdyb3VwCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>item</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>true</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmKGl0ZW0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>LogGroup</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
