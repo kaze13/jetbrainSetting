@@ -145,11 +145,11 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-api/edp2-api-spark-streaming/src/main/java/com/worksap/company/edp2/api/spark/streaming/AbstractSparkStreamingMain.java" timestamp="1454648066065" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/worksap/company/operation/controller/MainController.java" timestamp="1456307240084" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search-test/src/test/java/com/worksap/company/framework/elasticsearch/test/search/EmailTest.java" timestamp="1456454461398" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/logItem.less" timestamp="1456978078358">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/logItem.less" timestamp="1456981119546">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search/src/main/java/com/worksap/company/framework/elasticsearch/basic/docsearch/DocSearcher.java" timestamp="1456454417550" />
       <file name="$USER_HOME$/Develop/markdown/app/main.js" timestamp="1456306441829">
@@ -267,11 +267,11 @@
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/.npmrc" timestamp="1456307704470" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-sdk/edp2-client/src/main/java/com/worksap/company/edp2/client/impl/secure/SecureApplicationManagerImpl.java" timestamp="1456398434093" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logGroup.js" timestamp="1456978249838">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="39" column="16" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logGroup.js" timestamp="1456980950199">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="43" column="45" />
+        <mark key="." line="2" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logCard.js" timestamp="1456472110115">
         <mark key="[" line="10" column="32" />
@@ -366,10 +366,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOjEwMCU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>detail</text>
+        <text>flat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpY29uQ2xhc3NOYW1lXD4=</text>
@@ -378,31 +378,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7c2hvd0RldGFpbDogdHJ1ZX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOjEwMCU7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>detail</text>
+        <text>flat</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="3" type="4">
+        <text>style={style}</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgIDxkaXY+CiAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJsb2ctZ3JvdXAtdGl0bGUiPkdyb3VwPC9oMz4KICAgICAgICA8L2Rpdj4=</text>
+        <text>Defaulbt</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bG9nLWdyb3VwCg==</text>
+      <register name="5" type="4">
+        <text>20px</text>
       </register>
       <register name="6" type="4">
-        <text>item</text>
+        <text>Default</text>
       </register>
-      <register name="7" type="4">
-        <text>true</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3aWR0aDoxMDAlOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>GROUP HEAD</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
