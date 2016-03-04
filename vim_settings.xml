@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/WEB-INF/page/index.jsp" timestamp="1456988838355">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="13" column="59" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/WEB-INF/page/index.jsp" timestamp="1457080047628">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="9" column="40" />
       </file>
       <file name="/a.dummy" timestamp="1456912177563">
         <mark key="[" line="0" column="0" />
@@ -92,7 +92,7 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="56" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/BeanConfiguration.java" timestamp="1456899984990">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/BeanConfiguration.java" timestamp="1457080865804">
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="48" />
         <mark key="." line="15" column="48" />
@@ -128,11 +128,11 @@
       <file name="/HTML File.txt.ft" timestamp="1456475903031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logItem.js" timestamp="1456991670720">
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="16" column="37" />
-        <mark key="^" line="16" column="37" />
-        <mark key="." line="16" column="37" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logItem.js" timestamp="1457080702492">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search-test/pom.xml" timestamp="1456455691496" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-common/src/main/java/com/worksap/company/data/dto/RawLogging.java" timestamp="1456889750007" />
@@ -282,7 +282,7 @@
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/.npmrc" timestamp="1456307704470" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-sdk/edp2-client/src/main/java/com/worksap/company/edp2/client/impl/secure/SecureApplicationManagerImpl.java" timestamp="1456398434093" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logGroup.js" timestamp="1456987363211">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/logGroup.js" timestamp="1457079721593">
         <mark key="[" line="2" column="46" />
         <mark key="]" line="19" column="36" />
         <mark key="^" line="19" column="36" />
@@ -386,10 +386,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Error</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="-" type="4">
-        <text>Error</text>
+        <text>method</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpY29uQ2xhc3NOYW1lXD4=</text>
@@ -398,31 +398,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7c2hvd0RldGFpbDpmYWxzZX0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>Error</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibG9nLWRldGFpbC1pdGVtIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxvZy1kZXRhaWwtbmFtZSI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2ctZGV0YWlsLWNvbnRlbnQiPjwvZGl2PgogICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="2" type="4">
-        <text>Error</text>
+        <text>method</text>
       </register>
-      <register name="3" type="4">
-        <text>flat</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IG1lbnUtaWNvbg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>menu</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>Font Icon</text>
+        <text>}</text>
       </register>
       <register name="7" type="4">
-        <text>raised</text>
+        <text>]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgVG9vbGJhciA9IHJlcXVpcmUoJ21hdGVyaWFsLXVpL2xpYi90b29sYmFyL3Rvb2xiYXInKTsK</text>
+      <register name="8" type="4">
+        <text>y</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgVG9vbGJhckdyb3VwID0gcmVxdWlyZSgnbWF0ZXJpYWwtdWkvbGliL3Rvb2xiYXIvdG9vbGJhci1ncm91cCcpOwo=</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
