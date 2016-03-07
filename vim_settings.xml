@@ -50,11 +50,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/Agent.java" timestamp="1457336608255">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/Agent.java" timestamp="1457337927378">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/src/main/java/com/worksap/company/framework/autoindex/AutoIndexProcessor.java" timestamp="1454653761693" />
       <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1456888250823">
@@ -156,6 +156,11 @@
       <file name="$USER_HOME$/Develop/react-router-tutorial/lessons/03-navigating-with-link.md" timestamp="1457319256789" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-common/src/main/java/com/worksap/company/data/dto/RawLogging.java" timestamp="1456889750007" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/CommentService.java" timestamp="1456304844676" />
+      <file name="$USER_HOME$/Develop/Benjamin-Franklin-13-Virtues/index.html" timestamp="1455869227070">
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
       <file name="/ColdFusion Tag Component.txt.ft" timestamp="1456472597195">
         <mark key="[" line="0" column="0" />
       </file>
@@ -268,10 +273,10 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/TDAgentManager.java" timestamp="1457336911037">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/TDAgentManager.java" timestamp="1457337996946">
+        <mark key="]" line="32" column="75" />
+        <mark key="." line="32" column="75" />
+        <mark key="^" line="32" column="75" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/PrecompiledSourceUnpackerImpl.java" timestamp="1456139102433" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/resources/application.properties" timestamp="1456309496443">
@@ -452,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiXG5DdXJyZW50IEVsZW1lbnQgOiIgKyBuTm9kZS5nZXROb2RlTmFtZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>staff</text>
@@ -464,7 +469,7 @@
         <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9Ii9tb25pdG9yIiBjb21wb25lbnQ9e01vbml0b3J9Lz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiXG5DdXJyZW50IEVsZW1lbnQgOiIgKyBuTm9kZS5nZXROb2RlTmFtZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -472,27 +477,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlN0YWZmIGlkIDogIiArIGVFbGVtZW50LmdldEF0dHJpYnV0ZSgiaWQiKSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGaXJzdCBOYW1lIDogIiArIGVFbGVtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJmaXJzdG5hbWUiKS5pdGVtKDApLmdldFRleHRDb250ZW50KCkpOwogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTGFzdCBOYW1lIDogIiArIGVFbGVtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJsYXN0bmFtZSIpLml0ZW0oMCkuZ2V0VGV4dENvbnRlbnQoKSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJOaWNrIE5hbWUgOiAiICsgZUVsZW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoIm5pY2tuYW1lIikuaXRlbSgwKS5nZXRUZXh0Q29udGVudCgpKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNhbGFyeSA6ICIgKyBlRWxlbWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgic2FsYXJ5IikuaXRlbSgwKS5nZXRUZXh0Q29udGVudCgpKTs=</text>
       </register>
-      <register name="5" type="4">
-        <text>staff</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiXG5DdXJyZW50IEVsZW1lbnQgOiIgKyBuTm9kZS5nZXROb2RlTmFtZSgpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>catch (SAXException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="9" type="4">
+        <text>staff</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
