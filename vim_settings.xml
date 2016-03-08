@@ -6,6 +6,11 @@
       <file name="/a.dummy" timestamp="1457408465852">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/pom.xml" timestamp="1454647407937">
+        <mark key="[" line="894" column="0" />
+        <mark key="]" line="894" column="0" />
+        <mark key="." line="894" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/charts/chart.js" timestamp="1456823678380" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/nio/channels/Channel.java" timestamp="1454732583098" />
       <file name="$USER_HOME$/Develop/spring-react-example/LICENSE" timestamp="1456306241124">
@@ -59,11 +64,11 @@
         <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/lang/Process.java" timestamp="1457407808940" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/TDAgentManagerSSHImpl.java" timestamp="1457408645977">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="9" />
-        <mark key="^" line="20" column="9" />
-        <mark key="." line="20" column="9" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/TDAgentManagerSSHImpl.java" timestamp="1457409573233">
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="51" column="3" />
+        <mark key="^" line="51" column="3" />
+        <mark key="." line="51" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/webpack.config.js" timestamp="1456310114209">
         <mark key="[" line="4" column="23" />
@@ -71,11 +76,11 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/TDAgentManagerAnsibleImpl.java" timestamp="1457408634812">
-        <mark key="[" line="8" column="65" />
-        <mark key="]" line="12" column="35" />
-        <mark key="^" line="12" column="35" />
-        <mark key="." line="12" column="35" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/TDAgentManagerAnsibleImpl.java" timestamp="1457409872433">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="17" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/react-router-tutorial/lessons/02-rendering-a-router.md" timestamp="1457319374803" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/PrecompiledSourceUnpackerNoOpImpl.java" timestamp="1456137019035" />
@@ -91,16 +96,20 @@
       <file name="/ColdFusion Tag Component.txt.ft" timestamp="1456472597195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/agent/AnsibleExecutorTest.java" timestamp="1457408306722">
+      <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/agent/AnsibleExecutorTest.java" timestamp="1457409626051">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="70" />
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1456311474291" />
       <file name="$USER_HOME$/Develop/react-router-tutorial/index.js" timestamp="1457319293713" />
       <file name="$USER_HOME$/Develop/markdown/app/webpack.config.js" timestamp="1456306376961" />
       <file name="$USER_HOME$/Develop/elasticsearch-tutorial/src/main/java/org/jai/search/setup/impl/SetupIndexServiceImpl.java" timestamp="1456456408301" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/logItem.less" timestamp="1456989047328">
+        <mark key="[" line="91" column="19" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="/AnnotationType.txt.ft" timestamp="1456472588123">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,6 +121,16 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-report-engine/src/main/java/com/worksap/company/framework/report/denormalize/DtoConverterProcessor.java" timestamp="1454654780909" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/Closeable.java" timestamp="1454732031895" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/gulpfile.js" timestamp="1456309061749" />
+      <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/worksap/company/operation/application/Application.java" timestamp="1456307438660">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/dist/main.css" timestamp="1456822625602">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="35" column="9" />
+        <mark key="." line="35" column="9" />
+      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/log/LogItem.java" timestamp="1457336601644" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-visualization-server/package.json" timestamp="1456308281009">
         <mark key="[" line="6" column="40" />
@@ -204,6 +223,11 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/OptimizerClosureImpl.java" timestamp="1456138240127" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/pom.xml" timestamp="1454654899758" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/src/main/webapp/lib/wap/page/container/application.js" timestamp="1456112770855" />
+      <file name="$USER_HOME$/Develop/operation-tool/pom.xml" timestamp="1457323906845">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/security/AccessController.java" timestamp="1455612203602" />
       <file name="/Interface.txt.ft" timestamp="1456472587158">
         <mark key="[" line="0" column="0" />
@@ -217,6 +241,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/1.6.0/elasticsearch-1.6.0-sources.jar!/org/elasticsearch/client/node/NodeClient.java" timestamp="1456455348422" />
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/1.6.0/elasticsearch-1.6.0.pom" timestamp="1456457307133" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/main.less" timestamp="1457084627723">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/TDAgentSSHManager.java" timestamp="1457408441971">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -232,6 +261,11 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-report-engine/src/main/java/com/worksap/company/framework/report/service/impl/magiclayout/LayoutOutputServiceImpl.java" timestamp="1454731734333" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/Application.java" timestamp="1456304967062" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/lang/AutoCloseable.java" timestamp="1454731780886" />
+      <file name="$USER_HOME$/Develop/spring-react-example/pom.xml" timestamp="1456311222196">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/InputStream.java" timestamp="1454731803963" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/BeanConfiguration.java" timestamp="1457080865804">
         <mark key="[" line="15" column="48" />
@@ -253,12 +287,12 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/AnsibleExecutor.java" timestamp="1457408608281">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/AnsibleExecutor.java" timestamp="1457409892274">
         <mark key="'" line="15" column="21" />
-        <mark key="[" line="15" column="64" />
-        <mark key="]" line="15" column="64" />
-        <mark key="." line="15" column="64" />
-        <mark key="^" line="15" column="14" />
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="53" />
+        <mark key="." line="14" column="53" />
+        <mark key="^" line="14" column="53" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/1.6.0/elasticsearch-1.6.0-sources.jar!/org/elasticsearch/search/builder/SearchSourceBuilder.java" timestamp="1456904112517" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/controller/TDAgentManagerController.java" timestamp="1457336222276">
@@ -318,6 +352,11 @@
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/FileDescriptor.java" timestamp="1454733880537" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/winterbe/react/React.java" timestamp="1456304884041" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/monitor.js" timestamp="1457318282500">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/controller/MainController.java" timestamp="1456912409822">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="64" />
@@ -336,11 +375,11 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/TDAgentManager.java" timestamp="1457408508849">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/TDAgentManager.java" timestamp="1457409878470">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+        <mark key="^" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/PrecompiledSourceUnpackerImpl.java" timestamp="1456139102433" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/resources/application.properties" timestamp="1456309496443">
@@ -374,6 +413,11 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-annotations/src/main/java/com/worksap/company/framework/autoindex/annotation/AutoIndex.java" timestamp="1454653305857" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/UncheckedIO.java" timestamp="1456137024914" />
       <file name="$USER_HOME$/Develop/operation-tool/.babelrc" timestamp="1456905419762">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/spring-react-example/src/main/webapp/style/main.less" timestamp="1456309843324">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -447,13 +491,11 @@
       <jump line="28" column="21" filename="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/AnsibleExecutor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**
- * Created by kaze13 on 16-3-8.
- */</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQK</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRwdXRcPg==</text>
@@ -461,36 +503,32 @@
       <register name="0" type="2">
         <text encoding="base64">dwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>/**
- * Created by kaze13 on 16-3-8.
- */</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQK</text>
       </register>
       <register name="2" type="4">
-        <text>public</text>
+        <text>return</text>
       </register>
       <register name="3" type="4">
-        <text>/**
- * Created by kaze13 on 16-3-8.
- */</text>
+        <text>private</text>
       </register>
       <register name="4" type="4">
-        <text>class</text>
+        <text>private</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>return</text>
       </register>
-      <register name="6" type="4">
-        <text>public</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text>public</text>
+        <text>Strin</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbnNpYmxlRXhlY3V0b3IKICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
