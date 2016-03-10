@@ -6,7 +6,12 @@
       <file name="/a.dummy" timestamp="1457584275422">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/middleware/ansible/AnsibleExecutorTest.java" timestamp="1457515099810" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/middleware/ansible/AnsibleExecutorTest.java" timestamp="1457590652308">
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="25" column="87" />
+        <mark key="^" line="25" column="87" />
+        <mark key="." line="25" column="87" />
+      </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/pom.xml" timestamp="1454647407937">
         <mark key="[" line="894" column="0" />
         <mark key="]" line="894" column="0" />
@@ -22,11 +27,11 @@
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/io/CharStreams.java" timestamp="1457491856731" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/nio/channels/Channel.java" timestamp="1454732583098" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/StringReader.java" timestamp="1457493999476" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/ansible/AnsibleService.java" timestamp="1457585385191">
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="72" />
-        <mark key="^" line="17" column="72" />
-        <mark key="." line="17" column="72" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/ansible/AnsibleService.java" timestamp="1457590593466">
+        <mark key="[" line="17" column="79" />
+        <mark key="]" line="17" column="79" />
+        <mark key="^" line="17" column="79" />
+        <mark key="." line="17" column="79" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/Agent.java" timestamp="1457342867167">
         <mark key="[" line="13" column="23" />
@@ -67,6 +72,12 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/middleware/ansible/PlaybookServiceTest.java" timestamp="1457590707936">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="20" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-webserver/pom.xml" timestamp="1454647224718" />
       <file name="/ColdFusion Script Interface.txt.ft" timestamp="1456472596267">
@@ -181,10 +192,10 @@
       <file name="/AnnotationType.txt.ft" timestamp="1456472588123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/CassandraManagerImpl.java" timestamp="1457580419166">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/CassandraManagerImpl.java" timestamp="1457590744956">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
         <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/ssh/Agent.java" timestamp="1457584227759" />
@@ -225,7 +236,7 @@
         <mark key="^" line="109" column="37" />
         <mark key="." line="109" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/ansible/AnsibleExecutor.java" timestamp="1457585372755">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/ansible/AnsibleExecutor.java" timestamp="1457590408913">
         <mark key="[" line="45" column="91" />
         <mark key="]" line="45" column="91" />
         <mark key="." line="45" column="91" />
@@ -238,12 +249,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/elasticsearch-tutorial/src/main/java/org/jai/search/client/impl/SearchClientServiceImpl.java" timestamp="1456456267744" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/ansible/PlaybookService.java" timestamp="1457586116774">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="19" />
-        <mark key="." line="30" column="19" />
-        <mark key="^" line="30" column="19" />
-      </file>
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/ansible/PlaybookService.java" timestamp="1457590579320" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/com/worksap/company/log/LogSearch.java" timestamp="1456902765892">
         <mark key="[" line="30" column="54" />
         <mark key="]" line="30" column="59" />
@@ -347,7 +353,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/searchbox/jest/2.0.0/jest-2.0.0.pom" timestamp="1456476686801" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/webapp/script/app.jsx" timestamp="1456306546821" />
-      <file name="/fragment.java" timestamp="1457585187898">
+      <file name="/fragment.java" timestamp="1457590616635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -398,6 +404,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/nio/channels/Channels.java" timestamp="1457590236464" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/InputStream.java" timestamp="1454731803963" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/BeanConfiguration.java" timestamp="1457516594016">
         <mark key="[" line="9" column="14" />
@@ -426,10 +433,10 @@
         <mark key="." line="53" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/BufferedInputStream.java" timestamp="1457494502750" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/RedisManagerImpl.java" timestamp="1457505317614">
-        <mark key="[" line="27" column="100" />
-        <mark key="]" line="27" column="104" />
-        <mark key="." line="27" column="104" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/RedisManagerImpl.java" timestamp="1457590738579">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
         <mark key="^" line="27" column="104" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/1.6.0/elasticsearch-1.6.0-sources.jar!/org/elasticsearch/search/builder/SearchSourceBuilder.java" timestamp="1456904112517" />
@@ -616,11 +623,11 @@
         <mark key="^" line="6" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/searchbox/jest-common/2.0.0/jest-common-2.0.0.jar!/io/searchbox/core/SearchResult.class" timestamp="1456888613562" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/TDAgentManagerAnsibleImpl.java" timestamp="1457583656498">
-        <mark key="[" line="26" column="100" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="29" />
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/TDAgentManagerAnsibleImpl.java" timestamp="1457590779417">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="29" column="66" />
+        <mark key="^" line="29" column="66" />
+        <mark key="." line="29" column="66" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/style/chart.less" timestamp="1456822347932">
         <mark key="[" line="1" column="8" />
@@ -725,11 +732,11 @@
       <jump line="23" column="93" filename="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/AnsibleExecutor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>website</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbnNpYmxlRXhlY3V0b3IuZXhlY3V0ZVdpdGhQbGF5Ym9vayhob3N0TmFtZSwgYW5zaWJsZUV4ZWN1dG9yLmdldERlZmF1bHRQbGF5Ym9va0J5VGFza05hbWUoImNhc3NhbmRyYS9yZXN0YXJ0IikpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>website</text>
+        <text>ull</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5Ym9va1BhdGhcPg==</text>
@@ -737,32 +744,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYW5hZ2VyLnN0YXJ0KCJwZXJzb25hbGl6ZS1ub2RlLTYiKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>website</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbnNpYmxlRXhlY3V0b3IuZXhlY3V0ZVdpdGhQbGF5Ym9vayhob3N0TmFtZSwgYW5zaWJsZUV4ZWN1dG9yLmdldERlZmF1bHRQbGF5Ym9va0J5VGFza05hbWUoImNhc3NhbmRyYS9yZXN0YXJ0IikpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;http://www.website.com/information.asp&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhbnNpYmxlRXhlY3V0b3IuZXhlY3V0ZVdpdGhQbGF5Ym9vayhob3N0TmFtZSwgYW5zaWJsZUV4ZWN1dG9yLmdldERlZmF1bHRQbGF5Ym9va0J5VGFza05hbWUoImNhc3NhbmRyYS9zdG9wIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlV3JpdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBhbnNpYmxlRXhlY3V0b3IuZXhlY3V0ZVdpdGhQbGF5Ym9vayhob3N0TmFtZSwgYW5zaWJsZUV4ZWN1dG9yLmdldERlZmF1bHRQbGF5Ym9va0J5VGFza05hbWUoImNhc3NhbmRyYS9zdGFydCIpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>fetchFromRepo</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbnNpYmxlRXhlY3V0b3IuZXhlY3V0ZVdpdGhQbGF5Ym9vayhob3N0TmFtZSwgYW5zaWJsZUV4ZWN1dG9yLmdldERlZmF1bHRQbGF5Ym9va0J5VGFza05hbWUoInJlZGlzL3Jlc3RhcnQiKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBsYXlib29rIGZpbmRCeQo=</text>
+        <text encoding="base64">ICAgICAgICBhbnNpYmxlRXhlY3V0b3IuZXhlY3V0ZVdpdGhQbGF5Ym9vayhob3N0TmFtZSwgYW5zaWJsZUV4ZWN1dG9yLmdldERlZmF1bHRQbGF5Ym9va0J5VGFza05hbWUoInJlZGlzL3N0b3AiKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICBhbnNpYmxlRXhlY3V0b3IuZXhlY3V0ZVdpdGhQbGF5Ym9vayhob3N0TmFtZSwgYW5zaWJsZUV4ZWN1dG9yLmdldERlZmF1bHRQbGF5Ym9va0J5VGFza05hbWUoInJlZGlzL3N0YXJ0IikpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBrYXplMTMgb24gMTYtMy0xMC4K</text>
+      <register name="7" type="4">
+        <text>/**
+ * Created by kaze13 on 16-3-10.
+ */</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="8" type="4">
+        <text>ull</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyBpZDsK</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
