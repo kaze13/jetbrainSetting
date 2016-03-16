@@ -176,7 +176,7 @@
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/webapp/js/ui/defer-controller.js" timestamp="1457953183650" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/PrecompiledSourceUnpackerNoOpImpl.java" timestamp="1456137019035" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/role/RoleService.java" timestamp="1458038490717">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/role/RoleService.java" timestamp="1458096991205">
         <mark key="^" line="61" column="38" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/app/container/App.js" timestamp="1456467326882" />
@@ -493,7 +493,7 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/task/Task.java" timestamp="1458010446794">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/task/Task.java" timestamp="1458097497027">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -573,6 +573,11 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="18" />
       </file>
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/taskBoard.js" timestamp="1458098058335">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/com/worksap/company/elasticsearch/Client.java" timestamp="1456455908055">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="0" />
@@ -612,12 +617,12 @@
         <mark key="." line="17" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/Bits.java" timestamp="1457492163378" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/monitor.js" timestamp="1457318282500">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/monitor.js" timestamp="1458097672743">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/controller/MainController.java" timestamp="1457427952774">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/controller/MainController.java" timestamp="1458097015654">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="64" />
         <mark key="." line="26" column="64" />
@@ -750,7 +755,7 @@
         <mark key="^" line="2" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/worksap/tools/calcium-carbide-compiler/0.2.5-sp2/calcium-carbide-compiler-0.2.5-sp2-sources.jar!/com/worksap/tools/cac2/compiler/CaC2Compiler.java" timestamp="1456138391747" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/host/Host.java" timestamp="1458038758022">
+      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/host/Host.java" timestamp="1458097542263">
         <mark key="[" line="27" column="31" />
         <mark key="]" line="27" column="31" />
         <mark key="." line="27" column="31" />
@@ -841,8 +846,8 @@
       <jump line="18" column="13" filename="$USER_HOME$/Develop/operation-tool/src/main/webapp/dist/test.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>OneToMany</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>OneToMany</text>
@@ -853,32 +858,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCAwLCByZXN1bHQxLnNpemUoKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>OneToMany</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gYmFkIGltcGwK</text>
+        <text encoding="base64">cnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gYmFkIGltcGwK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
-      <register name="4" type="4">
-        <text>startAll</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>startRole</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrYXplMTMgb24gMTYtMy0xNi4K</text>
       </register>
-      <register name="6" type="4">
-        <text>startAll</text>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="4">
-        <text>startRole</text>
+        <text>OneToMany</text>
       </register>
-      <register name="8" type="4">
-        <text>ansible</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gYmFkIGltcGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFF1YWxpZmllcigidGRhZ2VudC1zc2giKQo=</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gYmFkIGltcGwK</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
