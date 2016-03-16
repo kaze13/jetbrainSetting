@@ -74,7 +74,7 @@
         <mark key="^" line="7" column="58" />
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/RandomAccessFile.java" timestamp="1457594909069" />
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskCenter.js" timestamp="1458111341438">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskCenter.js" timestamp="1458125287349">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="13" column="19" />
         <mark key="." line="13" column="19" />
@@ -201,6 +201,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.9.2.RELEASE/spring-data-commons-1.9.2.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class" timestamp="1457516990132" />
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/util/Set.java" timestamp="1458032421055" />
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/logBlock.js" timestamp="1458114043601" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/node_modules/react/lib/ReactUpdates.js" timestamp="1458125340761" />
       <file name="$USER_HOME$/Develop/WorkSpace/company-ux-analyzer/company-ux-common/src/main/java/com/worksap/company/data/dto/RawLogging.java" timestamp="1456889750007" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/webapp/js/net/partial-update-client.js" timestamp="1457953319119" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/spec/MiddlewareManager.java" timestamp="1458037159220">
@@ -239,7 +240,7 @@
       <file name="/AnnotationType.txt.ft" timestamp="1456472588123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskboard.js" timestamp="1458123808116">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskboard.js" timestamp="1458125239775">
         <mark key="[" line="47" column="64" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -454,7 +455,7 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/searchbox/jest/2.0.0/jest-2.0.0.pom" timestamp="1456476686801" />
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/createTaskDialog.js" timestamp="1458120097098">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/createTaskDialog.js" timestamp="1458125298389">
         <mark key="[" line="60" column="17" />
         <mark key="]" line="86" column="75" />
         <mark key="^" line="86" column="75" />
