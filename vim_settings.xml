@@ -86,7 +86,7 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskService.java" timestamp="1458113750183">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskService.java" timestamp="1458118949230">
         <mark key="[" line="26" column="30" />
         <mark key="]" line="26" column="40" />
         <mark key="^" line="26" column="40" />
@@ -239,11 +239,11 @@
       <file name="/AnnotationType.txt.ft" timestamp="1456472588123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskboard.js" timestamp="1458114997670">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskboard.js" timestamp="1458120560151">
+        <mark key="[" line="47" column="64" />
+        <mark key="]" line="43" column="41" />
+        <mark key="." line="43" column="41" />
+        <mark key="^" line="43" column="41" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/CassandraManagerImpl.java" timestamp="1458037010305">
         <mark key="[" line="10" column="8" />
@@ -454,11 +454,11 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/searchbox/jest/2.0.0/jest-2.0.0.pom" timestamp="1456476686801" />
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/createTaskDialog.js" timestamp="1458114971155">
-        <mark key="[" line="42" column="7" />
-        <mark key="]" line="83" column="60" />
-        <mark key="." line="83" column="60" />
-        <mark key="^" line="83" column="60" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/createTaskDialog.js" timestamp="1458120097098">
+        <mark key="[" line="60" column="17" />
+        <mark key="]" line="86" column="75" />
+        <mark key="^" line="86" column="75" />
+        <mark key="." line="86" column="75" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/webpack.config.js" timestamp="1458111381594">
         <mark key="[" line="17" column="27" />
@@ -948,11 +948,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskCenter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjcmVhdGUgdGFzawo=</text>
+      <register name="&quot;" type="4">
+        <text>SELECTED_ID</text>
       </register>
       <register name="-" type="4">
-        <text>Source</text>
+        <text>SELECTED_ID</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5Ym9va1BhdGhcPg==</text>
@@ -960,32 +960,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7bmFtZTonc291cmNlJyx0aXRsZTonU291cmNlJ30K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjcmVhdGUgdGFzawo=</text>
+      <register name="1" type="4">
+        <text>SELECTED_ID</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPSIvdGFza2JvYXJkIiBjb21wb25lbnQ9e1Rhc2tCb2FyZH0vPgo=</text>
+      <register name="4" type="4">
+        <text>=</text>
       </register>
       <register name="5" type="4">
-        <text>Source</text>
+        <text encoding="base64">ID0g</text>
       </register>
-      <register name="6" type="4">
-        <text>source</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBrZXlib2FyZEZvY3VzZWQ9e3RydWV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7bmFtZTondHlwZScsIHRpdGxlOidUeXBlJywgd2lkdGg6ICcyMDAnfSwK</text>
+        <text encoding="base64">ICAgICAgICAgIG9uUmVxdWVzdENsb3NlPXt0aGlzLmhhbmRsZUNsb3NlfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgPEZsYXRCdXR0b24KICAgICAgICBsYWJlbD0iQ2FuY2VsIgogICAgICAgIHByaW1hcnk9e2ZhbHNlfQogICAgICAgIGtleWJvYXJkRm9jdXNlZD17dHJ1ZX0KICAgICAgICBvblRvdWNoVGFwPXt0aGlzLmhhbmRsZUNsb3NlfQogICAgICAvPiw=</text>
       </register>
       <register name="9" type="4">
-        <text />
+        <text>handleClose</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
