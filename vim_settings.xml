@@ -365,6 +365,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/.npmrc" timestamp="1456307704470" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/application.properties" timestamp="1458116785361">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/resources/ansible-playbook/td-agent/fetch.yml" timestamp="1457593136489">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="45" />
