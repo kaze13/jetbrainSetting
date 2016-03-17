@@ -74,7 +74,7 @@
         <mark key="^" line="7" column="58" />
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/RandomAccessFile.java" timestamp="1457594909069" />
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskCenter.js" timestamp="1458125287349">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskCenter.js" timestamp="1458181767505">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="13" column="19" />
         <mark key="." line="13" column="19" />
@@ -119,9 +119,6 @@
         <mark key="]" line="56" column="21" />
         <mark key="^" line="56" column="21" />
         <mark key="." line="56" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/spring-react-example/.gitignore" timestamp="1456308508300">
-        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-client-lib/src/main/webapp/js/ui/defer-component.js" timestamp="1457953190922" />
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/1.6.0/elasticsearch-1.6.0-sources.jar!/org/elasticsearch/index/query/FilteredQueryBuilder.java" timestamp="1456904071682" />
@@ -240,10 +237,10 @@
       <file name="/AnnotationType.txt.ft" timestamp="1456472588123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskboard.js" timestamp="1458125239775">
-        <mark key="[" line="47" column="64" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskboard.js" timestamp="1458182177043">
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="26" />
+        <mark key="." line="49" column="26" />
         <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/CassandraManagerImpl.java" timestamp="1458037010305">
@@ -461,9 +458,6 @@
         <mark key="^" line="86" column="75" />
         <mark key="." line="86" column="75" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/webpack.config.js" timestamp="1458111381594">
-        <mark key="[" line="17" column="27" />
-      </file>
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/webapp/script/app.jsx" timestamp="1456306546821" />
       <file name="/fragment.java" timestamp="1458113467286">
         <mark key="[" line="0" column="0" />
@@ -497,9 +491,6 @@
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/forneus-closure-js-optimizer/src/main/java/com/worksap/company/framework/forneus/optimizer/closure/OptimizerClosureImpl.java" timestamp="1456138240127" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-autoindex-processor/pom.xml" timestamp="1454654899758" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-hue-front/src/main/webapp/lib/wap/page/container/application.js" timestamp="1456112770855" />
-      <file name="$USER_HOME$/Develop/operation-tool/pom.xml" timestamp="1458034662094">
-        <mark key="[" line="63" column="21" />
-      </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/security/AccessController.java" timestamp="1455612203602" />
       <file name="/Interface.txt.ft" timestamp="1456472587158">
         <mark key="[" line="0" column="0" />
@@ -635,6 +626,7 @@
       </file>
       <file name="$USER_HOME$/Develop/material-ui/examples/webpack-example/src/app/app.jsx" timestamp="1456306064559" />
       <file name="$USER_HOME$/Develop/elasticsearch-tutorial/src/test/java/org/jai/search/parts/two/ElasticSearchTutPart2Test.java" timestamp="1456456622232" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/ansible-hosts" timestamp="1458181373496" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-edp2/edp2-api/edp2-api-spark-streaming/src/main/java/com/worksap/company/edp2/api/spark/streaming/AbstractSparkStreamingMain.java" timestamp="1454648066065" />
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/java/com/worksap/company/operation/controller/MainController.java" timestamp="1456307240084" />
       <file name="$USER_HOME$/Develop/WorkSpace/HUE100/company-framework/company-framework/company-framework-search-test/src/test/java/com/worksap/company/framework/elasticsearch/test/search/EmailTest.java" timestamp="1456454461398" />
@@ -806,9 +798,6 @@
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/nio/channels/Selector.java" timestamp="1457600118454" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/resources/ansible-hosts" timestamp="1458040862113" />
-      <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/host/HostService.java" timestamp="1458040919542">
-        <mark key="[" line="30" column="46" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/searchbox/jest-common/2.0.0/jest-common-2.0.0.jar!/io/searchbox/core/SearchResult.class" timestamp="1456888613562" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/TDAgentManagerAnsibleImpl.java" timestamp="1458041209194">
         <mark key="[" line="89" column="0" />
@@ -833,9 +822,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/ColdFusion File.txt.ft" timestamp="1456472600048">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/app.js" timestamp="1452830047472">
         <mark key="[" line="2" column="0" />
