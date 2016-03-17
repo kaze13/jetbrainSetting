@@ -74,8 +74,8 @@
         <mark key="^" line="7" column="58" />
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/io/RandomAccessFile.java" timestamp="1457594909069" />
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskCenter.js" timestamp="1458181767505">
-        <mark key="[" line="12" column="11" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskCenter.js" timestamp="1458183759438">
+        <mark key="[" line="14" column="27" />
         <mark key="]" line="13" column="19" />
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
@@ -237,11 +237,11 @@
       <file name="/AnnotationType.txt.ft" timestamp="1456472588123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskboard.js" timestamp="1458182177043">
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="49" column="26" />
-        <mark key="." line="49" column="26" />
-        <mark key="^" line="23" column="0" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskboard.js" timestamp="1458184148974">
+        <mark key="[" line="8" column="65" />
+        <mark key="]" line="53" column="53" />
+        <mark key="." line="53" column="53" />
+        <mark key="^" line="53" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/CassandraManagerImpl.java" timestamp="1458037010305">
         <mark key="[" line="10" column="8" />
@@ -452,7 +452,7 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/searchbox/jest/2.0.0/jest-2.0.0.pom" timestamp="1456476686801" />
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/createTaskDialog.js" timestamp="1458125298389">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/createTaskDialog.js" timestamp="1458184243043">
         <mark key="[" line="60" column="17" />
         <mark key="]" line="86" column="75" />
         <mark key="^" line="86" column="75" />
@@ -935,44 +935,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/taskCenter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SELECTED_ID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SELECTED_ID</text>
+        <text>Broadcast</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5Ym9va1BhdGhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7bmFtZTonc291cmNlJyx0aXRsZTonU291cmNlJ30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUYWJsZVJvd0NvbHVtbj57cm93LmRlc2NyaXB0aW9ufTwvVGFibGVSb3dDb2x1bW4+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>SELECTED_ID</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Broadcast</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="4">
-        <text>=</text>
+        <text encoding="base64">ICAgPFRvb2xiYXJUaXRsZSB0ZXh0PSJPcHRpb25zIi8+CiAgICAgICAgICAgIDxGb250SWNvbiBjbGFzc05hbWU9Im11aWRvY3MtaWNvbi1jdXN0b20tc29ydCIvPgogICAgICAgICAgICA8SWNvbk1lbnUKICAgICAgICAgICAgICBpY29uQnV0dG9uRWxlbWVudD17CiAgICAgICAgICA8SWNvbkJ1dHRvbiB0b3VjaD17dHJ1ZX0+CiAgICAgICAgICAgIDxOYXZpZ2F0aW9uRXhwYW5kTW9yZUljb24gLz4KICAgICAgICAgIDwvSWNvbkJ1dHRvbj4KICAgICAgICB9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8TWVudUl0ZW0gcHJpbWFyeVRleHQ9IkRvd25sb2FkIi8+CiAgICAgICAgICAgICAgPE1lbnVJdGVtIHByaW1hcnlUZXh0PSJNb3JlIEluZm8iLz4KICAgICAgICAgICAgPC9JY29uTWVudT4=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ID0g</text>
+        <text encoding="base64">IDxEcm9wRG93bk1lbnUgdmFsdWU9ezN9PgogICAgICAgICAgICAgIDxNZW51SXRlbSB2YWx1ZT17MX0gcHJpbWFyeVRleHQ9IkFsbCBCcm9hZGNhc3RzIi8+CiAgICAgICAgICAgICAgPE1lbnVJdGVtIHZhbHVlPXsyfSBwcmltYXJ5VGV4dD0iQWxsIFZvaWNlIi8+CiAgICAgICAgICAgICAgPE1lbnVJdGVtIHZhbHVlPXszfSBwcmltYXJ5VGV4dD0iQWxsIFRleHQiLz4KICAgICAgICAgICAgICA8TWVudUl0ZW0gdmFsdWU9ezR9IHByaW1hcnlUZXh0PSJDb21wbGV0ZSBWb2ljZSIvPgogICAgICAgICAgICAgIDxNZW51SXRlbSB2YWx1ZT17NX0gcHJpbWFyeVRleHQ9IkNvbXBsZXRlIFRleHQiLz4KICAgICAgICAgICAgICA8TWVudUl0ZW0gdmFsdWU9ezZ9IHByaW1hcnlUZXh0PSJBY3RpdmUgVm9pY2UiLz4KICAgICAgICAgICAgICA8TWVudUl0ZW0gdmFsdWU9ezd9IHByaW1hcnlUZXh0PSJBY3RpdmUgVGV4dCIvPgogICAgICAgICAgICA8L0Ryb3BEb3duTWVudT4=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlib2FyZEZvY3VzZWQ9e3RydWV9Cg==</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uUmVxdWVzdENsb3NlPXt0aGlzLmhhbmRsZUNsb3NlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgPEZsYXRCdXR0b24KICAgICAgICBsYWJlbD0iQ2FuY2VsIgogICAgICAgIHByaW1hcnk9e2ZhbHNlfQogICAgICAgIGtleWJvYXJkRm9jdXNlZD17dHJ1ZX0KICAgICAgICBvblRvdWNoVGFwPXt0aGlzLmhhbmRsZUNsb3NlfQogICAgICAvPiw=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZGVzZWxlY3RPbkNsaWNrYXdheTogdHJ1ZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>handleClose</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZW5hYmxlU2VsZWN0QWxsOiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
