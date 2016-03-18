@@ -104,12 +104,6 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskService.java" timestamp="1458292269766">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="74" column="27" />
-        <mark key="^" line="74" column="27" />
-        <mark key="." line="74" column="27" />
-      </file>
       <file name="$USER_HOME$/Develop/markdown/index.js" timestamp="1452833798144">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="1" column="23" />
@@ -237,6 +231,11 @@
         <mark key="^" line="5" column="61" />
         <mark key="." line="5" column="61" />
       </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/ansible-playbook/td-agent/test.yml" timestamp="1458296760460">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/config/spec/ConfigManagerGitImpl.java" timestamp="1457504420778">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="0" column="54" />
@@ -250,10 +249,6 @@
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/task/taskboard.js" timestamp="1458295024059">
         <mark key="'" line="61" column="31" />
-        <mark key="[" line="80" column="18" />
-        <mark key="]" line="77" column="29" />
-        <mark key="^" line="77" column="29" />
-        <mark key="." line="77" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/CassandraManagerImpl.java" timestamp="1458037010305">
         <mark key="[" line="10" column="8" />
@@ -453,9 +448,9 @@
         <mark key="." line="30" column="77" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/controller/TaskController.java" timestamp="1458295023138">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/test/java/com/worksap/company/operation/middleware/host/HostServiceTest.java" timestamp="1458268635790">
         <mark key="[" line="39" column="138" />
@@ -494,10 +489,10 @@
         <mark key="^" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/ansible/AnsibleService.java" timestamp="1458291351177">
-        <mark key="[" line="24" column="85" />
-        <mark key="]" line="24" column="94" />
-        <mark key="." line="24" column="94" />
-        <mark key="^" line="24" column="94" />
+        <mark key="[" line="5" column="85" />
+        <mark key="]" line="5" column="94" />
+        <mark key="." line="5" column="94" />
+        <mark key="^" line="5" column="94" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/agent/TDAgentSSHManager.java" timestamp="1457408441971">
         <mark key="[" line="51" column="0" />
@@ -748,12 +743,6 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskExecutor.java" timestamp="1458295935476">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="34" column="10" />
-        <mark key="^" line="34" column="10" />
-        <mark key="." line="34" column="10" />
-      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/middleware/manager/TDAgentManagerSSHImplTest.java" timestamp="1458037774187">
         <mark key="[" line="29" column="48" />
         <mark key="]" line="29" column="90" />
@@ -902,10 +891,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiISEhISEhIWNhbid0IGNvbWUgaGVyZSIpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiB0ZXN0LnltbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>BufferedReader</text>
+        <text>RUNNING</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5Ym9va1BhdGhcPg==</text>
@@ -914,31 +903,31 @@
         <text encoding="base64">ICAgICAgICAgIDxkaXY+e18uZ2V0KHJlY29yZCwgJ3N0YXR1cycpfTwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiISEhISEhIWNhbid0IGNvbWUgaGVyZSIpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiB0ZXN0LnltbAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>BufferedReader</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBCdWZmZXJlZFJlYWRlciBleGVjdXRlVGFzayhUYXNrIHRhc2ssIExpc3Q8U3RyaW5nPiBsaW1pdGVIb3N0TmFtZXMsIE1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1ldGVycykgew==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>RUNNING</text>
       </register>
       <register name="7" type="4">
-        <text>public</text>
+        <text encoding="base64">VGFza1JlY29yZCBuZXdSZWNvcmQgPSA=</text>
       </register>
       <register name="8" type="4">
-        <text>running</text>
+        <text>StringBuilder</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>put</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
