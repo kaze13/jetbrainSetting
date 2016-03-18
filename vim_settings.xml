@@ -748,11 +748,11 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskExecutor.java" timestamp="1458295321520">
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="41" column="41" />
-        <mark key="^" line="41" column="41" />
-        <mark key="." line="41" column="41" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskExecutor.java" timestamp="1458295935476">
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="10" />
+        <mark key="^" line="34" column="10" />
+        <mark key="." line="34" column="10" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/middleware/manager/TDAgentManagerSSHImplTest.java" timestamp="1458037774187">
         <mark key="[" line="29" column="48" />
@@ -901,11 +901,11 @@
       <jump line="50" column="31" filename="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/task/taskboard.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>running</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiISEhISEhIWNhbid0IGNvbWUgaGVyZSIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>running</text>
+        <text>BufferedReader</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5Ym9va1BhdGhcPg==</text>
@@ -913,39 +913,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxkaXY+e18uZ2V0KHJlY29yZCwgJ3N0YXR1cycpfTwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>running</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiISEhISEhIWNhbid0IGNvbWUgaGVyZSIpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text>BufferedReader</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1Ygo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBCdWZmZXJlZFJlYWRlciBleGVjdXRlVGFzayhUYXNrIHRhc2ssIExpc3Q8U3RyaW5nPiBsaW1pdGVIb3N0TmFtZXMsIE1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1ldGVycykgew==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>//        response.getWriter().write(reader.readLine());
-//        InputStream targetStream =
-//                new ByteArrayInputStream(CharStreams.toString(reader)
-//                        .getBytes(Charsets.UTF_8));
-//        InputStreamResource inputStreamResource = new InputStreamResource(targetStream);
-//        final HttpHeaders headers = new HttpHeaders();
-//        headers.setContentType(MediaType.TEXT_PLAIN);
-//        return new ResponseEntity(inputStreamResource, headers, HttpStatus.OK);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
+      <register name="7" type="4">
+        <text>public</text>
       </register>
       <register name="8" type="4">
-        <text>ResponseEntity</text>
+        <text>running</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZVN0YXR1cyhIdHRwU3RhdHVzLk9LKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
