@@ -326,11 +326,11 @@
         <mark key="." line="59" column="73" />
         <mark key="^" line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/Execution.java" timestamp="1458564093379">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
-        <mark key="^" line="14" column="10" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/Execution.java" timestamp="1458615626931">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+        <mark key="^" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/task/createTaskDialog.js" timestamp="1458557050244">
         <mark key="[" line="42" column="0" />
@@ -622,12 +622,12 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskExecutor.java" timestamp="1458614336688">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskExecutor.java" timestamp="1458615616489">
         <mark key="'" line="82" column="50" />
-        <mark key="[" line="72" column="24" />
-        <mark key="]" line="73" column="11" />
-        <mark key="." line="73" column="11" />
-        <mark key="^" line="73" column="11" />
+        <mark key="[" line="72" column="8" />
+        <mark key="]" line="72" column="13" />
+        <mark key="." line="72" column="13" />
+        <mark key="^" line="72" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/webapp/script/components/chart.js" timestamp="1458031491199">
         <mark key="[" line="2" column="21" />
@@ -887,11 +887,11 @@
       <jump line="17" column="41" filename="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/ansible/AnsibleExecutor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBc3luYwo=</text>
+      <register name="&quot;" type="4">
+        <text>AsyncResult</text>
       </register>
       <register name="-" type="4">
-        <text>execution</text>
+        <text>AsyncResult</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXN0cm95ZXJcPg==</text>
@@ -899,32 +899,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IF9nZXQgZnJvbSAnbG9kYXNoL2dldCc7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBc3luYwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>execution</text>
-      </register>
-      <register name="3" type="4">
-        <text>execution</text>
-      </register>
-      <register name="4" type="4">
-        <text>n</text>
-      </register>
-      <register name="5" type="4">
+      <register name="1" type="4">
         <text>AsyncResult</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ZXhlY3V0b3Iuc3VibWl0KCgpLT57CgogICAgICAgIH0p</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBBc3luYwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>execution</text>
+      </register>
+      <register name="5" type="4">
+        <text>execution</text>
+      </register>
+      <register name="6" type="4">
+        <text>n</text>
+      </register>
+      <register name="7" type="4">
+        <text>AsyncResult</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">QE5vCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcih2YWx1ZSk7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBBc3luY1Jlc3VsdDxTdHJpbmc+</text>
-      </register>
-      <register name="9" type="4">
-        <text>Execution</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
