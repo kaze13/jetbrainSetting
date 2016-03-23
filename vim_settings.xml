@@ -130,9 +130,9 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskHistory.js" timestamp="1458716288401">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskHistory.js" timestamp="1458724046487">
         <mark key="'" line="142" column="11" />
-        <mark key="[" line="11" column="29" />
+        <mark key="[" line="119" column="16" />
         <mark key="]" line="21" column="16" />
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="16" />
@@ -556,11 +556,11 @@
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskHistory.less" timestamp="1458706270937">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="2" />
-        <mark key="." line="1" column="2" />
-        <mark key="^" line="1" column="2" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskHistory.less" timestamp="1458723876931">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/App.js" timestamp="1452833638694">
         <mark key="[" line="1" column="28" />
@@ -766,8 +766,8 @@
         <mark key="." line="17" column="9" />
         <mark key="^" line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskCenter.less" timestamp="1458718428420">
-        <mark key="[" line="1" column="16" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskCenter.less" timestamp="1458723711782">
+        <mark key="[" line="5" column="12" />
         <mark key="]" line="3" column="24" />
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
@@ -943,11 +943,11 @@
       <jump line="2843" column="6" filename="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/node_modules/react-router/umd/ReactRouter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>100vw</text>
       </register>
       <register name="-" type="4">
-        <text>transitionTo</text>
+        <text>100vw</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2l0aW9uVG9cPg==</text>
@@ -955,32 +955,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8dGFza0RldGFpbEl0ZW0ga2V5PSJQbGF5Ym9vayBOYW1lOiIgdmFsdWU9e19nZXQodGFzaywgJ3BsYXlib29rLm5hbWUnKX0vPgo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>100vw</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICBnb1RvSGlzdG9yeSgpewogICAgUm91dGVyLnRyYW5zaXRpb25UbygiLyIpOwogIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8TGluayB0bz0iL21vbml0b3IiPk1vbml0b3I8L0xpbms+Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>transitionTo</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>onTouchTap={this.handleOpenRunTaskDialog}</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGxhYmVsPSJIaXN0b3J5Ig==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Run task</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>detail</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
