@@ -122,6 +122,12 @@
         <mark key="^" line="39" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/nio/file/StandardCopyOption.java" timestamp="1458815530083" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/WEB-INF/page/index.jsp" timestamp="1458902989629">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/host/HostService.java" timestamp="1458880782096">
         <mark key="[" line="74" column="61" />
         <mark key="]" line="74" column="60" />
@@ -140,11 +146,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/nio/file/FileSystems.java" timestamp="1458813880203" />
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/webpack.config.js" timestamp="1458890977403">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-        <mark key="^" line="6" column="37" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/webpack.config.js" timestamp="1458902787718">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/roleBoard.js" timestamp="1458901091892">
         <mark key="'" line="35" column="15" />
@@ -475,7 +481,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGJvZHlTdHlsZT17e2hlaWdodDonNDB2aCd9fQ==</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiCiAgICAgICAgICByZWw9InN0eWxlc2hlZXQiPg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGJvZHlTdHlsZT17e2hlaWdodDonNDB2aCd9fQ==</text>
@@ -487,31 +493,31 @@
         <text encoding="base64">ICAgICAgICAgIDxIb3N0RGV0YWlsSXRlbSBuYW1lPSJTdGF0dXMiIHZhbHVlPXt0aGlzLnByb3BzLnN0YXR1c30vPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGJvZHlTdHlsZT17e2hlaWdodDonNDB2aCd9fQ==</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiCiAgICAgICAgICByZWw9InN0eWxlc2hlZXQiPg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICBkZXZ0b29sOiAnZXZhbC1zb3VyY2UtbWFwJywK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGJvZHlTdHlsZT17e2hlaWdodDonNDB2aCd9fQ==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5ydW5UYXNrQ2FsbGJhY2sodGhpcy5zdGF0ZS5ob3N0cywgdGhpcy5zdGF0ZS5wYXJhbXMpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>params</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>hosts</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IHJ1blRhc2s9e3RoaXMuZXhlY3V0ZVRhc2t9</text>
-      </register>
-      <register name="8" type="4">
-        <text>runTask</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
