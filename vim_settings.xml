@@ -109,7 +109,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/common.less" timestamp="1458900679624">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/common.less" timestamp="1459128070462">
         <mark key="[" line="6" column="89" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -150,13 +150,13 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-        <mark key="^" line="5" column="37" />
+        <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/roleBoard.js" timestamp="1458901091892">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/roleBoard.js" timestamp="1459128326274">
         <mark key="'" line="35" column="15" />
-        <mark key="[" line="230" column="39" />
-        <mark key="]" line="230" column="41" />
-        <mark key="." line="230" column="41" />
+        <mark key="[" line="242" column="93" />
+        <mark key="]" line="242" column="93" />
+        <mark key="." line="242" column="93" />
         <mark key="^" line="230" column="41" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/createTaskDialog.js" timestamp="1458720404314">
@@ -481,10 +481,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiCiAgICAgICAgICByZWw9InN0eWxlc2hlZXQiPg==</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJvZHlTdHlsZT17e2hlaWdodDonNDB2aCd9fQ==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVBBUkFUT1JcPg==</text>
@@ -493,31 +493,31 @@
         <text encoding="base64">ICAgICAgICAgIDxIb3N0RGV0YWlsSXRlbSBuYW1lPSJTdGF0dXMiIHZhbHVlPXt0aGlzLnByb3BzLnN0YXR1c30vPgo=</text>
       </register>
       <register name="1" type="4">
+        <text>false</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiCiAgICAgICAgICByZWw9InN0eWxlc2hlZXQiPg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBkZXZ0b29sOiAnZXZhbC1zb3VyY2UtbWFwJywK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IGJvZHlTdHlsZT17e2hlaWdodDonNDB2aCd9fQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5ydW5UYXNrQ2FsbGJhY2sodGhpcy5zdGF0ZS5ob3N0cywgdGhpcy5zdGF0ZS5wYXJhbXMpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>params</text>
       </register>
-      <register name="8" type="4">
-        <text>hosts</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IHJ1blRhc2s9e3RoaXMuZXhlY3V0ZVRhc2t9</text>
+        <text>hosts</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
