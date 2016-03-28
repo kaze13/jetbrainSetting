@@ -16,11 +16,6 @@
         <mark key="." line="92" column="17" />
         <mark key="^" line="92" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/manager/TDAgentManagerAnsibleImpl.java" timestamp="1458895503042">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="4" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/role/Role.java" timestamp="1458899300879">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -84,11 +79,11 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/controller/HostController.java" timestamp="1458896618071">
-        <mark key="[" line="30" column="35" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="0" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/controller/HostController.java" timestamp="1459133700134">
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="38" column="50" />
+        <mark key="^" line="38" column="50" />
+        <mark key="." line="38" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/common.less" timestamp="1459131201816">
         <mark key="[" line="6" column="89" />
@@ -109,16 +104,11 @@
         <mark key="^" line="20" column="88" />
         <mark key="." line="20" column="88" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/host/HostService.java" timestamp="1458880782096">
-        <mark key="[" line="74" column="61" />
-        <mark key="]" line="74" column="60" />
-        <mark key="^" line="74" column="60" />
-        <mark key="." line="74" column="60" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/application.properties" timestamp="1458899596068">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/host/HostService.java" timestamp="1459133641288">
+        <mark key="[" line="77" column="38" />
+        <mark key="]" line="77" column="48" />
+        <mark key="^" line="77" column="48" />
+        <mark key="." line="77" column="48" />
       </file>
       <file name="/dummy.sql" timestamp="1458900571237">
         <mark key="[" line="0" column="0" />
@@ -126,7 +116,7 @@
       <file name="/Dummy.txt" timestamp="1458813341918">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/package.json" timestamp="1459131847676">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/package.json" timestamp="1459132742626">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="32" column="34" />
@@ -139,12 +129,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/roleBoard.js" timestamp="1459128326274">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/roleBoard.js" timestamp="1459133382111">
         <mark key="'" line="35" column="15" />
-        <mark key="[" line="242" column="93" />
-        <mark key="]" line="242" column="93" />
-        <mark key="." line="242" column="93" />
-        <mark key="^" line="230" column="41" />
+        <mark key="[" line="272" column="74" />
+        <mark key="]" line="272" column="126" />
+        <mark key="." line="272" column="126" />
+        <mark key="^" line="272" column="126" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/createTaskDialog.js" timestamp="1458720404314">
         <mark key="[" line="90" column="31" />
@@ -158,7 +148,7 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="/fragment.java" timestamp="1458899360409">
+      <file name="/fragment.java" timestamp="1459133707145">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/controller/TaskController.java" timestamp="1458893235796">
@@ -167,10 +157,11 @@
         <mark key="." line="56" column="65" />
         <mark key="^" line="56" column="65" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/test/java/com/worksap/company/operation/middleware/host/HostServiceTest.java" timestamp="1458807218779">
-        <mark key="[" line="39" column="122" />
-        <mark key="]" line="39" column="122" />
-        <mark key="." line="39" column="122" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/test/java/com/worksap/company/operation/middleware/host/HostServiceTest.java" timestamp="1459133757841">
+        <mark key="[" line="70" column="58" />
+        <mark key="]" line="70" column="58" />
+        <mark key="." line="70" column="58" />
+        <mark key="^" line="70" column="58" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/ansible/AnsibleExecutor.java" timestamp="1458810648557" />
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/log/logItem.less" timestamp="1458788791771" />
@@ -179,11 +170,6 @@
         <mark key="]" line="49" column="42" />
         <mark key="." line="49" column="42" />
         <mark key="^" line="49" column="42" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/host/Host.java" timestamp="1458899306730">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskDetail.js" timestamp="1458818442546">
         <mark key="[" line="24" column="0" />
@@ -218,16 +204,6 @@
         <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Application/oracle-jdk-1.8.0_20/src.zip!/java/util/Optional.java" timestamp="1458889885334" />
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/main/main.js" timestamp="1458801684952">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/test/java/com/worksap/company/operation/middleware/role/RoleServiceTest.java" timestamp="1458807211165">
-        <mark key="[" line="47" column="51" />
-        <mark key="]" line="47" column="51" />
-        <mark key="." line="47" column="51" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/config/ConfigAtomicActionService.java" timestamp="1458891225532">
         <mark key="'" line="37" column="55" />
         <mark key="[" line="151" column="34" />
@@ -256,16 +232,6 @@
         <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/ansible-hosts" timestamp="1458896660833" />
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/controller/RoleController.java" timestamp="1458899359081">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/host/hostDetail.less" timestamp="1458892689054">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskRecord.java" timestamp="1458807566145">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -286,11 +252,11 @@
         <mark key="." line="26" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Optional.java" timestamp="1458888742601" />
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/host/HostRepository.java" timestamp="1458885173298">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="20" />
-        <mark key="^" line="21" column="20" />
-        <mark key="." line="21" column="20" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/host/HostRepository.java" timestamp="1459133583327">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/ansible/AnsibleOptions.java" timestamp="1458879056762" />
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/app/app.js" timestamp="1458802204195">
@@ -299,10 +265,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/roleBoard.less" timestamp="1458899783604">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/addHostsToRoleDialog.js" timestamp="1459133667550">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/chart/chart.js" timestamp="1458705684981">
         <mark key="[" line="2" column="10" />
@@ -328,7 +295,7 @@
         <mark key="^" line="40" column="11" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/host/hostManager.js" timestamp="1459131495043">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/host/hostManager.js" timestamp="1459132778996">
         <mark key="[" line="172" column="26" />
         <mark key="]" line="172" column="26" />
         <mark key="." line="172" column="26" />
@@ -439,43 +406,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb2xlU2VydmljZS4K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>findUnRoled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVBBUkFUT1JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxIb3N0RGV0YWlsSXRlbSBuYW1lPSJTdGF0dXMiIHZhbHVlPXt0aGlzLnByb3BzLnN0YXR1c30vPgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaGFuZGxlQ2xvc2UgPSB0aGlzLmhhbmRsZUNsb3NlLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb2xlU2VydmljZS4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>findUnRoled</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETyBzdGF0ZSBtdXN0IGJlIGltbXV0YWJsZQo=</text>
+      <register name="4" type="4">
+        <text>HOst</text>
       </register>
       <register name="5" type="4">
-        <text>false</text>
+        <text>props</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiCiAgICAgICAgICByZWw9InN0eWxlc2hlZXQiPg==</text>
+        <text>id</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZXZ0b29sOiAnZXZhbC1zb3VyY2UtbWFwJywK</text>
+      <register name="7" type="4">
+        <text>true</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGJvZHlTdHlsZT17e2hlaWdodDonNDB2aCd9fQ==</text>
+        <text>registerTaskDialogOpen</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
