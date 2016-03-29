@@ -145,12 +145,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskHistory.js" timestamp="1459219129484">
-        <mark key="'" line="86" column="23" />
-        <mark key="[" line="128" column="12" />
-        <mark key="]" line="128" column="11" />
-        <mark key="^" line="128" column="11" />
-        <mark key="." line="128" column="11" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskHistory.js" timestamp="1459224429984">
+        <mark key="'" line="84" column="23" />
+        <mark key="[" line="126" column="12" />
+        <mark key="]" line="126" column="11" />
+        <mark key="^" line="126" column="11" />
+        <mark key="." line="126" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/package.json" timestamp="1456308230571">
         <mark key="[" line="13" column="0" />
@@ -266,6 +266,7 @@
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="54" />
       </file>
+      <file name="$USER_HOME$/Develop/react-redux-starter-kit/src/views/HomeView/HomeView.js" timestamp="1459225166732" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/CassandraManagerImpl.java" timestamp="1458037010305">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="11" column="10" />
@@ -296,7 +297,7 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/runTaskDialog.js" timestamp="1459223618502">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/runTaskDialog.js" timestamp="1459224299775">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -439,6 +440,7 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
       </file>
+      <file name="$USER_HOME$/Develop/react-redux-starter-kit/src/main.js" timestamp="1459225106144" />
       <file name="$USER_HOME$/Develop/redux/examples/todomvc/actions/todos.js" timestamp="1458186582159">
         <mark key="[" line="23" column="43" />
         <mark key="]" line="26" column="9" />
@@ -481,7 +483,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/roleBoard.js" timestamp="1459147339423">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/roleBoard.js" timestamp="1459224815719">
         <mark key="'" line="214" column="58" />
         <mark key="[" line="229" column="56" />
         <mark key="]" line="229" column="56" />
