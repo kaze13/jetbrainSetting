@@ -111,6 +111,9 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/opt/node-v5.4.0-linux-x64/bin/node" version="5.4.0" last-modified="1452226561000" />
+  </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />

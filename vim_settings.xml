@@ -22,7 +22,7 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/role/Role.java" timestamp="1459140928650">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/role/Role.java" timestamp="1459219116896">
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="49" />
         <mark key="." line="17" column="49" />
@@ -150,7 +150,7 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskHistory.js" timestamp="1459151087269">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskHistory.js" timestamp="1459219129484">
         <mark key="'" line="86" column="23" />
         <mark key="[" line="128" column="12" />
         <mark key="]" line="128" column="11" />
@@ -291,6 +291,12 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
       </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/.eslintrc.js" timestamp="1459218805396">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/ansible-playbook/hosts/ping_host.yml" timestamp="1459148379672" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/resources/ansible-playbook/restart.yml" timestamp="1457428022578">
         <mark key="[" line="7" column="20" />
@@ -298,11 +304,11 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/runTaskDialog.js" timestamp="1459135514129">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="20" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/runTaskDialog.js" timestamp="1459219174706">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="30" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/controller/HostController.java" timestamp="1459140713114">
         <mark key="[" line="38" column="52" />
@@ -419,7 +425,7 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1459152007958">
+      <file name="/dummy.sql" timestamp="1459217934209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/markdownEditor.js" timestamp="1452829883314">
@@ -748,7 +754,7 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/host/hostDetail.less" timestamp="1459147967253" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/host/hostDetail.less" timestamp="1459219156065" />
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskRecord.java" timestamp="1458807566145">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1149,8 +1155,8 @@
       <jump line="34" column="34" filename="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/host/hostDetail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>taskboard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFJhaXNlZEJ1dHRvbiBmcm9tICdtYXRlcmlhbC11aS9saWIvcmFpc2VkLWJ1dHRvbic7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>taskboard</text>
@@ -1161,35 +1167,35 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IExpc3RJdGVtIGZyb20gJ21hdGVyaWFsLXVpL2xpYi9saXN0cy9saXN0LWl0ZW0nOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IFJhaXNlZEJ1dHRvbiBmcm9tICdtYXRlcmlhbC11aS9saWIvcmFpc2VkLWJ1dHRvbic7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAibm9kZSI6IHRydWUK</text>
+      </register>
+      <register name="4" type="4">
         <text>taskboard</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgPENhcmRBY3Rpb25zIGV4cGFuZGFibGU9e3RydWV9PgogICAgICAgICAgICAgICAgICAgICAgICAgIDxGbGF0QnV0dG9uIGxhYmVsPSJBY3Rpb24xIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvQ2FyZEFjdGlvbnM+</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                           Donec mattis pretium massa. Aliquam erat volutpat. Nulla facilisi.
                           Donec vulputate interdum sollicitudin. Nunc lacinia auctor quam sed pellentesque.
                           Aliquam dui mauris, mattis quis lacus id, pellentesque lobortis odio.</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>Subtitle</text>
       </register>
-      <register name="5" type="4">
-        <text>{props.name}</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7cHJvcHMudmFsdWV9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD5JbnN0YWxsZWQgUm9sZXM6PC9kaXY+Cg==</text>
-      </register>
       <register name="8" type="4">
-        <text>className=&quot;host-detail-item-name&quot;</text>
-      </register>
-      <register name="9" type="4">
         <text>{props.name}</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB7cHJvcHMudmFsdWV9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
