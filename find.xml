@@ -1,0 +1,26 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '/home/kaze13/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/runTaskDialog.js'" />
+    <option name="defaultScopeName" value="File '/home/kaze13/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/runTaskDialog.js'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/home/kaze13/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/runTaskDialog.js'" />
+    <option name="FILE_MASK" value="*.java" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
