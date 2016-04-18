@@ -34,16 +34,6 @@
         <mark key="^" line="25" column="85" />
         <mark key="." line="25" column="85" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/manager/TDAgentManagerAnsibleImpl.java" timestamp="1458895503042">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/role/Role.java" timestamp="1459219116896">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="49" />
-        <mark key="." line="17" column="49" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/ansible-playbook/td-agent/test2.yml" timestamp="1458622921825">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="21" />
@@ -92,7 +82,7 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/roleBoard.js" timestamp="1460974034568">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/roleBoard.js" timestamp="1460977273191">
         <mark key="[" line="42" column="52" />
         <mark key="]" line="327" column="79" />
         <mark key="^" line="327" column="79" />
@@ -347,11 +337,6 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/main/main.js" timestamp="1458801684952">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/middleware/ansible/AnsibleServiceTest.java" timestamp="1458037798854">
         <mark key="[" line="20" column="81" />
         <mark key="]" line="24" column="0" />
@@ -430,7 +415,7 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskboard.js" timestamp="1460968007332">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskboard.js" timestamp="1460977271677">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -676,11 +661,6 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/roleBoard.less" timestamp="1458899783604">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/monitor/monitor.js" timestamp="1458801584352">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -784,11 +764,6 @@
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
         <mark key="^" line="17" column="9" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/application.properties" timestamp="1458899596068">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/middleware.js" timestamp="1460966555645">
         <mark key="[" line="90" column="0" />
