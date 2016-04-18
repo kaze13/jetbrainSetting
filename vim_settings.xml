@@ -34,16 +34,6 @@
         <mark key="^" line="25" column="85" />
         <mark key="." line="25" column="85" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/manager/TDAgentManagerAnsibleImpl.java" timestamp="1458895503042">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/role/Role.java" timestamp="1459219116896">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="49" />
-        <mark key="." line="17" column="49" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/ansible-playbook/td-agent/test2.yml" timestamp="1458622921825">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="21" />
@@ -91,6 +81,12 @@
         <mark key="]" line="13" column="23" />
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/roleBoard.js" timestamp="1460964749163">
+        <mark key="[" line="339" column="78" />
+        <mark key="]" line="338" column="11" />
+        <mark key="^" line="338" column="11" />
+        <mark key="." line="338" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskDetail.js" timestamp="1459147424009">
         <mark key="[" line="24" column="0" />
@@ -254,9 +250,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1459149835841">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/package.json" timestamp="1460963433561" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/config/ConfigManager.java" timestamp="1457504386273">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="15" />
@@ -341,14 +335,6 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="/a.sql" timestamp="1459145219750">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/main/main.js" timestamp="1458801684952">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/middleware/ansible/AnsibleServiceTest.java" timestamp="1458037798854">
         <mark key="[" line="20" column="81" />
         <mark key="]" line="24" column="0" />
@@ -379,14 +365,17 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1458885022152">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/log/logBlock.js" timestamp="1458885486221">
         <mark key="[" line="13" column="58" />
         <mark key="]" line="13" column="58" />
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="58" />
+      </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/test/java/com/worksap/company/operation/middleware/role/RoleServiceTest.java" timestamp="1460962898583">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="43" column="48" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/spec/MiddlewareManager.java" timestamp="1458037159220">
         <mark key="[" line="20" column="34" />
@@ -665,19 +654,11 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/role/roleBoard.less" timestamp="1458899783604">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/monitor/monitor.js" timestamp="1458801584352">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/chart/chart.js" timestamp="1458705684981">
-        <mark key="[" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/header/header.less" timestamp="1459146725008">
         <mark key="[" line="5" column="14" />
@@ -685,6 +666,7 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/actions/roleboardActions.js" timestamp="1460964839930" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/com/worksap/company/log/LogSearch.java" timestamp="1456902765892">
         <mark key="[" line="30" column="54" />
         <mark key="]" line="30" column="59" />
@@ -770,16 +752,17 @@
         <mark key="^" line="29" column="90" />
         <mark key="." line="29" column="90" />
       </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/middleware/middleware.js" timestamp="1460964514085">
+        <mark key="[" line="18" column="60" />
+        <mark key="]" line="18" column="60" />
+        <mark key="." line="18" column="60" />
+        <mark key="^" line="18" column="60" />
+      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/main/main.js" timestamp="1458704265922">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
         <mark key="^" line="17" column="9" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/application.properties" timestamp="1458899596068">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/resources/ansible-playbook/td-agent/fetch.yml" timestamp="1457593136489">
         <mark key="[" line="5" column="36" />
@@ -817,17 +800,11 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1459223046901">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/markdown/markdownEditor.js" timestamp="1452829883314">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1458813341918">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/manager/TDAgentManagerAnsibleImpl.java" timestamp="1458041209194">
         <mark key="[" line="89" column="0" />
@@ -835,6 +812,7 @@
         <mark key="^" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/resources/ansible-playbook/cassandra/install_cassandra.yml" timestamp="1460962843250" />
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/log/logItem.js" timestamp="1458901627706">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -967,9 +945,6 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="/fragment.java" timestamp="1459140116858">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/agent/TDAgentManagerAnsibleImplTest.java" timestamp="1457498128842">
         <mark key="[" line="30" column="72" />
         <mark key="]" line="30" column="77" />
@@ -1092,11 +1067,11 @@
       <jump line="39" column="20" filename="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/actions/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Connections</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJyZWRkaXRcPg==</text>
@@ -1104,32 +1079,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IExpc3RJdGVtIGZyb20gJ21hdGVyaWFsLXVpL2xpYi9saXN0cy9saXN0LWl0ZW0nOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text encoding="base64">CiAgb25Ib3N0U2VsZWN0ZWQoaW5kZXgpIHsKICAgIHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkSG9zdHM6aW5kZXh9KTsKICAgIGxldCBzZWxlY3RlZEhvc3QgPSB0aGlzLmdldFNlbGVjdGVkSG9zdHMoaW5kZXgsIHRoaXMuZ2V0SG9zdHMoKSk7CiAgICBpZihzZWxlY3RlZEhvc3QubGVuZ3RoID4gMCl7CiAgICAgIGxldCBzZWxlY3RlZEhvc3RJZHMgPSBzZWxlY3RlZEhvc3QubWFwKGhvc3Q9Pmhvc3QuZ2V0KCdpZCcpKTsKICAgICAgdGhpcy5wcm9wcy5kaXNwYXRjaChBY3Rpb25zLmZldGNoUm9sZVN0YXR1cyhzZWxlY3RlZEhvc3RJZHMpKTsKICAgIH0KICB9</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc2VsZWN0ZWRIb3N0czpudWxsCg==</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnN0YXRlLnNlbGVjdGVkSG9zdHMubWFwKGhvc3QgPT4KICAgICAgICAgICAgICA8SG9zdERldGFpbCBrZXk9e2hvc3QuZ2V0KCdpZCcpfSByZWFkQ29uZmlnPXt0aGlzLmhhbmRsZU9wZW5Db25maWdEaWFsb2d9CiAgICAgICAgICAgICAgICAgICAgICAgICAgcm9sZVN0YXR1cz17dGhpcy5wcm9wcy5yb2xlU3RhdHVzLmdldChob3N0LmdldCgnaWQnKS50b1N0cmluZygpKX0KICAgICAgICAgICAgICAgICAgICAgICAgICBob3N0PXtob3N0fQogICAgICAgICAgICAgIC8+KSB9</text>
       </register>
-      <register name="5" type="4">
-        <text>u</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZGlzcGF0Y2goQWN0aW9ucy5jaG9vc2VIb3N0cyhpbmRleCkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>Connections</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>Connections</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>onActive</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
