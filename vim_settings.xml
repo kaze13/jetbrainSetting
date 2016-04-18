@@ -82,11 +82,11 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/roleBoard.js" timestamp="1460964749163">
-        <mark key="[" line="339" column="78" />
-        <mark key="]" line="338" column="11" />
-        <mark key="^" line="338" column="11" />
-        <mark key="." line="338" column="11" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/roleBoard.js" timestamp="1460967004524">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="240" column="15" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskDetail.js" timestamp="1459147424009">
         <mark key="[" line="24" column="0" />
@@ -250,6 +250,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/roleBoard.less" timestamp="1460965998680" />
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/package.json" timestamp="1460963433561" />
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/middleware/config/ConfigManager.java" timestamp="1457504386273">
         <mark key="[" line="2" column="7" />
@@ -752,17 +753,17 @@
         <mark key="^" line="29" column="90" />
         <mark key="." line="29" column="90" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/middleware/middleware.js" timestamp="1460964514085">
-        <mark key="[" line="18" column="60" />
-        <mark key="]" line="18" column="60" />
-        <mark key="." line="18" column="60" />
-        <mark key="^" line="18" column="60" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/main/main.js" timestamp="1458704265922">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
         <mark key="^" line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/middleware.js" timestamp="1460966555645">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="90" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/resources/ansible-playbook/td-agent/fetch.yml" timestamp="1457593136489">
         <mark key="[" line="5" column="36" />
@@ -1071,7 +1072,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Connections</text>
+        <text>Apply</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJyZWRkaXRcPg==</text>
@@ -1083,28 +1084,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgb25Ib3N0U2VsZWN0ZWQoaW5kZXgpIHsKICAgIHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkSG9zdHM6aW5kZXh9KTsKICAgIGxldCBzZWxlY3RlZEhvc3QgPSB0aGlzLmdldFNlbGVjdGVkSG9zdHMoaW5kZXgsIHRoaXMuZ2V0SG9zdHMoKSk7CiAgICBpZihzZWxlY3RlZEhvc3QubGVuZ3RoID4gMCl7CiAgICAgIGxldCBzZWxlY3RlZEhvc3RJZHMgPSBzZWxlY3RlZEhvc3QubWFwKGhvc3Q9Pmhvc3QuZ2V0KCdpZCcpKTsKICAgICAgdGhpcy5wcm9wcy5kaXNwYXRjaChBY3Rpb25zLmZldGNoUm9sZVN0YXR1cyhzZWxlY3RlZEhvc3RJZHMpKTsKICAgIH0KICB9</text>
+        <text>import {
+  Row,
+  Col
+} from 'react-flexgrid';</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0ZWRIb3N0czpudWxsCg==</text>
+      <register name="3" type="4">
+        <text>Apply</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnN0YXRlLnNlbGVjdGVkSG9zdHMubWFwKGhvc3QgPT4KICAgICAgICAgICAgICA8SG9zdERldGFpbCBrZXk9e2hvc3QuZ2V0KCdpZCcpfSByZWFkQ29uZmlnPXt0aGlzLmhhbmRsZU9wZW5Db25maWdEaWFsb2d9CiAgICAgICAgICAgICAgICAgICAgICAgICAgcm9sZVN0YXR1cz17dGhpcy5wcm9wcy5yb2xlU3RhdHVzLmdldChob3N0LmdldCgnaWQnKS50b1N0cmluZygpKX0KICAgICAgICAgICAgICAgICAgICAgICAgICBob3N0PXtob3N0fQogICAgICAgICAgICAgIC8+KSB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0ICcuL3JvbGVCb2FyZC5sZXNzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZGlzcGF0Y2goQWN0aW9ucy5jaG9vc2VIb3N0cyhpbmRleCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IE1pZGRsZXdhcmUgZnJvbSAnLi4vY29tcG9uZW50cy9taWRkbGV3YXJlL21pZGRsZXdhcmUnOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>Connections</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InJvbGUtYm9hcmQiPgogICAgICAgIDxSb3cgY2xhc3NOYW1lPSJyb2xlLWJvYXJkLWJvZHkiPgogICAgICAgICAKICAgICAgICAgCiAgICAgICAgPC9Sb3c+CgogICAgICA8L2Rpdj4KICAgICAgPE1pZGRsZXdhcmUgaG9zdHM9e3RoaXMuZ2V0SG9zdHMoKX0gb25Ib3N0U2VsZWN0ZWQ9e3RoaXMub25Ib3N0U2VsZWN0ZWR9CiAgICAgICAgICAgICAgICAgIHNlbGVjdGVkSG9zdEluZGljZXM9e3RoaXMucHJvcHMuc2VsZWN0ZWRIb3N0SW5kaWNlc30vPg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Connections</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text>onActive</text>
+        <text encoding="base64">ICAgPENvbCBjbGFzc05hbWU9ImNvbC14cy05Ij4KICAgICAgICAgICAKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvbGUtYm9hcmQtYWN0aW9uIj4KICAgICAgICAgICAgIAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIAogICAgICAgICAgPC9Db2w+</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
