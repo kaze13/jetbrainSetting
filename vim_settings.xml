@@ -116,7 +116,6 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/middleware/api.js" timestamp="1461061503946" />
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskService.java" timestamp="1461055435509">
         <mark key="[" line="154" column="65" />
         <mark key="]" line="154" column="65" />
@@ -345,11 +344,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/controller/HostController.java" timestamp="1461056831810">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="29" column="43" />
-        <mark key="." line="29" column="43" />
-        <mark key="^" line="29" column="43" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/controller/HostController.java" timestamp="1461065291768">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="29" />
+        <mark key="^" line="40" column="29" />
+        <mark key="." line="40" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/actions/configActions.js" timestamp="1461047561712">
         <mark key="[" line="0" column="29" />
@@ -393,23 +392,17 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/actions/roleboardActions.js" timestamp="1461039205467">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/com/worksap/company/log/LogSearch.java" timestamp="1456902765892">
         <mark key="[" line="30" column="54" />
         <mark key="]" line="30" column="59" />
         <mark key="." line="30" column="59" />
         <mark key="^" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/pom.xml" timestamp="1459140904144">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/pom.xml" timestamp="1461065467739">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
         <mark key="^" line="43" column="20" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/WEB-INF/page/index.jsp" timestamp="1458903715458">
         <mark key="[" line="10" column="27" />
@@ -477,10 +470,11 @@
       <file name="/Dummy.txt" timestamp="1458813341918">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/app/app.js" timestamp="1461058389722">
-        <mark key="]" line="26" column="21" />
-        <mark key="^" line="26" column="21" />
-        <mark key="." line="26" column="21" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/app/app.js" timestamp="1461065207409">
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/agent/TDAgentManagerTest.java" timestamp="1457342162340">
         <mark key="[" line="30" column="93" />
@@ -517,12 +511,6 @@
         <mark key="]" line="5" column="55" />
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="55" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/package.json" timestamp="1461060843866">
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="53" column="27" />
-        <mark key="^" line="53" column="27" />
-        <mark key="." line="53" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/createTaskDialog.js" timestamp="1458186511457">
         <mark key="[" line="96" column="17" />
@@ -575,13 +563,6 @@
         <mark key="^" line="11" column="60" />
         <mark key="." line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/actions/actions.js" timestamp="1459234350761">
-        <mark key="'" line="45" column="20" />
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="9" column="44" />
-        <mark key="." line="9" column="44" />
-        <mark key="^" line="9" column="44" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskRecordService.java" timestamp="1459145634449">
         <mark key="[" line="30" column="55" />
         <mark key="]" line="29" column="68" />
@@ -623,11 +604,6 @@
         <mark key="]" line="48" column="64" />
         <mark key="^" line="48" column="64" />
         <mark key="." line="48" column="64" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/host/host.js" timestamp="1461051704731">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskExecution.java" timestamp="1458628738686">
         <mark key="[" line="29" column="8" />
@@ -678,7 +654,7 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/reducers/nodesPanelReducer.js" timestamp="1461060836857">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/reducers/nodesPanelReducer.js" timestamp="1461064890848">
         <mark key="[" line="67" column="17" />
         <mark key="]" line="52" column="2" />
         <mark key="^" line="52" column="2" />
@@ -842,7 +818,7 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/middlewareBoard.js" timestamp="1461057868044">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/middlewareBoard.js" timestamp="1461064017586">
         <mark key="'" line="77" column="18" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -879,11 +855,11 @@
         <mark key="." line="23" column="86" />
         <mark key="^" line="23" column="86" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/host/HostSerializer.java" timestamp="1461062446866">
-        <mark key="[" line="32" column="52" />
-        <mark key="]" line="32" column="52" />
-        <mark key="." line="32" column="52" />
-        <mark key="^" line="32" column="52" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/host/HostSerializer.java" timestamp="1461063469163">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/spring-react-example/src/main/webapp/script/app.js" timestamp="1456311021305">
         <mark key="[" line="0" column="1" />
@@ -1040,7 +1016,7 @@
         <mark key="^" line="40" column="11" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/nodesPanel.js" timestamp="1461061253663">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/nodesPanel.js" timestamp="1461063596386">
         <mark key="'" line="145" column="47" />
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="23" />
@@ -1223,8 +1199,8 @@
       <jump line="25" column="30" filename="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/actions/taskActions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>temSerializer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>temSerializer</text>
@@ -1235,34 +1211,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBqZ2VuLndyaXRlU3RyaW5nRmllbGQoInVzZXJuYW1lIiwgdmFsdWUuZ2V0VXNlcm5hbWUoKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>temSerializer</text>
-      </register>
-      <register name="2" type="4">
-        <text>I</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIDxyZXBvc2l0b3J5PgogICAgICAgIDxzbmFwc2hvdHM+CiAgICAgICAgICAgIDxlbmFibGVkPmZhbHNlPC9lbmFibGVkPgogICAgICAgIDwvc25hcHNob3RzPgogICAgICAgIDxpZD5iaW50cmF5LW9lbWJlZGxlci1tYXZlbjwvaWQ+CiAgICAgICAgPG5hbWU+YmludHJheTwvbmFtZT4KICAgICAgICA8dXJsPmh0dHA6Ly9kbC5iaW50cmF5LmNvbS9vZW1iZWRsZXIvbWF2ZW48L3VybD4KICAgIDwvcmVwb3NpdG9yeT4=</text>
+      </register>
+      <register name="4" type="4">
+        <text>temSerializer</text>
+      </register>
       <register name="5" type="4">
+        <text>I</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>/**
  * Created by kaze13 on 16-4-19.
  */</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqZ2VuLndyaXRlTnVtYmVyKCk7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>, value.getUsername()</text>
-      </register>
-      <register name="9" type="4">
-        <text>writeStringField</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
