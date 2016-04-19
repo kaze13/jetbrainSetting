@@ -82,11 +82,10 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/roleBoard.js" timestamp="1461033722181">
-        <mark key="[" line="239" column="20" />
-        <mark key="]" line="249" column="24" />
-        <mark key="^" line="249" column="24" />
-        <mark key="." line="249" column="24" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/container/roleBoard.js" timestamp="1461035009267">
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="337" column="0" />
+        <mark key="." line="337" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskDetail.js" timestamp="1459147424009">
         <mark key="[" line="24" column="0" />
@@ -94,11 +93,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/host/registerHostDialog.js" timestamp="1459233552912">
-        <mark key="[" line="73" column="21" />
-        <mark key="]" line="73" column="21" />
-        <mark key="^" line="73" column="47" />
-        <mark key="." line="73" column="21" />
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/host/registerHostDialog.js" timestamp="1461034653859">
+        <mark key="[" line="61" column="38" />
+        <mark key="]" line="61" column="38" />
+        <mark key="^" line="61" column="28" />
+        <mark key="." line="61" column="38" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/script/components/task/constants/ActionTypes.js" timestamp="1458186765863">
         <mark key="[" line="0" column="13" />
@@ -307,6 +306,7 @@
         <mark key="." line="68" column="108" />
         <mark key="^" line="68" column="108" />
       </file>
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/reducers/roleBoardReducer.js" timestamp="1461034471196" />
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskDetail.less" timestamp="1458819247433">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="23" />
@@ -416,7 +416,7 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskboard.js" timestamp="1461033730640">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/task/taskboard.js" timestamp="1461034459107">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -674,7 +674,7 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/actions/roleboardActions.js" timestamp="1461033998033">
+      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/actions/roleboardActions.js" timestamp="1461034453722">
         <mark key="[" line="556" column="47" />
         <mark key="]" line="556" column="47" />
         <mark key="^" line="556" column="35" />
@@ -1080,11 +1080,11 @@
       <jump line="39" column="20" filename="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/actions/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHJlZ2lzdGVySG9zdERhdGE9e3RoaXMucHJvcHMucmVnaXN0ZXJIb3N0RGF0YX0=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJyZWRkaXRcPg==</text>
@@ -1092,32 +1092,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IExpc3RJdGVtIGZyb20gJ21hdGVyaWFsLXVpL2xpYi9saXN0cy9saXN0LWl0ZW0nOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">KyAnJnRhcmdldFBhdGg9JyArIHRhcmdldFBhdGg=</text>
+        <text encoding="base64">IHJlZ2lzdGVySG9zdERhdGE9e3RoaXMucHJvcHMucmVnaXN0ZXJIb3N0RGF0YX0=</text>
       </register>
       <register name="3" type="4">
-        <text>hostId</text>
+        <text>.get('newHosts')</text>
       </register>
       <register name="4" type="4">
-        <text>configId</text>
+        <text>props</text>
       </register>
       <register name="5" type="4">
-        <text>config-update?configId=</text>
+        <text>props</text>
       </register>
       <register name="6" type="4">
-        <text>expport</text>
+        <text>.get('newUserName')</text>
       </register>
       <register name="7" type="4">
-        <text>Clusters</text>
+        <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZWFjdCI6ICJeMTUuMC4xIiwK</text>
+      <register name="8" type="4">
+        <text>.get('newUserName')</text>
       </register>
       <register name="9" type="4">
-        <text>^0.2.1</text>
+        <text>props</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
