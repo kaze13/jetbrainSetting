@@ -177,12 +177,6 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="/a.sql" timestamp="1459145219750">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1458885022152">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/middleware/manager/TDAgentManagerAnsibleImplTest.java" timestamp="1458037764851">
         <mark key="[" line="31" column="78" />
         <mark key="]" line="46" column="39" />
@@ -224,9 +218,6 @@
         <mark key="]" line="23" column="86" />
         <mark key="." line="23" column="86" />
         <mark key="^" line="23" column="86" />
-      </file>
-      <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/components/chart/chart.js" timestamp="1458705684981">
-        <mark key="[" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/task/TaskRecordRepository.java" timestamp="1459145614038">
         <mark key="[" line="14" column="67" />
@@ -311,9 +302,6 @@
         <mark key="]" line="26" column="9" />
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1459149835841">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/markdown/app/component/MarkdownEditor.js" timestamp="1456888250823">
         <mark key="[" line="77" column="0" />
@@ -477,9 +465,6 @@
         <mark key="." line="7" column="39" />
         <mark key="^" line="7" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1459223046901">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/actions/roleActions.js" timestamp="1461047549950">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="5" column="24" />
@@ -491,9 +476,6 @@
         <mark key="]" line="48" column="14" />
         <mark key="^" line="48" column="14" />
         <mark key="." line="48" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1458813341918">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/main/java/com/worksap/company/operation/com/worksap/company/elasticsearch/Client.java" timestamp="1456455908055">
         <mark key="[" line="4" column="13" />
@@ -592,9 +574,6 @@
         <mark key="]" line="7" column="68" />
         <mark key="^" line="7" column="68" />
         <mark key="." line="7" column="68" />
-      </file>
-      <file name="/fragment.java" timestamp="1461062424393">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/.eslintrc.js" timestamp="1459218805396">
         <mark key="[" line="1" column="0" />
@@ -1075,6 +1054,7 @@
         <mark key="." line="35" column="58" />
         <mark key="^" line="35" column="58" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/io/RandomAccessFile.java" timestamp="1466520371129" />
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/webapp/WEB-INF/page/index.jsp" timestamp="1458903715458">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="20" column="88" />
