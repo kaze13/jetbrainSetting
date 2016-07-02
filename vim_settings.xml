@@ -170,7 +170,12 @@
         <mark key="^" line="13" column="69" />
         <mark key="." line="13" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/netty/pom.xml" timestamp="1467385516129" />
+      <file name="$USER_HOME$/Documents/Develop/netty/pom.xml" timestamp="1467427715512">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="34" column="51" />
+        <mark key="^" line="34" column="51" />
+        <mark key="." line="34" column="51" />
+      </file>
       <file name="$USER_HOME$/Develop/operation-tool/src/test/java/com/worksap/company/operation/middleware/instance/InstanceServiceTest.java" timestamp="1457517185977">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -977,6 +982,7 @@
         <mark key="." line="27" column="31" />
         <mark key="^" line="27" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/netty/example/src/main/java/io/netty/example/socksproxy/SocksServerUtils.java" timestamp="1467427905811" />
       <file name="$USER_HOME$/Develop/company-operation-monitoring/middleware-management-front/src/main/java/com/worksap/company/operation/middleware/ansible/Playbook.java" timestamp="1458814943860">
         <mark key="[" line="11" column="7" />
         <mark key="]" line="12" column="7" />
